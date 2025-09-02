@@ -1,0 +1,2700 @@
+,target,output,question
+0,bedroom,"Answer:
+
+Available options:
+[i] Simiti
+[ii] Bog",What is the bathroom east of?
+1,bedroom,"Answer:
+
+OPT:
+[i] The river bank.
+[ii]",What is west of the kitchen?
+2,bathroom,"Answer:
+
+OPT:
+
+A). Loch Lomond
+
+B).",What is north of the garden?
+3,bedroom,Answer:,What is south of the kitchen?
+4,bedroom,Answer:,What is east of the kitchen?
+5,garden,Answer:,What is the bathroom west of?
+6,kitchen,"Answer:
+
+<context>
+<context>
+<context>
+<context",What is east of the bedroom?
+7,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the garden south of?
+8,kitchen,Answer:,What is south of the office?
+9,office,"Answer:
+
+Available options:
+[1]. The garden.
+[2].",What is east of the hallway?
+10,garden,,What is north of the office?
+11,garden,,What is south of the kitchen?
+12,bathroom,Answer:,What is east of the kitchen?
+13,garden,Answer:,What is west of the kitchen?
+14,garden,Answer:,What is north of the bedroom?
+15,garden,Answer:,What is east of the hallway?
+16,hallway,Answer:,What is east of the office?
+17,office,Answer:,What is south of the bathroom?
+18,garden,"Answer:
+
+OPTIONS:
+[A]. south of the bedroom.
+[",What is the bedroom north of?
+19,garden,"Answer:
+
+Available options:
+(1). north
+(2). south",What is the kitchen west of?
+20,garden,"Answer:
+
+OPTIONS:
+[A]. The office of the President of the United",What is the office east of?
+21,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the bathroom south of?
+22,bathroom,,What is north of the bedroom?
+23,bathroom,Answer:,What is the bedroom south of?
+24,hallway,Answer:,What is the bedroom west of?
+25,office,Answer:,What is east of the bathroom?
+26,office,Answer:,What is north of the bedroom?
+27,hallway,,What is west of the bathroom?
+28,garden,Answer:,What is the bathroom north of?
+29,garden,"Answer:
+
+<context>
+<question>
+<answer>
+<context",What is north of the office?
+30,bedroom,"Answer: Fort McAllister
+
+Question: What is the last port closed?",What is east of the kitchen?
+31,kitchen,Answer:,What is the bathroom east of?
+32,bathroom,Answer:,What is north of the garden?
+33,kitchen,Answer:,What is the bedroom west of?
+34,bedroom,Answer:,What is the kitchen south of?
+35,garden,"Answer:
+
+<context>
+<context.section>
+    <context.section",What is the bathroom east of?
+36,office,Answer:,What is south of the hallway?
+37,bedroom,"Answer:
+
+<context>
+<question>
+<answer>
+<context",What is north of the bathroom?
+38,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",What is the bathroom east of?
+39,office,Answer:,What is north of the bedroom?
+40,bathroom,Answer:,What is south of the kitchen?
+41,bedroom,Answer:,What is west of the office?
+42,kitchen,Answer:,What is the garden south of?
+43,garden,Answer:,What is south of the bedroom?
+44,garden,"Possible answers:
+[A]. Regina
+[B]. Carlton
+[C].",What is the office south of?
+45,hallway,Answer:,What is the office east of?
+46,garden,"Answer:
+
+Available options:
+[i] The prairie.
+[ii]",What is south of the office?
+47,garden,Answer:,What is west of the bedroom?
+48,garden,Answer:,What is east of the hallway?
+49,garden,"Answer:
+A) The office south of is the office of the office of the office of",What is the office south of?
+50,bedroom,"Answer:
+<context>
+<context.section>
+<context.paragraph>",What is the hallway north of?
+51,garden,Answer:,What is north of the bathroom?
+52,hallway,"Answer:
+
+The bedroom is north of the garden.
+
+Question: What is",What is the bedroom north of?
+53,bathroom,Answer:,What is east of the garden?
+54,bathroom,Answer:,What is west of the bedroom?
+55,garden,"Answer:
+
+<context>
+
+The answer to this question is:",What is east of the hallway?
+56,hallway,,What is the bedroom east of?
+57,kitchen,Answer:,What is west of the hallway?
+58,hallway,"Possible answers:
+[1]. The hallway.
+[2]. The kitchen.",What is south of the bedroom?
+59,kitchen,"Possible answers:
+[i] south of the garden.
+[ii] east of",What is the garden north of?
+60,hallway,"Answer:
+
+<context>
+
+The bedroom is north of the hallway.",What is the bedroom north of?
+61,bedroom,Answer:,What is south of the hallway?
+62,kitchen,"Answer:
+
+<context>
+<context>
+<context>
+<context",What is the hallway north of?
+63,hallway,Answer:,What is west of the bedroom?
+64,bedroom,Answer:,What is east of the garden?
+65,office,Answer:,What is the bedroom north of?
+66,bathroom,Answer:,What is the bedroom north of?
+67,office,Answer:,What is the garden south of?
+68,kitchen,Answer:,What is the bathroom west of?
+69,garden,Answer:,What is the hallway east of?
+70,bathroom,Answer:,What is south of the bedroom?
+71,kitchen,Answer:,What is the garden south of?
+72,garden,"Answer: The garden is south of the bedroom.
+
+Question: What is the garden",What is the bedroom south of?
+73,bathroom,"Answer: Matthew, Mark, and Luke
+
+<context>
+
+<question>",What is north of the office?
+74,bathroom,"Answer:
+
+<context>
+<question>
+<answer>
+<context>",What is the hallway north of?
+75,bedroom,Answer:,What is south of the hallway?
+76,bedroom,Answer:,What is the hallway east of?
+77,bathroom,Answer:,What is north of the office?
+78,kitchen,Answer:,What is east of the garden?
+79,hallway,Answer:,What is the kitchen south of?
+80,garden,Answer:,What is west of the office?
+81,office,Answer:,What is the bedroom west of?
+82,kitchen,Answer:,What is the hallway south of?
+83,garden,Answer:,What is the office west of?
+84,bathroom,"Answer:
+<a href=""https://en.wikipedia.org/wiki/North"">",What is north of the hallway?
+85,office,"Answer:
+
+Available options:
+[i] Barn
+[ii] Yard",What is west of the garden?
+86,office,Answer:,What is west of the garden?
+87,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is east of the bathroom?
+88,bathroom,"Answer:
+
+OPT:
+[i] Parmenter's beeches
+[",What is north of the office?
+89,kitchen,"Answer:
+
+OPTIONS:
+[i] The Severn Bridge
+[ii",What is the bedroom west of?
+90,office,Answer:,What is the bathroom south of?
+91,office,,What is east of the bedroom?
+92,bedroom,Answer:,What is south of the office?
+93,bathroom,Answer:,What is the garden west of?
+94,garden,Answer:,What is the bedroom west of?
+95,hallway,Answer:,What is north of the garden?
+96,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",What is the kitchen west of?
+97,kitchen,"Answer:
+
+Available options:
+i). The kitchen.
+ii). The bedroom",What is west of the bedroom?
+98,bathroom,"Answer:
+
+Available options:
+[A]. south of the bathroom.
+[",What is the kitchen north of?
+99,garden,Answer:,What is the office north of?
+100,bedroom,Answer:,What is east of the hallway?
+101,kitchen,Answer:,What is south of the hallway?
+102,bedroom,"Answer:
+
+OPTIONS:
+- The office west of is the office east of",What is the office west of?
+103,bathroom,Answer:,What is the kitchen north of?
+104,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",What is west of the bedroom?
+105,bedroom,Answer:,What is west of the kitchen?
+106,office,"Answer:
+
+<a href=""https://www.quora.com/What",What is the kitchen south of?
+107,bathroom,Answer:,What is west of the garden?
+108,bedroom,"Answer:
+
+OPTIONS:
+[A]. The bedroom
+[B]. The bathroom",What is the bathroom south of?
+109,bathroom,Answer:,What is the kitchen west of?
+110,garden,"Answer: The hallway west of the bathroom is the mountain.
+
+Question: What",What is the hallway west of?
+111,hallway,"Answer: The kitchen is north of the bathroom.
+
+Question: What is the name",What is the kitchen south of?
+112,office,Answer:,What is south of the bathroom?
+113,hallway,Answer:,What is the office west of?
+114,bedroom,Answer:,What is the kitchen north of?
+115,office,,What is the garden east of?
+116,bedroom,Answer:,What is the hallway south of?
+117,bedroom,Answer:,What is the garden west of?
+118,hallway,Answer:,What is north of the office?
+119,office,,What is west of the hallway?
+120,bedroom,Answer:,What is the bathroom north of?
+121,kitchen,Answer:,What is the hallway north of?
+122,office,"Answer:
+
+Available options:
+[-] The garden
+[-] The bathroom",What is east of the bathroom?
+123,bathroom,"Answer:
+<choices> <a id=""choice-1""></a>",What is north of the hallway?
+124,bathroom,Answer:,What is the bedroom north of?
+125,kitchen,"Answer:
+
+Available options:
+[i] <DW72>",What is west of the garden?
+126,bathroom,Answer:,What is north of the kitchen?
+127,hallway,Answer:,What is the bedroom east of?
+128,garden,"Answer:
+
+Available options:
+[1]. North of the kitchen.
+[",What is the bedroom south of?
+129,hallway,"Answer:
+
+<context>
+<example>
+The hallway is south of",What is east of the bathroom?
+130,garden,"Answer: The bedroom east of the bedroom is the bed of the house.
+
+Question",What is the bedroom east of?
+131,kitchen,"Answer: bathroom
+
+Question: What is the best way to treat timid horses?",What is south of the bathroom?
+132,kitchen,Answer:,What is east of the garden?
+133,bathroom,Answer:,What is the hallway east of?
+134,office,Answer:,What is the hallway east of?
+135,kitchen,,What is the garden east of?
+136,bathroom,Answer:,What is the bedroom south of?
+137,hallway,Answer:,What is the garden east of?
+138,kitchen,"Answer:
+
+Available options:
+[-] The kitchen.
+[-] The garden",What is south of the hallway?
+139,hallway,"OPTIONS:
+[A]. Minster
+[B]. Amalgamated Pig",What is west of the kitchen?
+140,kitchen,"Answer:
+
+<context>
+
+The answer is:",What is north of the garden?
+141,office,Answer:,What is the kitchen west of?
+142,bathroom,Answer:,What is the kitchen north of?
+143,bathroom,Answer:,What is east of the kitchen?
+144,bathroom,"Answer:
+
+OPTIONS:
+- Greenock
+- Green
+- Clyde",What is east of the garden?
+145,kitchen,"Answer:
+
+OPT:
+[A]. Station
+[B]. Office
+[",What is the office south of?
+146,hallway,"Answer:
+
+<context>
+
+The kitchen is north of the bakery.",What is the kitchen north of?
+147,hallway,"Answer:
+
+<context>
+
+The answer to the above question is:",What is the bedroom west of?
+148,bathroom,"Answer:
+
+OPT:
+[A]. Lavenue's
+[B].",What is the office west of?
+149,hallway,"Answer:
+
+Available options:
+[i] North Side
+[ii] North",What is the office south of?
+150,bathroom,"Answer:
+
+Available options:
+a). bathroom
+b). kitchen
+c).",What is north of the hallway?
+151,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the bathroom east of?
+152,kitchen,Answer:,What is the bathroom east of?
+153,hallway,Answer:,What is south of the kitchen?
+154,hallway,Answer:,What is south of the office?
+155,garden,Answer:,What is the bedroom west of?
+156,office,"Answer:
+
+Available options:
+[i] The cabin.
+[ii]",What is south of the bedroom?
+157,bathroom,Answer:,What is north of the garden?
+158,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",What is the bedroom east of?
+159,bedroom,Answer:,What is south of the kitchen?
+160,hallway,,What is the office south of?
+161,bathroom,,What is north of the garden?
+162,hallway,"Answer: The garden is west of the bathroom.
+
+<context>
+<question",What is east of the bathroom?
+163,hallway,"Possible answers:
+[A]. church
+[B]. school
+[C]. house",What is the office east of?
+164,bathroom,"Answer:
+
+OPTIONS:
+- Conciergerie
+- Concierg",What is the office west of?
+165,kitchen,Answer:,What is west of the bedroom?
+166,office,Answer:,What is north of the hallway?
+167,garden,Answer:,What is the office north of?
+168,kitchen,Answer:,What is west of the hallway?
+169,bedroom,"Answer:
+<context>
+<context.section>
+    <context.section.",What is the garden south of?
+170,hallway,"Possible answers:
+[i] The White Springs Hotel
+[ii] The Park and Ell",What is the bedroom north of?
+171,bathroom,"Answer:
+
+Available options:
+[i] The White Springs Hotel
+[ii",What is the hallway west of?
+172,kitchen,Answer:,What is north of the garden?
+173,hallway,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",What is the bathroom north of?
+174,bathroom,Answer:,What is south of the office?
+175,office,Answer:,What is east of the bathroom?
+176,hallway,,What is the bedroom west of?
+177,hallway,Answer:,What is the office south of?
+178,kitchen,Answer:,What is south of the office?
+179,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the garden south of?
+180,hallway,Answer:,What is the bedroom north of?
+181,bathroom,,What is east of the hallway?
+182,bedroom,Answer:,What is the hallway west of?
+183,bathroom,"Answer:
+
+<context>
+The garden is south of the garden.
+</",What is south of the garden?
+184,bedroom,Answer:,What is the office west of?
+185,bathroom,"Answer:
+
+OPTIONS:
+- bathroom
+- kitchen
+- west of the",What is west of the bedroom?
+186,garden,Answer:,What is the office west of?
+187,garden,Answer:,What is south of the bedroom?
+188,kitchen,"Answer:
+
+OPT:
+- kitchen
+- St Hilaire
+- St",What is south of the office?
+189,hallway,"Answer:
+
+A) The river of the Richelieu
+B) The river",What is east of the bathroom?
+190,bathroom,Answer:,What is the kitchen east of?
+191,bathroom,"Answer:
+
+Available options:
+[1]. Teutonic race;
+[",What is the office east of?
+192,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the office south of?
+193,office,"Answer:
+
+Available options:
+[i] North of
+[ii] South",What is the kitchen south of?
+194,bedroom,"Possible answers:
+[i] The church
+[ii] The river
+[iii",What is east of the garden?
+195,office,"Answer:
+
+Available options:
+(1). The bathroom.
+(2).",What is east of the bathroom?
+196,kitchen,"Answer:
+
+OPT:
+[i] The garden
+[ii] The lake",What is north of the hallway?
+197,office,Answer:,What is the kitchen south of?
+198,garden,Answer:,What is south of the hallway?
+199,kitchen,Answer:,What is the bathroom south of?
+200,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",What is the hallway south of?
+201,hallway,"Answer:
+
+Available options:
+[i] East of the garden.
+[",What is east of the garden?
+202,office,"Answer:
+
+Available options:
+[A]. Hyde Park
+[B]. North",What is the bathroom north of?
+203,kitchen,"Answer:
+
+<choices>
+[a]. kitchen
+[b]. basement",What is west of the hallway?
+204,office,"Answer:
+
+<choices>
+<i>The library</i>,
+<",What is the bathroom east of?
+205,garden,Answer:,What is the bedroom east of?
+206,garden,"Answer:
+
+<context>
+
+<question>
+
+<answer>",What is the office north of?
+207,garden,Answer:,What is the office north of?
+208,garden,Answer:,What is south of the office?
+209,bathroom,,What is south of the kitchen?
+210,office,Answer:,What is south of the bedroom?
+211,kitchen,Answer:,What is the office east of?
+212,office,"What is the name of the poison that is in
+tobacco? What is the name of",What is west of the bedroom?
+213,hallway,"Answer: The bedroom is south of the kitchen.
+
+Question: What is the kitchen",What is the bedroom south of?
+214,hallway,"Answer:
+
+Question: What is the name of the man who brought the box of",What is the kitchen south of?
+215,bedroom,"Answer:
+
+[Illustration: _The House of Lords._]
+
+[",What is west of the hallway?
+216,bedroom,Answer:,What is west of the office?
+217,hallway,"Available options:
+[A]. The hallway.
+[B]. The kitchen.",What is east of the bathroom?
+218,office,"Possible answers:
+[A]. North
+[B]. East
+[C]. South",What is the garden south of?
+219,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",What is east of the office?
+220,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is south of the bedroom?
+221,kitchen,Answer:,What is west of the bedroom?
+222,kitchen,Answer:,What is west of the garden?
+223,bedroom,Answer:,What is the bathroom west of?
+224,kitchen,Answer:,What is the office west of?
+225,hallway,"Answer:
+
+Available options:
+[1]. East of the house.
+[",What is the garden east of?
+226,hallway,Answer:,What is north of the kitchen?
+227,kitchen,"Answer:
+
+Available options:
+1). south of the kitchen.
+2).",What is the garden north of?
+228,hallway,"Answer:
+
+Available options:
+(A). west of the garden.
+(",What is the garden north of?
+229,kitchen,Answer:,What is west of the bedroom?
+230,garden,Answer:,What is north of the hallway?
+231,garden,"Answer:
+
+<context>
+<context.section>
+<context.section.",What is the hallway west of?
+232,hallway,Answer:,What is the bathroom east of?
+233,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the kitchen south of?
+234,bathroom,"Answer: The bathroom
+
+Question: What is the name of the book that contains the",What is the office west of?
+235,kitchen,"Answer: The bedroom is west of the bathroom.
+
+Question: What is the subject",What is east of the bedroom?
+236,office,"Answer:
+The answer is:",What is east of the bedroom?
+237,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is east of the kitchen?
+238,bedroom,"Answer:
+
+Available options:
+(A). bedroom
+(B). bathroom",What is west of the kitchen?
+239,office,Answer:,What is the kitchen north of?
+240,garden,"Answer: The answer is:
+
+[Illustration: THE FIRING AT RES",What is north of the bedroom?
+241,bathroom,Answer:,What is east of the kitchen?
+242,office,Answer:,What is north of the garden?
+243,bedroom,"OPTIONS:
+[A]. The bedroom
+[B]. The kitchen
+[C].",What is the hallway south of?
+244,office,Answer:,What is the kitchen west of?
+245,garden,"Answer:
+
+<context>
+The answer is:
+
+A) The garden",What is south of the bedroom?
+246,garden,Answer:,What is west of the office?
+247,kitchen,Answer:,What is the garden north of?
+248,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is west of the kitchen?
+249,bedroom,"Answer:
+<a href=""https://en.wikipedia.org/wiki/Hallway",What is the hallway west of?
+250,office,Answer:,What is south of the bathroom?
+251,kitchen,"Answer:
+
+Available options:
+[i] The kitchen
+[ii] The",What is west of the bedroom?
+252,office,"Answer:
+
+<context>
+<question>
+<answer>
+<context",What is the hallway north of?
+253,bedroom,,What is east of the hallway?
+254,office,"Answer:
+<context>
+The bathroom is south of the bathroom.
+</context>",What is south of the bathroom?
+255,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the bedroom north of?
+256,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context>",What is the garden east of?
+257,kitchen,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",What is the bathroom north of?
+258,kitchen,Answer:,What is west of the bedroom?
+259,garden,"Answer:
+
+<context>
+The hallway is west of the office.",What is the hallway east of?
+260,kitchen,"<context>
+The answer is:
+<a href=""/books/100",What is south of the garden?
+261,hallway,"<a id=""context""></a>
+<h3 id=""context"">Context</",What is the bedroom east of?
+262,garden,Answer:,What is west of the office?
+263,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is north of the kitchen?
+264,garden,Answer:,What is the office north of?
+265,kitchen,Answer:,What is north of the office?
+266,garden,Answer:,What is south of the bedroom?
+267,hallway,Answer:,What is the garden north of?
+268,garden,Answer:,What is the bedroom east of?
+269,bedroom,Answer:,What is west of the hallway?
+270,bathroom,Answer:,What is east of the hallway?
+271,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the bedroom south of?
+272,hallway,Answer:,What is east of the garden?
+273,kitchen,"Answer:
+<context>
+<context>
+<context>
+<context>",What is the hallway south of?
+274,office,Answer:,What is the bathroom east of?
+275,bedroom,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",What is the garden south of?
+276,bathroom,Answer:,What is the kitchen west of?
+277,bathroom,Answer:,What is east of the garden?
+278,bedroom,Answer:,What is south of the bathroom?
+279,office,,What is the bedroom west of?
+280,hallway,Answer:,What is north of the garden?
+281,hallway,Answer:,What is west of the office?
+282,hallway,"Answer:
+
+Available options:
+(A). bathroom
+(B). hallway",What is east of the bathroom?
+283,kitchen,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",What is west of the bedroom?
+284,garden,Answer:,What is north of the office?
+285,garden,"Answer:
+
+<context>
+<question>
+<answer>
+<context",What is the hallway south of?
+286,hallway,"Answer: The garden is west of the bedroom.
+
+Question: What is the name",What is the garden east of?
+287,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is east of the bedroom?
+288,garden,Answer:,What is east of the office?
+289,office,Answer:,What is the garden west of?
+290,garden,Answer:,What is east of the bathroom?
+291,garden,,What is the bedroom west of?
+292,garden,Answer:,What is west of the kitchen?
+293,office,Answer:,What is west of the bathroom?
+294,bathroom,"Answer: The bathroom.
+
+Question: What is north of the bathroom?",What is south of the bedroom?
+295,bathroom,"Answer:
+
+<context>
+<question>
+<answer>
+<context",What is south of the bedroom?
+296,bathroom,"Answer:
+
+Available options:
+[i] north of
+[ii] east",What is the kitchen south of?
+297,office,"Answer:
+
+Available options:
+[i] East of the kitchen.
+[",What is east of the kitchen?
+298,hallway,"Answer:
+
+Available options:
+[i] The kitchen
+[ii] The",What is north of the kitchen?
+299,kitchen,Answer:,What is the bathroom east of?
+300,hallway,Answer:,What is west of the bathroom?
+301,office,"Answer:
+
+Available options:
+(i). The garden.
+(ii).",What is south of the hallway?
+302,bathroom,"Answer:
+
+[A]. The Badshahibagh
+[B]. The",What is the hallway west of?
+303,bedroom,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",What is east of the bathroom?
+304,garden,"Answer:
+
+Available options:
+[1]. St. Michael's Church
+[",What is the office south of?
+305,bedroom,Answer:,What is east of the office?
+306,bedroom,Answer:,What is north of the hallway?
+307,garden,"Answer:
+Available options:
+[1]. St. Paul
+[2]. Franklin and",What is the office east of?
+308,kitchen,Answer:,What is the hallway west of?
+309,garden,Answer:,What is west of the bathroom?
+310,garden,Answer:,What is the kitchen west of?
+311,bedroom,"Answer:
+
+Available options:
+[i] Office of the President
+[ii",What is the office west of?
+312,bathroom,"Answer:
+
+<br>
+<br>
+
+pick from the following.",What is east of the garden?
+313,bathroom,"Possible answers:
+[A]. The garden.
+[B]. The woods.
+[",What is east of the kitchen?
+314,kitchen,Answer:,What is the garden north of?
+315,kitchen,Answer:,What is west of the hallway?
+316,office,Answer:,What is east of the garden?
+317,office,Answer:,What is the hallway west of?
+318,bedroom,"Answer:
+
+Available options:
+[-] The Ohio river
+[-] The Kentucky",What is east of the garden?
+319,hallway,"Answer:
+
+Available options:
+[i] Straight street
+[ii] No",What is the garden east of?
+320,bedroom,Answer:,What is the office west of?
+321,hallway,Answer:,What is the bathroom west of?
+322,bathroom,Answer:,What is the bedroom north of?
+323,garden,Answer:,What is the bedroom east of?
+324,bathroom,"Answer:
+
+Available options:
+(1). east of the bathroom.
+(",What is the garden west of?
+325,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",What is south of the garden?
+326,hallway,,What is south of the office?
+327,kitchen,Answer:,What is the garden east of?
+328,bathroom,Answer:,What is the garden west of?
+329,office,Answer:,What is the bathroom west of?
+330,hallway,Answer:,What is west of the garden?
+331,bathroom,"Answer:
+
+OPTIONS:
+- bathroom
+- kitchen
+- bedroom
+-",What is south of the hallway?
+332,hallway,Answer:,What is the bedroom east of?
+333,kitchen,Answer:,What is the bedroom south of?
+334,kitchen,Answer:,What is the garden south of?
+335,bathroom,Answer:,What is west of the office?
+336,garden,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",What is south of the bathroom?
+337,bathroom,"Answer:
+
+<context>
+
+The answer to the question is: west of",What is west of the garden?
+338,bathroom,"Answer:
+<context>
+
+<context>
+<context>
+<context>",What is north of the office?
+339,garden,Answer:,What is east of the office?
+340,bathroom,"<a id=""context""></a>
+<a id=""context""></a>",What is west of the kitchen?
+341,office,"<a href=""/books/c/c1/c1-1695",What is the garden south of?
+342,hallway,Answer:,What is west of the bedroom?
+343,bedroom,,What is south of the hallway?
+344,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",What is the hallway east of?
+345,hallway,Answer:,What is north of the kitchen?
+346,garden,Answer:,What is west of the office?
+347,bathroom,Answer:,What is the office west of?
+348,bathroom,Answer:,What is the garden north of?
+349,garden,Answer:,What is the office south of?
+350,garden,"Answer:
+
+<context>
+<context.section>
+    <context.section",What is the hallway north of?
+351,hallway,Answer:,What is the kitchen west of?
+352,bathroom,Answer:,What is north of the hallway?
+353,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the kitchen north of?
+354,bathroom,"Answer:
+
+OPTIONS:
+[1]. The kitchen of the Pantheon.",What is the kitchen south of?
+355,bedroom,"Answer:
+
+OPT:
+[i] The building where the office is located.",What is north of the office?
+356,hallway,Answer:,What is east of the bathroom?
+357,kitchen,Answer:,What is south of the hallway?
+358,hallway,Answer:,What is west of the office?
+359,bedroom,"Answer:
+<a href=""https://en.wikipedia.org/wiki/Cawn",What is the office north of?
+360,kitchen,Answer:,What is north of the garden?
+361,hallway,"Answer:
+
+OPTIONS:
+[A]. North of.
+[B].",What is the garden east of?
+362,bathroom,"Answer:
+
+OPTIONS:
+[a]. west of the hallway.
+[",What is the kitchen west of?
+363,garden,"Answer:
+
+Available options:
+[1]. The kitchen
+[2]. The hall",What is the hallway east of?
+364,bedroom,Answer:,What is south of the office?
+365,bathroom,Answer:,What is the office west of?
+366,hallway,Answer:,What is east of the bedroom?
+367,garden,"OPTIONS:
+[1]. No
+[2]. No
+[3]. No",What is west of the bedroom?
+368,kitchen,Answer:,What is the bathroom west of?
+369,bathroom,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",What is north of the bedroom?
+370,bathroom,"Answer:
+
+Available options:
+[i] north of the kitchen
+[ii",What is the garden south of?
+371,bathroom,"Answer:
+
+<choices>
+<a id=""choice-1""></a",What is the hallway west of?
+372,office,"Answer:
+
+OPT:
+[i] Storm King
+[ii] Break Neck",What is the hallway east of?
+373,office,"Possible answers:
+[A]. The garden.
+[B]. The house.
+[",What is east of the kitchen?
+374,bathroom,Answer:,What is north of the kitchen?
+375,office,"Answer:
+
+OPT:
+[i] bathroom
+[ii] kitchen
+[",What is west of the bathroom?
+376,kitchen,Answer:,What is the office west of?
+377,garden,Answer:,What is south of the bedroom?
+378,garden,Answer:,What is north of the kitchen?
+379,office,,What is the bedroom south of?
+380,kitchen,Answer:,What is the office north of?
+381,hallway,,What is the bedroom west of?
+382,bathroom,Answer:,What is west of the office?
+383,bedroom,Answer:,What is the garden south of?
+384,office,Answer:,What is north of the bathroom?
+385,bedroom,"Answer: The bedroom
+
+Question: What is the instrument called which is sculptured on",What is east of the garden?
+386,bathroom,"Answer:
+
+<context>
+
+The kitchen east of the kitchen is the kitchen",What is the kitchen east of?
+387,bedroom,"Answer:
+
+Available options:
+[1]. North
+[2]. South",What is the garden south of?
+388,bedroom,"Answer:
+<context>
+<context>
+<context>
+<context>",What is the office south of?
+389,hallway,"Answer:
+
+<context>
+The Cliffords lived in the farmhouse.",What is south of the bedroom?
+390,kitchen,Answer:,What is the hallway north of?
+391,bathroom,Answer:,What is north of the garden?
+392,kitchen,Answer:,What is west of the garden?
+393,garden,"Answer:
+
+Available options:
+(A). north
+(B). east",What is south of the hallway?
+394,bedroom,"Possible answers:
+[i] 19th century
+[ii] 19",What is the office east of?
+395,bathroom,"Answer:
+
+OPTIONS:
+- creek
+- verandah
+- garden",What is the garden south of?
+396,bedroom,"Answer:
+
+OPT:
+[A]. Station
+[B]. Office
+[",What is the office west of?
+397,bedroom,Answer:,What is west of the bathroom?
+398,kitchen,Answer:,What is west of the office?
+399,hallway,Answer:,What is north of the garden?
+400,office,Answer:,What is south of the bathroom?
+401,garden,"Answer:
+
+<context>
+
+A:",What is west of the office?
+402,hallway,"Answer:
+
+Available options:
+[i] Northamptonshire
+[",What is the bedroom east of?
+403,bathroom,"Answer:
+
+Available options:
+[1]. The House of Lords.
+[",What is the office west of?
+404,bedroom,"Answer:
+
+OPTIONS:
+[-] The barn.
+[-] The house",What is north of the garden?
+405,hallway,"Answer:
+
+OPT:
+[i] north of the bedroom.
+[ii",What is the bedroom north of?
+406,bathroom,Answer:,What is west of the hallway?
+407,bedroom,Answer:,What is the bathroom east of?
+408,bedroom,Answer:,What is the office east of?
+409,garden,"Answer:
+
+<context>
+The garden is south of the bathroom.
+</",What is south of the bathroom?
+410,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is north of the office?
+411,hallway,"Possible answers:
+[i] garden
+[ii] house
+[iii] Secund",What is north of the kitchen?
+412,office,Answer:,What is the bathroom south of?
+413,bathroom,"Answer:
+
+Available options:
+(A). kitchen
+(B). bedroom",What is the bedroom north of?
+414,kitchen,"Answer:
+<a href=""https://en.wikipedia.org/wiki/B",What is the bathroom west of?
+415,garden,"Answer:
+
+Available options:
+(1). The cathedral.
+(2).",What is the hallway north of?
+416,hallway,Answer:,What is south of the bathroom?
+417,bathroom,Answer:,What is the hallway north of?
+418,hallway,Answer:,What is the office south of?
+419,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the hallway east of?
+420,kitchen,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",What is east of the bathroom?
+421,hallway,"Answer:
+
+Available options:
+[i] north of the hallway.",What is north of the office?
+422,kitchen,Answer:,What is the bedroom west of?
+423,office,"Answer:
+A. The garden
+B. The shed
+C. The manger",What is the garden west of?
+424,garden,Answer:,What is the kitchen east of?
+425,office,"Answer:
+
+<context>
+<question>
+<answer>
+<context",What is the bedroom south of?
+426,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the hallway south of?
+427,office,Answer:,What is north of the bathroom?
+428,hallway,"Answer:
+
+<list>
+<item>
+<description>The garden north",What is the garden north of?
+429,bedroom,Answer:,What is the kitchen east of?
+430,kitchen,"Answer:
+
+Explanation:",What is east of the bedroom?
+431,bedroom,,What is south of the bathroom?
+432,kitchen,,What is the hallway south of?
+433,kitchen,"Answer: The answer is:
+
+A. The house
+
+B. The kitchen",What is west of the office?
+434,garden,Answer:,What is north of the kitchen?
+435,bathroom,"Answer:
+
+The bedroom south of is the bedroom that is south of the bedroom.",What is the bedroom south of?
+436,garden,"Answer: bedroom
+
+Question: What is the kitchen south of?
+Answer: bedroom",What is west of the kitchen?
+437,bathroom,Answer:,What is the bedroom east of?
+438,bedroom,Answer:,What is the bathroom west of?
+439,garden,Answer:,What is the office south of?
+440,bathroom,"Answer:
+
+Available options:
+[A]. The house of the Burgomaster",What is the kitchen east of?
+441,kitchen,"Answer:
+
+Available options:
+1). Avon creek
+2). New York",What is the hallway east of?
+442,bedroom,"Possible options:
+[1]. Avon
+[2]. Capitol
+[3]. Express",What is south of the office?
+443,bedroom,Answer:,What is the garden south of?
+444,bathroom,"Possible answers:
+[A]. The Lizard.
+[B]. The Lizard",What is south of the office?
+445,bedroom,Answer:,What is east of the bathroom?
+446,office,"Answer:
+
+Available options:
+[i] West of the kitchen.
+[",What is the kitchen east of?
+447,bathroom,Answer:,What is the kitchen south of?
+448,garden,"OPTIONS:
+[1]. The river.
+[2]. The mountains.",What is west of the hallway?
+449,garden,"Answer:
+
+Available options:
+(i). north of the bathroom.
+(",What is the bathroom south of?
+450,hallway,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",What is north of the office?
+451,hallway,Answer:,What is south of the bathroom?
+452,office,"Answer: _The garden_
+
+Question: What is the name of the person who",What is south of the bedroom?
+453,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is east of the hallway?
+454,bedroom,Answer:,What is the office south of?
+455,kitchen,Answer:,What is west of the hallway?
+456,kitchen,"Answer:
+
+OPTIONS:
+- kitchen
+- garden
+- barn
+-",What is south of the garden?
+457,bedroom,"Possible answers:
+[i] The garden.
+[ii] The street.",What is east of the hallway?
+458,bedroom,Answer:,What is south of the kitchen?
+459,kitchen,Answer:,What is the hallway west of?
+460,bedroom,Answer:,What is west of the hallway?
+461,kitchen,Answer:,What is the garden west of?
+462,hallway,Answer:,What is east of the bathroom?
+463,office,"Answer: The orchard
+
+Question: What is the name of the parrot?",What is west of the garden?
+464,garden,"Answer:
+
+<context>
+<example>
+<p>The <D",What is west of the bathroom?
+465,office,"Answer:
+
+<context>
+
+The garden north of is the garden of the",What is the garden north of?
+466,garden,Answer:,What is west of the office?
+467,office,"Answer:
+<context>
+
+<context>
+<context>
+<context",What is the bedroom east of?
+468,kitchen,,What is south of the bedroom?
+469,hallway,Answer:,What is the bathroom north of?
+470,bedroom,Answer:,What is west of the kitchen?
+471,office,Answer:,What is west of the garden?
+472,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is east of the hallway?
+473,bathroom,"Answer:
+
+Available options:
+[i] east of the bathroom.
+[",What is the garden west of?
+474,bedroom,"Answer:
+
+The kitchen
+
+Question: What is the mist covering?",What is east of the office?
+475,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the office west of?
+476,bathroom,"Answer:
+
+<context>
+
+The bedroom south of the kitchen is the bathroom",What is the bedroom south of?
+477,kitchen,Answer:,What is west of the bathroom?
+478,office,Answer:,What is the garden north of?
+479,kitchen,Answer:,What is north of the garden?
+480,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is west of the kitchen?
+481,bathroom,"Possible answers:
+[A]. The house where the meeting was held.
+[B",What is south of the hallway?
+482,hallway,"Answer:
+
+<context>
+
+The answer is:
+
+<a href",What is north of the kitchen?
+483,garden,Answer:,What is north of the office?
+484,bedroom,Answer:,What is the kitchen east of?
+485,garden,"Answer:
+
+Available options:
+[i] The church.
+[ii]",What is east of the hallway?
+486,bedroom,"Answer:
+
+Available options:
+[i] The river
+[ii] The",What is south of the hallway?
+487,hallway,"Answer:
+
+<context>
+
+A. Cro' Nest
+
+B.",What is east of the kitchen?
+488,bathroom,Answer:,What is the office south of?
+489,hallway,"Answer:
+
+OPT:
+[i] Rockville
+[ii] The Green",What is the bedroom south of?
+490,hallway,Answer:,What is north of the bathroom?
+491,garden,"Answer:
+
+Available options:
+[i] The gas office.
+[ii",What is east of the bathroom?
+492,garden,"Answer:
+
+Available options:
+(A). The street.
+(B).",What is south of the kitchen?
+493,office,"Answer:
+
+Available options:
+[1]. The hallway.
+[2",What is south of the garden?
+494,bedroom,Answer:,What is the office west of?
+495,hallway,Answer:,What is north of the bedroom?
+496,office,"Answer:
+
+<solution>
+
+The answer is:
+
+<list>",What is north of the bedroom?
+497,bedroom,Answer:,What is the office north of?
+498,kitchen,Answer:,What is the office east of?
+499,hallway,Answer:,What is the bathroom south of?
+500,garden,Answer:,What is east of the hallway?
+501,office,Answer:,What is east of the kitchen?
+502,bedroom,Answer:,What is north of the garden?
+503,hallway,"Answer:
+
+<context>
+<question>
+<answer>
+<context",What is the bathroom east of?
+504,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the hallway west of?
+505,garden,Answer:,What is west of the bathroom?
+506,bedroom,"Answer: The bedroom
+
+Question: What is west of the bedroom?
+
+Answer",What is north of the office?
+507,bedroom,Answer:,What is the hallway north of?
+508,bathroom,Answer:,What is the garden north of?
+509,office,"Answer:
+
+The hallway east of is the hallway that is south of the",What is the hallway east of?
+510,kitchen,Answer:,What is south of the bedroom?
+511,hallway,"Possible answers:
+[i] Garden
+[ii] Canal Street
+[iii] South",What is the office east of?
+512,hallway,Answer:,What is the garden north of?
+513,garden,Answer:,What is north of the office?
+514,garden,Answer:,What is the hallway north of?
+515,bathroom,Answer:,What is the office north of?
+516,garden,Answer:,What is west of the hallway?
+517,office,Answer:,What is the bathroom south of?
+518,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is north of the hallway?
+519,hallway,Answer:,What is east of the bathroom?
+520,bathroom,Answer:,What is south of the bedroom?
+521,hallway,Answer:,What is west of the bathroom?
+522,kitchen,"Answer:
+
+Available options:
+[-] Helton
+[-] Gunwalloe",What is the bedroom south of?
+523,garden,Answer:,What is west of the bedroom?
+524,garden,Answer:,What is the office north of?
+525,garden,Answer:,What is north of the bathroom?
+526,office,Answer:,What is south of the garden?
+527,bathroom,Answer:,What is west of the garden?
+528,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the bedroom east of?
+529,hallway,"Answer: The Brownies' home
+
+Question: What is the Brownies' home",What is south of the office?
+530,kitchen,Answer:,What is the garden south of?
+531,hallway,"Answer:
+
+[Illustration]
+
+[Illustration]
+
+[Illust",What is west of the bedroom?
+532,office,"Answer:
+
+<context>
+The bedroom west of is the Grand Trunk road",What is the bedroom west of?
+533,kitchen,Answer:,What is the garden east of?
+534,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the bedroom south of?
+535,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the hallway east of?
+536,garden,"Answer:
+<context>
+
+The hallway east of the hallway is the",What is the hallway east of?
+537,bedroom,Answer:,What is the garden south of?
+538,bedroom,"Answer:
+
+Explanation:",What is east of the garden?
+539,kitchen,"Answer:
+<a href=""https://en.wikipedia.org/wiki/Cannon",What is the hallway west of?
+540,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the bedroom east of?
+541,hallway,Answer:,What is the bathroom south of?
+542,garden,Answer:,What is north of the kitchen?
+543,garden,"Possible answers:
+[A]. The garden
+[B]. Penolver
+[C",What is east of the kitchen?
+544,office,Answer:,What is the bathroom north of?
+545,hallway,"Answer:
+
+Available options:
+[1]. Temple
+[2]. Hallway",What is the office east of?
+546,hallway,"Answer:
+
+Available options:
+[i] north
+[ii] south",What is the bedroom east of?
+547,office,"Answer:
+
+The answer is:
+
+north of the hallway.",What is north of the hallway?
+548,bedroom,Answer:,What is west of the kitchen?
+549,hallway,Answer:,What is south of the bathroom?
+550,office,"Answer:
+
+Available options:
+[A]. The street
+[B]. The",What is east of the hallway?
+551,bathroom,"Answer:
+
+<choices>
+<a id=""choice-1""></a",What is the hallway east of?
+552,hallway,Answer:,What is north of the bedroom?
+553,bedroom,Answer:,What is the garden south of?
+554,office,,What is south of the bedroom?
+555,bathroom,Answer:,What is east of the garden?
+556,kitchen,"Answer: The kitchen.
+
+Question: What is the name of the man who is",What is west of the garden?
+557,bathroom,Answer:,What is the bedroom east of?
+558,garden,Answer:,What is the bathroom south of?
+559,kitchen,Answer:,What is the garden west of?
+560,bedroom,"Answer:
+<a href=""https://en.wikipedia.org/wiki/Ric",What is the kitchen south of?
+561,kitchen,Answer:,What is east of the office?
+562,hallway,"Answer:
+
+<br>
+<br>
+
+pick from the following.",What is west of the bathroom?
+563,hallway,"Answer:
+
+<DW64>
+
+<context>
+
+The",What is the garden west of?
+564,bedroom,"Answer:
+
+OPTIONS:
+[i] The kitchen of the house.",What is the kitchen west of?
+565,kitchen,Answer:,What is the office west of?
+566,bathroom,Answer:,What is the bedroom west of?
+567,bathroom,Answer:,What is west of the hallway?
+568,bedroom,"Answer:
+
+Possible answers:
+[A]. The hallway.
+[B",What is north of the garden?
+569,kitchen,Answer:,What is south of the bathroom?
+570,kitchen,"Answer:
+
+Available options:
+[A]. The White Springs Hotel
+[B",What is the office east of?
+571,bathroom,"Options:
+[A]. The kitchen
+[B]. The parlor
+[C].",What is north of the office?
+572,hallway,Answer:,What is north of the office?
+573,bedroom,Answer:,What is west of the garden?
+574,office,Answer:,What is the kitchen west of?
+575,bathroom,"Answer: The garden
+
+Question: What is the garden west of?
+
+Answer",What is the bedroom west of?
+576,office,Answer:,What is the bathroom south of?
+577,hallway,Answer:,What is north of the bathroom?
+578,garden,Answer:,What is the kitchen south of?
+579,kitchen,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",What is the hallway south of?
+580,office,"Answer:
+
+<poem>
+
+<poem>
+
+<po",What is the bedroom west of?
+581,hallway,"Answer:
+
+<a href=""/questions/10"">Context: Question</",What is the garden east of?
+582,kitchen,Answer:,What is the bedroom south of?
+583,office,Answer:,What is the hallway west of?
+584,hallway,"Answer:
+
+<context>
+<context.section>
+<context.section",What is the bedroom north of?
+585,garden,"Possible answers:
+[A]. The field.
+[B]. The house.",What is west of the bedroom?
+586,hallway,"Answer:
+
+<context>
+
+<answer>
+
+<question>",What is south of the office?
+587,kitchen,"Answer:
+
+Available options:
+[i] the kitchen.
+[ii]",What is south of the garden?
+588,office,"Answer:
+
+<choices>
+<a id=""choice-1""></a",What is the bedroom east of?
+589,office,"Answer:
+
+<choices>
+<!-- TODO: Add choices here -->",What is south of the kitchen?
+590,bathroom,"Answer: The kitchen is east of the office.
+
+Question: What is the Brown",What is the kitchen west of?
+591,hallway,Answer:,What is the office north of?
+592,bathroom,,What is east of the kitchen?
+593,office,"Answer:
+
+Available options:
+(1). North of the kitchen.
+(",What is east of the hallway?
+594,kitchen,,What is west of the bedroom?
+595,garden,Answer:,What is the office west of?
+596,bedroom,,What is east of the office?
+597,office,Answer:,What is west of the bathroom?
+598,bathroom,Answer:,What is the kitchen west of?
+599,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",What is the garden south of?
+600,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is east of the office?
+601,kitchen,Answer:,What is the bathroom south of?
+602,hallway,Answer:,What is north of the bedroom?
+603,garden,Answer:,What is north of the office?
+604,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is south of the kitchen?
+605,hallway,Answer:,What is west of the garden?
+606,office,Answer:,What is the kitchen west of?
+607,kitchen,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",What is north of the bedroom?
+608,hallway,Answer:,What is the bedroom south of?
+609,hallway,Answer:,What is west of the kitchen?
+610,kitchen,"OPTIONS:
+[1]. The kitchen.
+[2]. The hallway.",What is the bedroom north of?
+611,office,Answer:,What is the bedroom north of?
+612,hallway,Answer:,What is east of the office?
+613,hallway,Answer:,What is the office north of?
+614,hallway,Answer:,What is east of the bedroom?
+615,garden,"Answer:
+<context>
+
+<context>
+
+<context>
+
+<",What is the office east of?
+616,office,Answer:,What is north of the bedroom?
+617,kitchen,"Answer:
+
+<context>
+
+<example>
+
+<context>",What is north of the bedroom?
+618,hallway,Answer:,What is south of the office?
+619,bathroom,Answer:,What is the office west of?
+620,bedroom,"Answer:
+
+OPT:
+[i] south of the house.
+[ii",What is the garden east of?
+621,office,Answer:,What is the kitchen south of?
+622,kitchen,"Answer:
+
+OPT:
+[i] The office is north of.
+[",What is the office south of?
+623,garden,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",What is north of the office?
+624,bathroom,"Answer:
+
+OPT:
+[i] bathroom
+[ii] kitchen
+[",What is west of the kitchen?
+625,office,,What is east of the bedroom?
+626,office,"Answer:
+
+OPTIONS:
+- Shah Nujeef
+- Secundrab",What is the garden north of?
+627,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is east of the bedroom?
+628,office,,What is the bathroom south of?
+629,garden,Answer:,What is east of the kitchen?
+630,bathroom,"Answer:
+
+Available options:
+[A]. The courtyard.
+[B].",What is east of the kitchen?
+631,bathroom,"Answer:
+
+OPTIONS:
+[A]. The Street.
+[B]. The",What is the office north of?
+632,bathroom,,What is west of the hallway?
+633,bedroom,,What is the office east of?
+634,bedroom,Answer:,What is east of the office?
+635,bedroom,Answer:,What is the kitchen north of?
+636,bedroom,Answer:,What is the kitchen west of?
+637,kitchen,Answer:,What is the garden east of?
+638,kitchen,"Answer:
+
+OPT:
+[1]. The garden.
+[2]. The",What is the office east of?
+639,kitchen,"Answer:
+
+Available options:
+(1). The garden.
+(2).",What is east of the bedroom?
+640,bedroom,"Answer:
+
+OPTIONS:
+- garden
+- Esquimau huts",What is the garden east of?
+641,office,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",What is the hallway east of?
+642,office,Answer:,What is the bedroom east of?
+643,garden,"Possible answers:
+[i] The street
+[ii] The ground
+[iii",What is east of the hallway?
+644,garden,Answer:,What is the bathroom west of?
+645,office,Answer:,What is west of the bedroom?
+646,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the hallway east of?
+647,bathroom,"Possible answers:
+[A]. The kitchen.
+[B]. The bathroom.
+[",What is east of the bedroom?
+648,garden,Answer:,What is north of the bedroom?
+649,hallway,Answer:,What is south of the bedroom?
+650,office,Answer:,What is the hallway north of?
+651,garden,Answer:,What is east of the bedroom?
+652,kitchen,"Answer:
+
+Available options:
+[-] The hallway
+[-] The barn",What is south of the hallway?
+653,hallway,"Answer:
+
+<choices>
+<a id=""choice-1""></a",What is west of the garden?
+654,hallway,"Answer:
+
+Available options:
+[i] The house.
+[ii]",What is west of the bathroom?
+655,office,Answer:,What is the kitchen west of?
+656,bedroom,Answer:,What is the garden north of?
+657,kitchen,Answer:,What is east of the garden?
+658,garden,Answer:,What is south of the hallway?
+659,garden,Answer:,What is east of the kitchen?
+660,kitchen,Answer:,What is the garden east of?
+661,office,Answer:,What is west of the bathroom?
+662,bedroom,Answer:,What is south of the office?
+663,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is east of the garden?
+664,office,"Answer:
+
+Available options:
+[1]. south of the kitchen.
+[",What is the garden south of?
+665,kitchen,,What is the hallway north of?
+666,garden,Answer:,What is the office north of?
+667,garden,"Answer:
+
+Available options:
+1). The kitchen.
+2). The bathroom",What is the office east of?
+668,hallway,"Answer:
+
+Available options:
+[1]. Hillerton
+[2]. Plain",What is the garden south of?
+669,hallway,"Answer:
+
+OPT:
+[A]. Hillerton
+[B]. Garden",What is north of the garden?
+670,bathroom,"Answer: _Answer the above question based on the context below:
+
+<context>",What is west of the garden?
+671,garden,"Answer: <DW52>
+
+In the context of the above passage,",What is east of the bedroom?
+672,kitchen,"Answer:
+
+Available options:
+[-] The kitchen
+[-] The garden",What is the garden north of?
+673,kitchen,Answer:,What is the garden south of?
+674,kitchen,Answer:,What is the bedroom west of?
+675,bedroom,"Possible answers:
+[i] East of the garden.
+[ii] North of the",What is the garden west of?
+676,garden,Answer:,What is north of the kitchen?
+677,bedroom,Answer:,What is north of the bathroom?
+678,garden,Answer:,What is the bedroom south of?
+679,office,Answer:,What is south of the bedroom?
+680,hallway,Answer:,What is east of the office?
+681,office,Answer:,What is south of the kitchen?
+682,garden,Answer:,What is the hallway south of?
+683,office,"Answer:
+
+OPTIONS:
+- the kitchen
+- the village
+- the",What is north of the hallway?
+684,office,Answer:,What is the hallway east of?
+685,garden,"Answer:
+
+<poem>
+
+<text>
+
+<context>",What is east of the bathroom?
+686,hallway,Answer:,What is east of the office?
+687,office,Answer:,What is west of the bathroom?
+688,kitchen,Answer:,What is north of the garden?
+689,bedroom,,What is north of the bathroom?
+690,office,Answer:,What is south of the garden?
+691,bathroom,"Answer:
+
+Available options:
+(A). north of the bedroom.
+(",What is south of the kitchen?
+692,garden,Answer:,What is west of the bathroom?
+693,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the hallway south of?
+694,office,"Answer:
+
+OPTIONS:
+[A]. churchyard
+[B]. church",What is west of the bedroom?
+695,office,Answer:,What is the bathroom west of?
+696,kitchen,Answer:,What is the office north of?
+697,bedroom,"Answer:
+
+OPTIONS:
+[A]. The kitchen.
+[B].",What is the hallway west of?
+698,office,Answer:,What is the bathroom north of?
+699,kitchen,"Answer:
+
+OPT:
+[i] The kitchen
+[ii] The library",What is the bedroom east of?
+700,office,"Answer:
+
+<context>
+<context>
+<context>
+<context",What is west of the kitchen?
+701,office,Answer:,What is east of the bedroom?
+702,bedroom,"Answer:
+
+<context>
+<example>
+The hallway is north of",What is north of the kitchen?
+703,bedroom,"Answer:
+
+OPT:
+[A]. Newhaven
+[B]. Piccad",What is south of the office?
+704,bedroom,"OPTIONS:
+[A]. The garden.
+[B]. The village.",What is east of the kitchen?
+705,hallway,Answer:,What is east of the office?
+706,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is north of the garden?
+707,hallway,Answer:,What is the office south of?
+708,garden,Answer:,What is the hallway west of?
+709,office,"Answer:
+
+Available options:
+[1]. The kitchen
+[2]. The",What is the hallway north of?
+710,bathroom,Answer:,What is north of the kitchen?
+711,bathroom,"Answer:
+
+<context>
+<question>
+<answer>
+<context",What is the office east of?
+712,garden,"Answer:
+
+<context>
+
+<answer>
+
+<context>",What is the bathroom south of?
+713,hallway,Answer:,What is the bedroom north of?
+714,bedroom,Answer:,What is east of the office?
+715,bedroom,Answer:,What is the garden south of?
+716,bathroom,Answer:,What is north of the hallway?
+717,garden,Answer:,What is the hallway east of?
+718,kitchen,Answer:,What is west of the hallway?
+719,garden,Answer:,What is west of the bathroom?
+720,hallway,,What is north of the bathroom?
+721,hallway,Answer:,What is south of the kitchen?
+722,kitchen,,What is south of the hallway?
+723,hallway,"Answer:
+<a href=""https://en.wikipedia.org/wiki/Transva",What is the garden west of?
+724,bedroom,"Answer:
+
+pick from the following options:
+[A]. The Randt",What is east of the hallway?
+725,hallway,"Answer: Drumtochty
+
+Question: What is the name of the person who",What is the kitchen south of?
+726,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the hallway north of?
+727,kitchen,Answer:,What is the bathroom west of?
+728,hallway,Answer:,What is south of the garden?
+729,bedroom,"Answer: _south of the garden_
+
+Question: What is the name of the",What is east of the garden?
+730,bedroom,Answer:,What is south of the office?
+731,bedroom,Answer:,What is north of the bathroom?
+732,kitchen,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",What is the office west of?
+733,hallway,Answer:,What is west of the garden?
+734,bathroom,"Answer:
+
+<context>
+
+The bedroom south of is Boeen.",What is the bedroom south of?
+735,kitchen,Answer:,What is north of the hallway?
+736,garden,Answer:,What is west of the bathroom?
+737,bedroom,Answer:,What is west of the kitchen?
+738,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the office west of?
+739,garden,Answer:,What is the hallway south of?
+740,hallway,,What is the garden east of?
+741,bathroom,Answer:,What is the bedroom west of?
+742,kitchen,Answer:,What is north of the bedroom?
+743,bathroom,Answer:,What is west of the bedroom?
+744,office,"Answer:
+<context>
+<context>
+<context>
+<context>",What is the hallway south of?
+745,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is south of the kitchen?
+746,garden,Answer:,What is the bathroom east of?
+747,garden,"Answer:
+
+<poem>
+
+<poem>
+
+<po",What is east of the kitchen?
+748,bedroom,,What is west of the office?
+749,bedroom,Answer:,What is the hallway west of?
+750,bedroom,,What is east of the bathroom?
+751,bathroom,Answer:,What is the office south of?
+752,office,Answer:,What is east of the kitchen?
+753,bedroom,"Answer:
+
+Available options:
+(A). the forest
+(B). the",What is north of the garden?
+754,bathroom,"Answer:
+
+Available options:
+[1]. The kitchen.
+[2].",What is west of the bedroom?
+755,kitchen,Answer:,What is north of the hallway?
+756,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the hallway west of?
+757,kitchen,Answer:,What is the bathroom east of?
+758,bathroom,"Answer:
+<a href=""https://en.wikipedia.org/wiki/List_",What is the office west of?
+759,bathroom,"<br>
+<br>
+<br>
+<br>
+<br>",What is the kitchen east of?
+760,garden,,What is north of the bedroom?
+761,bedroom,Answer:,What is the garden west of?
+762,kitchen,Answer:,What is south of the hallway?
+763,office,Answer:,What is the garden north of?
+764,hallway,"Answer:
+
+OPT:
+[A]. south of the kitchen.
+[B",What is the bathroom north of?
+765,hallway,Answer:,What is south of the bedroom?
+766,bedroom,"Answer: The garden is east of the garden.
+
+Question: What is the subject",What is the garden east of?
+767,hallway,Answer:,What is the bedroom north of?
+768,bathroom,"Answer:
+
+pick from the following options:
+[i] north
+[ii",What is west of the garden?
+769,hallway,"Answer: West
+
+Question: What is the bathroom?
+
+Answer: East",What is the kitchen east of?
+770,office,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",What is west of the hallway?
+771,bathroom,Answer:,What is the garden south of?
+772,garden,Answer:,What is the office north of?
+773,office,"Answer: Birds
+
+Question: What is the office north of the bathroom?",What is the bathroom south of?
+774,bathroom,Answer:,What is east of the garden?
+775,bathroom,Answer:,What is south of the kitchen?
+776,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is west of the bathroom?
+777,office,,What is the garden north of?
+778,hallway,Answer:,What is north of the office?
+779,bathroom,"Answer:
+
+OPT:
+[i] bathroom
+[ii] bathroom
+[",What is the bedroom south of?
+780,hallway,"Answer:
+
+Available options:
+[i] bathroom
+[ii] dog-",What is north of the bathroom?
+781,kitchen,Answer:,What is the bathroom east of?
+782,hallway,Answer:,What is the bathroom west of?
+783,garden,"Answer:
+<a href=""https://en.wikipedia.org/wiki/B",What is the bathroom north of?
+784,bathroom,Answer:,What is the kitchen north of?
+785,hallway,"Answer:
+<context>
+<context>
+<context>
+<context>",What is the garden north of?
+786,hallway,"Answer:
+
+OPTIONS:
+[A]. The house.
+[B].",What is north of the garden?
+787,bathroom,"Possible answers:
+[A]. The mill.
+[B]. The kitchen.",What is west of the bedroom?
+788,kitchen,Answer:,What is the bedroom north of?
+789,office,"Answer:
+
+<context>
+<question>
+What is the name of the Sh",What is the bedroom north of?
+790,bedroom,Answer:,What is the kitchen east of?
+791,hallway,"Answer: _Seminary_
+
+Question: What is the name of the girl who",What is south of the bathroom?
+792,kitchen,Answer:,What is west of the hallway?
+793,kitchen,Answer:,What is the garden north of?
+794,office,Answer:,What is west of the bathroom?
+795,bathroom,Answer:,What is the office north of?
+796,garden,Answer:,What is the bathroom east of?
+797,kitchen,Answer:,What is the garden west of?
+798,bedroom,"Answer:
+
+<context>
+
+<example>
+
+<example>",What is the garden north of?
+799,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the garden west of?
+800,kitchen,"Answer:
+<context>
+The under part of the seats
+</context>",What is the office north of?
+801,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is west of the kitchen?
+802,kitchen,Answer:,What is the hallway west of?
+803,kitchen,,What is south of the office?
+804,office,Answer:,What is the hallway north of?
+805,garden,"Answer:
+
+Available options:
+[i] Garden
+[ii] Library",What is east of the kitchen?
+806,hallway,"Answer:
+
+A) The kitchen
+B) The garden
+C) The Luxembourg",What is east of the garden?
+807,hallway,Answer:,What is the bedroom south of?
+808,garden,Answer:,What is east of the hallway?
+809,hallway,Answer:,What is the bedroom east of?
+810,hallway,Answer:,What is east of the office?
+811,bathroom,,What is the office north of?
+812,kitchen,Answer:,What is the garden south of?
+813,bathroom,,What is the garden north of?
+814,bedroom,Answer:,What is west of the kitchen?
+815,office,Answer:,What is the kitchen west of?
+816,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is north of the kitchen?
+817,garden,Answer:,What is north of the bathroom?
+818,bedroom,Answer:,What is the kitchen north of?
+819,bedroom,"Answer:
+
+Available options:
+[i] The bedroom
+[ii] Somerset",What is south of the bathroom?
+820,kitchen,"Answer: The answer is:
+
+[Illustration]
+
+Question: What is",What is west of the bedroom?
+821,garden,"Answer: The bathroom is west of the bathroom.
+
+pick from the following.",What is the bathroom west of?
+822,bedroom,Answer:,What is the kitchen south of?
+823,garden,"Answer:
+
+<choices> <a href=""/answer"">A) bathroom</",What is the hallway west of?
+824,bathroom,"Answer:
+
+Available options:
+[i] The kitchen
+[ii] The",What is west of the garden?
+825,bedroom,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",What is east of the bathroom?
+826,office,Answer:,What is the garden west of?
+827,bathroom,Answer:,What is south of the bedroom?
+828,kitchen,"Answer:
+
+Available options:
+(A). kitchen
+(B). office",What is east of the bedroom?
+829,bedroom,"Answer:
+<context>
+
+<context>
+
+<context>",What is the bathroom north of?
+830,hallway,Answer:,What is south of the bedroom?
+831,kitchen,Answer:,What is east of the hallway?
+832,bathroom,Answer:,What is west of the office?
+833,office,Answer:,What is the garden south of?
+834,kitchen,Answer:,What is the garden east of?
+835,bathroom,"Answer:
+
+<context>
+<p>The context is:
+
+""",What is the kitchen west of?
+836,bathroom,Answer:,What is the hallway west of?
+837,bathroom,Answer:,What is the bedroom east of?
+838,office,Answer:,What is the bedroom south of?
+839,bedroom,Answer:,What is north of the hallway?
+840,kitchen,Answer:,What is south of the office?
+841,bedroom,Answer:,What is the bathroom east of?
+842,bedroom,Answer:,What is the office south of?
+843,kitchen,"Answer:
+
+Available options:
+[1]. Sherwood Apartments
+[2",What is the hallway west of?
+844,office,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",What is east of the garden?
+845,garden,,What is the bedroom west of?
+846,bedroom,Answer:,What is east of the office?
+847,office,"Answer:
+
+OPT:
+[1]. The Great Pyramid
+[2]. The",What is north of the kitchen?
+848,bedroom,"Answer:
+
+OPT:
+[A]. The street.
+[B]. The",What is the bathroom north of?
+849,bathroom,"Answer:
+
+OPT:
+[i] The kitchen
+[ii] The bar",What is the hallway north of?
+850,hallway,Answer:,What is the kitchen north of?
+851,hallway,Answer:,What is the kitchen north of?
+852,garden,Answer:,What is the hallway south of?
+853,bathroom,"Answer:
+
+Available options:
+[-] West Tennessee
+[-] West Virginia",What is east of the garden?
+854,bathroom,Answer:,What is the garden west of?
+855,hallway,,What is the bedroom west of?
+856,bedroom,Answer:,What is east of the kitchen?
+857,kitchen,,What is east of the office?
+858,garden,Answer:,What is the office east of?
+859,bathroom,"Answer: The office east of the office is the office of the
+Dessave.",What is the office east of?
+860,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is west of the hallway?
+861,office,Answer:,What is east of the bathroom?
+862,bathroom,Answer:,What is north of the garden?
+863,bedroom,Answer:,What is north of the garden?
+864,kitchen,Answer:,What is west of the office?
+865,hallway,Answer:,What is the bedroom south of?
+866,hallway,"Answer:
+
+OPT:
+[i] East
+[ii] North
+[",What is the bedroom west of?
+867,garden,Answer:,What is the kitchen west of?
+868,garden,"Answer:
+
+Available options:
+[i] south of
+[ii] north",What is the kitchen east of?
+869,office,"Answer:
+
+Available options:
+[i] The garden
+[ii] The",What is south of the garden?
+870,hallway,Answer:,What is the office north of?
+871,kitchen,"Answer:
+
+Available options:
+[A]. The hallway.
+[B",What is south of the hallway?
+872,garden,"Answer:
+
+Available options:
+[i] north of
+[ii] west",What is the hallway south of?
+873,kitchen,"OPTIONS:
+[-] Temple
+[-] Kitchen
+[-] Passage
+[-]",What is west of the hallway?
+874,hallway,"Answer:
+
+Available options:
+(1). bathroom
+(2). kitchen",What is east of the garden?
+875,garden,Answer:,What is west of the bedroom?
+876,bathroom,"Answer:
+
+OPT:
+[A]. The Forty-Second Regiment
+[B",What is the office south of?
+877,kitchen,,What is south of the bedroom?
+878,bedroom,,What is west of the kitchen?
+879,garden,Answer:,What is south of the bedroom?
+880,hallway,,What is north of the kitchen?
+881,bathroom,Answer:,What is east of the office?
+882,office,"Answer: The answer is:
+
+A. The United States
+
+B. The",What is west of the garden?
+883,bathroom,"Answer: The bathroom is north of the garden.
+
+Question: What is the bathroom",What is north of the garden?
+884,bedroom,Answer:,What is the bathroom east of?
+885,bathroom,"Answer:
+
+<context>
+<answer>
+
+<context>
+<",What is west of the kitchen?
+886,garden,"Answer:
+<context>
+<context>
+<context>
+<context>",What is the office west of?
+887,bathroom,Answer:,What is north of the kitchen?
+888,kitchen,Answer:,What is the hallway north of?
+889,hallway,"Answer:
+
+OPTIONS:
+[A]. North of the street.
+[",What is the kitchen south of?
+890,hallway,"Answer:
+
+Available options:
+[i] The Luxembourg Gardens
+[ii]",What is east of the bedroom?
+891,hallway,"Answer:
+
+OPTIONS:
+- the garden
+- the street
+- the",What is north of the garden?
+892,office,Answer:,What is north of the bathroom?
+893,kitchen,Answer:,What is the garden north of?
+894,kitchen,Answer:,What is west of the hallway?
+895,bathroom,Answer:,What is the office east of?
+896,garden,"Answer:
+<context>
+
+<context>
+
+<context>",What is north of the hallway?
+897,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is east of the bathroom?
+898,kitchen,"Answer: The Bishop's Garden
+
+Question: What is the Bishop's Garden?",What is south of the hallway?
+899,hallway,Answer:,What is west of the office?
+900,bedroom,"Answer:
+<a href=""https://en.wikipedia.org/wiki/San_",What is the office north of?
+901,hallway,"Answer:
+
+Available options:
+[i] Canal Street
+[ii] Canal",What is west of the kitchen?
+902,office,Answer:,What is the bathroom west of?
+903,garden,"Answer:
+
+OPT:
+[i] North of
+[ii] South of",What is the bedroom south of?
+904,kitchen,Answer:,What is the bathroom east of?
+905,office,"Answer:
+
+<context>
+
+The answer is:
+
+<choices>",What is south of the bathroom?
+906,kitchen,"Answer: The bedroom is west of the kitchen.
+
+Question: What is the name",What is the bedroom east of?
+907,office,Answer:,What is the hallway west of?
+908,bedroom,Answer:,What is the office east of?
+909,bathroom,"Answer:
+
+Available options:
+(A). Park and Ellington Avenue
+(",What is south of the bedroom?
+910,bedroom,"Answer:
+
+Available options:
+[i] The garden is north of the bedroom",What is the garden south of?
+911,hallway,Answer:,What is north of the office?
+912,kitchen,Answer:,What is west of the office?
+913,hallway,Answer:,What is east of the garden?
+914,garden,,What is the office north of?
+915,kitchen,Answer:,What is the garden south of?
+916,garden,"Possible answers:
+[1]. The garden.
+[2]. The office.",What is north of the office?
+917,bathroom,"Possible answers:
+[i] The garden.
+[ii] The bathroom.",What is south of the bedroom?
+918,bathroom,"Answer:
+
+<choices>
+[1]. The kitchen.
+[2].",What is east of the hallway?
+919,kitchen,Answer:,What is west of the garden?
+920,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the hallway north of?
+921,hallway,"OPTIONS:
+[a]. The parsonage.
+[b]. The Vermont",What is north of the garden?
+922,office,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",What is south of the kitchen?
+923,bathroom,Answer:,What is the garden west of?
+924,bathroom,Answer:,What is the kitchen east of?
+925,garden,Answer:,What is the kitchen south of?
+926,hallway,"Answer:
+
+<context>
+
+p. 69, ""The hall",What is the bathroom north of?
+927,bedroom,,What is south of the bathroom?
+928,bathroom,"Answer:
+
+OPTIONS:
+- hallway
+- kitchen
+- bedroom",What is the bedroom north of?
+929,kitchen,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",What is the garden north of?
+930,office,Answer:,What is the garden north of?
+931,bathroom,"Answer:
+
+Available options:
+(A). north of the garden.
+(",What is south of the garden?
+932,bathroom,"Answer:
+
+Available options:
+[i] Nunnery
+[ii] bathroom",What is the bedroom west of?
+933,hallway,Answer:,What is west of the kitchen?
+934,bedroom,Answer:,What is the garden east of?
+935,office,Answer:,What is the kitchen north of?
+936,kitchen,,What is north of the hallway?
+937,garden,Answer:,What is the kitchen north of?
+938,kitchen,Answer:,What is south of the bedroom?
+939,bedroom,"Answer:
+
+<context>
+The Minster house is west of the garden.",What is the garden east of?
+940,garden,"Answer:
+
+Available options:
+[i] The house.
+[ii]",What is south of the hallway?
+941,kitchen,"Answer:
+
+Available options:
+[i] east of
+[ii] south",What is the bathroom west of?
+942,office,Answer:,What is the kitchen east of?
+943,bathroom,Answer:,What is east of the garden?
+944,bathroom,Answer:,What is the garden north of?
+945,office,"Answer:
+<example>
+The garden is north of the bedroom. The bedroom is north",What is the garden north of?
+946,bedroom,"Answer:
+
+<context>
+<p>The answer is: The bedroom is",What is north of the hallway?
+947,bathroom,"Answer:
+
+<context>
+<text>
+<p>The kitchen north",What is the kitchen north of?
+948,office,"Answer:
+
+Available options:
+[1]. North of the kitchen.
+[",What is the hallway north of?
+949,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the office north of?
+950,bathroom,Answer:,What is the hallway south of?
+951,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the bedroom west of?
+952,garden,,What is east of the bathroom?
+953,garden,Answer:,What is the office north of?
+954,kitchen,Answer:,What is north of the office?
+955,office,"Answer:
+
+OPT:
+[1]. The floor.
+[2]. The",What is east of the hallway?
+956,hallway,"Answer:
+
+Available options:
+(1). Hillerton
+(2). No",What is the office east of?
+957,kitchen,Answer:,What is the garden east of?
+958,office,Answer:,What is north of the garden?
+959,office,"Answer:
+
+Available options:
+[1]. The kitchen.
+[2].",What is the bedroom west of?
+960,garden,"Answer:
+
+Available options:
+[i] north of the bedroom.
+[",What is north of the kitchen?
+961,bedroom,"Possible answers:
+[A]. North
+[B]. South
+[C]. West",What is the garden east of?
+962,kitchen,Answer:,What is east of the office?
+963,garden,Answer:,What is the kitchen east of?
+964,bathroom,"Answer:
+
+Answer:
+
+The hallway south of the bridge is the bridge.",What is the hallway south of?
+965,garden,"Answer:
+
+OPTIONS:
+- Richelieu
+- St Charles
+-",What is the bedroom south of?
+966,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is west of the garden?
+967,kitchen,"Answer:
+
+Available options:
+[i] West of the office.
+[",What is east of the office?
+968,office,"Answer:
+
+Available options:
+[i] North of Binoto's house.",What is the garden south of?
+969,office,Answer:,What is the hallway west of?
+970,bathroom,Answer:,What is east of the garden?
+971,garden,"Possible answers:
+[A]. bathroom
+[B]. bathroom
+[C]. bathroom",What is the hallway east of?
+972,garden,Answer:,What is the kitchen east of?
+973,kitchen,"Answer:
+
+Available options:
+(A). The kitchen.
+(B).",What is north of the hallway?
+974,kitchen,Answer:,What is west of the hallway?
+975,bathroom,Answer:,What is south of the bedroom?
+976,bedroom,Answer:,What is the kitchen south of?
+977,bathroom,Answer:,What is west of the bedroom?
+978,office,Answer:,What is west of the hallway?
+979,kitchen,Answer:,What is east of the hallway?
+980,garden,"Answer:
+
+<context>
+<p>The answer is:
+
+<",What is north of the office?
+981,bedroom,"Answer:
+<context>
+SCENE--_A Hall in the Consul",What is north of the garden?
+982,bathroom,"Answer:
+The bedroom is south of the kitchen.
+
+SC. Question: What",What is the bedroom south of?
+983,hallway,Answer:,What is north of the office?
+984,hallway,"Answer:
+
+Available options:
+(A). The library.
+(B).",What is south of the bathroom?
+985,office,"Answer:
+
+Available options:
+(1). East of the kitchen.
+(",What is the bedroom west of?
+986,kitchen,Answer:,What is the garden south of?
+987,hallway,Answer:,What is the garden west of?
+988,office,Answer:,What is west of the hallway?
+989,hallway,Answer:,What is the office west of?
+990,bedroom,,What is the hallway east of?
+991,bedroom,Answer:,What is the hallway south of?
+992,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",What is the garden east of?
+993,bedroom,"Answer:
+
+Available options:
+(i). bathroom
+(ii). kitchen",What is the hallway north of?
+994,hallway,Answer:,What is east of the bedroom?
+995,hallway,Answer:,What is west of the bathroom?
+996,kitchen,Answer:,What is north of the garden?
+997,kitchen,Answer:,What is west of the bedroom?
+998,kitchen,Answer:,What is north of the bedroom?

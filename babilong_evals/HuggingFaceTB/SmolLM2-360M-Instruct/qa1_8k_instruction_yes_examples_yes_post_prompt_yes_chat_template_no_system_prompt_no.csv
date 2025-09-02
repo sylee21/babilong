@@ -1,0 +1,4012 @@
+,target,output,question
+0,hallway,"Answer:
+
+<context>
+
+<example>
+John went to the hall",Where is John? 
+1,bathroom,Answer:,Where is Mary? 
+2,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+3,hallway,"Answer:
+
+OPTIONS:
+- in the hallway
+- in the kitchen",Where is Sandra? 
+4,kitchen,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where is Sandra? 
+5,hallway,Answer:,Where is Sandra? 
+6,garden,"Answer:
+<context>
+<context>
+<context>
+<context>",Where is Sandra? 
+7,hallway,"Answer:
+
+Available options:
+(1). in the hallway.
+(",Where is Daniel? 
+8,office,"Answer:
+
+Available options:
+[1]. Port William;
+[2].",Where is Sandra? 
+9,office,"Answer:
+
+<context>
+
+<question>
+
+<answer>",Where is Daniel? 
+10,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+11,garden,Answer:,Where is Mary? 
+12,office,"Answer:
+
+<context>
+
+Answer:
+
+pick from the following.",Where is Daniel? 
+13,bedroom,"Answer:
+
+In the garden.
+
+Is the answer ""yes"" or """,Where is Mary? 
+14,bedroom,Answer:,Where is Mary? 
+15,kitchen,"Answer:
+<context>
+<context.section>
+    <context.paragraph>",Where is John? 
+16,garden,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where is John? 
+17,kitchen,Answer:,Where is John? 
+18,office,Answer:,Where is Daniel? 
+19,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+20,hallway,"Answer:
+
+OPT:
+[i] Station.
+[ii] The Golden",Where is Mary? 
+21,office,"Answer:
+
+OPTIONS:
+- Glengarry
+- Greenock
+-",Where is John? 
+22,office,"Answer:
+
+Available options:
+[i] John is in the garden.",Where is John? 
+23,hallway,"Answer:
+
+Available options:
+[i] The house.
+[ii]",Where is Sandra? 
+24,bedroom,"Answer:
+
+Choose from the following.
+(A). in the kitchen.",Where is Daniel? 
+25,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+26,bedroom,"Answer:
+
+OPT:
+[1]. Glengarry
+[2]. Mary",Where is Mary? 
+27,kitchen,"Answer:
+
+OPTIONS:
+[A]. in the kitchen.
+[B",Where is Daniel? 
+28,kitchen,Answer:,Where is Daniel? 
+29,kitchen,"Answer:
+
+OPTIONS:
+[1]. The kitchen.
+[2].",Where is Daniel? 
+30,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is Sandra? 
+31,office,"OPTIONS:
+- in the Minster house
+- in the Minster house",Where is John? 
+32,kitchen,"Answer:
+
+Available options:
+[1]. The kitchen.
+[2].",Where is Sandra? 
+33,kitchen,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where is Sandra? 
+34,bathroom,"OPTIONS:
+[A]. London
+[B]. America
+[C]. Argentina",Where is Sandra? 
+35,office,"OPTIONS:
+[-] London
+[-] Peterborough
+[-] Tring",Where is Mary? 
+36,bathroom,"OPTIONS:
+[A]. in the garden.
+[B]. in the house",Where is Mary? 
+37,garden,"Answer:
+
+OPT:
+[i] The church.
+[ii] The",Where is Mary? 
+38,kitchen,"Answer:
+
+OPTIONS:
+[i] Carvel Hall
+[ii]",Where is Sandra? 
+39,bedroom,"OPTIONS:
+- in the kitchen
+- in the hallway
+- in the",Where is Daniel? 
+40,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+41,garden,"Answer:
+
+In the kitchen of Lachaume's restaurant.
+
+In the",Where is Daniel? 
+42,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+43,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+44,garden,Answer:,Where is Daniel? 
+45,kitchen,Answer: The answer is:,Where is Mary? 
+46,hallway,Answer:,Where is Daniel? 
+47,bathroom,"Answer:
+
+Available options:
+[i] The house of Milnwood.",Where is Sandra? 
+48,office,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where is John? 
+49,bedroom,"Answer:
+
+In the context, ""John moved to the bedroom"" means:",Where is John? 
+50,bedroom,"Answer: He is in the Tuileries Gardens.
+
+[Illustration: _",Where is John? 
+51,office,"Answer:
+
+A.
+
+B.
+
+C.
+
+D.",Where is John? 
+52,garden,"Answer:
+pick from the following.
+[A]. in the garden.
+[B",Where is John? 
+53,garden,Answer:,Where is John? 
+54,kitchen,"Answer: In the kitchen.
+
+Question: What is the meaning of the word """,Where is Daniel? 
+55,bedroom,"Answer: She is in the church.
+
+Question: Who is she with?",Where is Mary? 
+56,kitchen,"Answer: In the garden.
+
+Question: What is the first thing Mary does?",Where is Mary? 
+57,hallway,"Answer:
+
+Available options:
+(A). at the hallway.
+(",Where is Mary? 
+58,garden,"Answer:
+
+Available options:
+(A). Chicago
+(B). New York",Where is Daniel? 
+59,hallway,"Answer: [A]. office
+
+pick from the following.
+[A]. office",Where is Sandra? 
+60,hallway,"Possible answers:
+[i] in the garden
+[ii] in the house
+[",Where is Sandra? 
+61,office,"OPTIONS:
+- at the office
+- at the store
+- at the gig",Where is Daniel? 
+62,bathroom,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is Sandra? 
+63,garden,"Answer:
+
+Available options:
+[i] The Casino
+[ii]",Where is Daniel? 
+64,garden,Answer:,Where is Daniel? 
+65,kitchen,"Answer:
+
+<context>
+
+The context states that John went to the kitchen",Where is John? 
+66,kitchen,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where is John? 
+67,bathroom,Answer:,Where is Daniel? 
+68,office,"Answer:
+
+OPTIONS:
+[i] The woods.
+[ii]",Where is Daniel? 
+69,office,"Answer:
+
+OPTIONS:
+[i] in the woods.
+[ii",Where is Daniel? 
+70,garden,Answer:,Where is Mary? 
+71,hallway,"Answer:
+<context>
+The context is:
+
+Sandra journeyed to",Where is Sandra? 
+72,garden,"Answer:
+A) in the kitchen
+B) in the garden
+C) in the",Where is Mary? 
+73,bedroom,"Answer:
+
+OPTIONS:
+- station
+- station house
+- station gate",Where is Mary? 
+74,bathroom,"A). in the bathroom
+B). in Greenock
+C). in Edinburgh
+D).",Where is Mary? 
+75,kitchen,"Possible answers:
+[A]. in the kitchen.
+[B]. in the garden",Where is Daniel? 
+76,kitchen,"Possible answers:
+[1]. In the room of the Commander.
+[2].",Where is John? 
+77,kitchen,"Answer: _In the kitchen._
+
+Question: What is the name of the person who was",Where is Daniel? 
+78,hallway,"Answer: The Prayer Book.
+
+Question: What is the name of the Sacrament of",Where is Daniel? 
+79,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+80,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+81,bathroom,"Answer: The context does not provide enough information to answer this question.
+
+pick from",Where is John? 
+82,bedroom,Answer:,Where is Sandra? 
+83,garden,Answer:,Where is Mary? 
+84,office,"Answer:
+
+OPT:
+[i] The office of the Speaker of the House of",Where is Daniel? 
+85,garden,"Answer:
+
+Available options:
+(A). Hellingsley Castle
+(B",Where is Sandra? 
+86,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+87,hallway,"Answer:
+
+<context>
+
+<question>
+
+<answer>",Where is John? 
+88,kitchen,Answer:,Where is Sandra? 
+89,kitchen,Answer:,Where is Daniel? 
+90,bathroom,"Answer:
+
+Available options:
+[1]. Canandaigua
+[2",Where is Sandra? 
+91,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+92,hallway,"Answer:
+
+<context>
+
+Sandra moved to the bathroom.",Where is Sandra? 
+93,bathroom,"Answer:
+
+Available options:
+[1]. Cadwigh Cove
+[2",Where is Sandra? 
+94,bathroom,"Answer:
+
+<context>
+Sandra moved to the bathroom.
+</context",Where is Sandra? 
+95,kitchen,"Answer:
+
+<context>
+<question>
+<answer>
+<context>",Where is John? 
+96,kitchen,"Answer:
+
+<context>
+Sandra was a woman who worked in the kitchen",Where is Sandra? 
+97,kitchen,"Answer:
+
+<example>
+Mary went to the kitchen.
+</example>",Where is Mary? 
+98,bedroom,Answer:,Where is Mary? 
+99,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+100,bedroom,"Answer:
+
+OPTIONS:
+[A]. in the bedroom.
+[B",Where is Mary? 
+101,bathroom,"Answer:
+
+<context>
+Sandra is a horse.
+</context>",Where is Sandra? 
+102,office,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where is Mary? 
+103,garden,Answer:,Where is Daniel? 
+104,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+105,hallway,"Answer:
+
+Possible answers:
+[i] in the mountains.
+[ii",Where is Mary? 
+106,bedroom,"Possible answers:
+[i] in the mountains
+[ii] in the desert
+[",Where is Daniel? 
+107,bathroom,"OPTIONS:
+[a]. in New Orleans.
+[b]. in New York",Where is Daniel? 
+108,office,"Answer: The man who was in the kitchen.
+
+Who is the man who is",Where is Daniel? 
+109,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+110,bathroom,"Answer:
+
+OPTIONS:
+[i] The Luxembourg.
+[ii]",Where is Daniel? 
+111,bathroom,"Answer:
+
+OPT:
+- A small cafe
+- A large cafe",Where is Daniel? 
+112,kitchen,"Answer:
+
+In the first volume of his works, in 4to.",Where is John? 
+113,hallway,"Answer:
+
+Available options:
+[1]. The kitchen.
+[2].",Where is John? 
+114,kitchen,"Answer: [A]. The post office.
+
+Question: What does Mary do?",Where is Mary? 
+115,garden,"Answer:
+
+Available options:
+[i] Carvel Hall
+[ii]",Where is Sandra? 
+116,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+117,kitchen,"Answer:
+
+<context>
+
+""Mary went to the bathroom.",Where is Mary? 
+118,bathroom,Answer:,Where is Daniel? 
+119,office,,Where is Daniel? 
+120,bedroom,Answer:,Where is Daniel? 
+121,bathroom,"Answer:
+
+Choose your answer from:
+[A]. North of Ireland.",Where is Mary? 
+122,bedroom,"Answer:
+
+<DW44>
+
+OPT:
+
+[i",Where is Daniel? 
+123,hallway,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where is Daniel? 
+124,bedroom,"Answer:
+
+Available options:
+(A). London
+(B). North-",Where is Mary? 
+125,office,Answer:,Where is Sandra? 
+126,garden,"Answer:
+
+Available options:
+1). Beaumanoir
+2). London",Where is John? 
+127,garden,"Answer:
+
+<context>
+
+Answer: Daniel is a character in the novel",Where is Daniel? 
+128,garden,"Answer:
+
+<context>
+
+Sandra moved to the bedroom. She is",Where is Sandra? 
+129,bathroom,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where is Sandra? 
+130,garden,"Answer: The garden.
+
+Question: What is the meaning of the word ""S",Where is Sandra? 
+131,hallway,Answer:,Where is Mary? 
+132,bathroom,"Answer:
+
+Sandra went to the Tea Room.
+
+pick from the following",Where is Sandra? 
+133,garden,Answer:,Where is Sandra? 
+134,kitchen,Answer:,Where is John? 
+135,bathroom,Answer:,Where is Sandra? 
+136,office,"Answer:
+
+Available options:
+[i] French Quarter
+[ii] Old",Where is Sandra? 
+137,kitchen,"Answer:
+
+Available options:
+[i] in the kitchen
+[ii]",Where is John? 
+138,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context>",Where is Sandra? 
+139,bathroom,Answer:,Where is John? 
+140,office,Answer:,Where is Mary? 
+141,hallway,"Possible answers:
+[i] Northumberland
+[ii] Virginia
+[iii]",Where is Mary? 
+142,hallway,"Answer:
+
+Available options:
+[1]. Northumberland
+[2]. Hampton",Where is Mary? 
+143,office,Answer:,Where is Sandra? 
+144,bedroom,Answer:,Where is Sandra? 
+145,kitchen,"Answer:
+
+OPTIONS:
+[i] The kitchen.
+[ii] Venice",Where is Sandra? 
+146,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+147,kitchen,"Answer: In the kitchen.
+
+Question: What is the subject of Daniel's letter",Where is Daniel? 
+148,kitchen,,Where is Sandra? 
+149,kitchen,Answer:,Where is Daniel? 
+150,garden,"Answer:
+
+OPTIONS:
+- in the city
+- in the field",Where is Daniel? 
+151,garden,"Answer:
+
+Available options:
+[i] The house.
+[ii]",Where is Sandra? 
+152,bathroom,"Answer: 
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+153,office,"Answer:
+
+Available options:
+(A). in the office.
+(B",Where is Daniel? 
+154,bedroom,Answer:,Where is John? 
+155,bathroom,"Answer: She is in the bathroom.
+
+Question: Why is Mary in the bathroom",Where is Mary? 
+156,garden,Answer:,Where is Daniel? 
+157,bedroom,Answer: The text does not provide the answer to this question.,Where is John? 
+158,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+159,hallway,Answer:,Where is Mary? 
+160,bedroom,"Possible Answers:
+[i] In the church.
+[ii] In the hall",Where is Daniel? 
+161,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+162,bedroom,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where is Mary? 
+163,garden,"Answer:
+
+<context>
+
+Mary is in the Grey Nunnery.",Where is Mary? 
+164,bathroom,,Where is Daniel? 
+165,garden,"Answer:
+
+Available options:
+[i] Chicago
+[ii] Sandwood",Where is Sandra? 
+166,garden,"Answer:
+
+Available options:
+[i] The house in Chicago.
+[",Where is Sandra? 
+167,garden,Answer:,Where is Daniel? 
+168,kitchen,"Answer:
+
+OPTIONS:
+- in the garden
+- in the kitchen",Where is Daniel? 
+169,bedroom,"A:
+
+Answer:
+
+B:
+
+C:
+
+D:",Where is Mary? 
+170,office,"Answer:
+
+OPTIONS:
+- in the hospital
+- in the hospital room",Where is Daniel? 
+171,office,"Answer:
+
+In the hallway.
+
+In the hallway.",Where is Daniel? 
+172,garden,"Answer:
+
+In the garden.
+
+In the field.
+
+In the",Where is John? 
+173,bathroom,"Answer: [A]. Penolver
+
+Explanation:",Where is Sandra? 
+174,bathroom,"Answer:
+
+Available options:
+[i] in the bathroom.
+[ii",Where is Sandra? 
+175,office,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where is Sandra? 
+176,kitchen,"Answer:
+
+Available options:
+[-] London
+[-] Manchester
+[-] Paris",Where is Sandra? 
+177,bedroom,"Answer:
+
+OPTIONS:
+[i] The Valley of Virginia
+[ii",Where is Sandra? 
+178,office,"Answer:
+
+OPTIONS:
+- James River
+- James River Railroad
+-",Where is Sandra? 
+179,office,"Answer:
+
+OPTIONS:
+[i] Durban
+[ii] South",Where is Sandra? 
+180,hallway,"Answer:
+
+OPT:
+[i] Bareilly
+[ii] B",Where is Mary? 
+181,hallway,"Answer:
+
+In the context, ""Mary"" is used in the following meaning:",Where is Mary? 
+182,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+183,hallway,"Answer:
+
+OPT:
+[i] The old church.
+[ii]",Where is Mary? 
+184,bedroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is Sandra? 
+185,bathroom,"Answer:
+
+Available options:
+[A]. in the mountains.
+[B",Where is John? 
+186,office,"OPTIONS:
+- in the mountains
+- in the mountains and rivers
+- in",Where is Daniel? 
+187,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+188,kitchen,Answer:,Where is Sandra? 
+189,office,,Where is Sandra? 
+190,hallway,"Answer:
+
+Question: What is the name of the person who is going to the",Where is Mary? 
+191,kitchen,"Answer:
+
+Available options:
+[i] Northumberland
+[ii] Hampton",Where is Sandra? 
+192,garden,"OPTIONS:
+[A]. in the garden.
+[B]. in the library",Where is Sandra? 
+193,hallway,"Answer:
+
+<DW54>sandra Cavendish
+
+Question",Where is Sandra? 
+194,hallway,Answer:,Where is Sandra? 
+195,garden,Answer:,Where is Mary? 
+196,office,"Possible answers:
+[A]. in the garden;
+[B]. in the kitchen",Where is John? 
+197,kitchen,Answer:,Where is Daniel? 
+198,bathroom,"Possible answers:
+[i] in the kitchen.
+[ii] in the bathroom",Where is Mary? 
+199,bedroom,Answer:,Where is John? 
+200,hallway,,Where is Mary? 
+201,office,"Answer:
+<context>
+
+<context>
+
+<context>",Where is John? 
+202,office,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is Daniel? 
+203,bedroom,"Answer:
+
+<context>
+<question>
+What is the name of the",Where is Sandra? 
+204,hallway,"Answer:
+
+<choices>
+<a id=""choice1""></a>",Where is Sandra? 
+205,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+206,kitchen,Answer:,Where is Mary? 
+207,hallway,Answer:,Where is Sandra? 
+208,bathroom,"Answer:
+
+Available options:
+(1). in the bathroom.
+(2",Where is Daniel? 
+209,hallway,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is John? 
+210,bathroom,Answer:,Where is John? 
+211,bedroom,Answer:,Where is John? 
+212,hallway,Answer:,Where is Daniel? 
+213,bedroom,"Answer:
+
+<context>
+
+Mary is at home.
+
+</context",Where is Mary? 
+214,bathroom,"Answer:
+<context>
+Sandra moved to the bathroom.
+</context>",Where is Sandra? 
+215,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+216,bathroom,"Answer:
+
+Available options:
+[i] The man is in the hallway",Where is John? 
+217,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+218,hallway,"Answer:
+
+OPTIONS:
+- in the kitchen
+- in the bathroom",Where is Sandra? 
+219,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+220,bathroom,Answer:,Where is Mary? 
+221,hallway,"Answer:
+Available options:
+[i] in the library
+[ii] in the",Where is Daniel? 
+222,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+223,hallway,"Answer:
+
+<context>
+
+Sandra went back to the hallway.",Where is Sandra? 
+224,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+225,office,"Answer:
+
+OPTIONS:
+- St Charles
+- St Hilaire",Where is John? 
+226,hallway,"Answer:
+
+In what city did he travel to?
+
+In what year did",Where is Daniel? 
+227,garden,Answer:,Where is Sandra? 
+228,bathroom,"Answer:
+
+In the context, the answer is:
+
+A. Abbots",Where is John? 
+229,bathroom,"Answer:
+
+In the bathroom.
+
+Is the answer A or B?",Where is John? 
+230,office,Answer:,Where is Daniel? 
+231,garden,"Answer:
+
+Available options:
+[A]. in the house.
+[B",Where is Mary? 
+232,hallway,"Answer:
+
+OPT:
+[A]. Belden's house.
+[B",Where is Daniel? 
+233,office,Answer:,Where is Daniel? 
+234,hallway,"Answer:
+
+<context>
+
+<example>
+John went back to the",Where is John? 
+235,bedroom,"Answer:
+
+Available options:
+[-] The house where she was born.",Where is Mary? 
+236,bedroom,"Answer:
+
+Available options:
+[A]. North Wilna
+[B].",Where is Mary? 
+237,bedroom,"Answer:
+
+<context>
+
+Answer:
+
+<context>",Where is Mary? 
+238,bedroom,"Answer: In the garden.
+
+Question: What is the name of the bird?",Where is Daniel? 
+239,office,"Answer:
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+240,hallway,"Answer:
+
+<context>
+
+Answer:
+
+<context>",Where is Daniel? 
+241,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+242,garden,"OPTIONS:
+- in the hospital
+- in the kitchen
+- in the garden",Where is Mary? 
+243,garden,"Answer:
+
+Available options:
+[A]. in the kitchen.
+[B",Where is Mary? 
+244,kitchen,Answer:,Where is Mary? 
+245,kitchen,Answer:,Where is John? 
+246,garden,Answer:,Where is Sandra? 
+247,garden,,Where is Sandra? 
+248,garden,,Where is Sandra? 
+249,garden,Answer:,Where is Daniel? 
+250,bedroom,Answer:,Where is Daniel? 
+251,office,"Answer:
+
+<context>
+
+Mary went to the bedroom.
+</context",Where is Mary? 
+252,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+253,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+254,bedroom,"Answer:
+
+OPT:
+
+A). The Senator's office.
+B).",Where is John? 
+255,bedroom,"Answer:
+Available options:
+[i] The Senator.
+[ii] The President",Where is John? 
+256,office,"Answer:
+
+Available options:
+[i] in the city
+[ii]",Where is Sandra? 
+257,office,"Answer:
+
+Available options:
+[i] lost creek.
+[ii]",Where is Sandra? 
+258,kitchen,"Answer:
+
+<DW72>
+
+Explanation:
+Mary is in",Where is Mary? 
+259,garden,Answer:,Where is Mary? 
+260,garden,Answer:,Where is Sandra? 
+261,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+262,hallway,Answer:,Where is Sandra? 
+263,office,"Answer:
+
+Available options:
+1). in the United States.
+2).",Where is John? 
+264,office,Answer:,Where is John? 
+265,bathroom,Answer:,Where is Sandra? 
+266,garden,"Answer:
+
+A) The garden
+B) The kitchen
+C) The balcony",Where is Sandra? 
+267,bedroom,"Answer:
+
+Available options:
+[i] The bathroom
+[ii] The",Where is Sandra? 
+268,bathroom,Answer:,Where is John? 
+269,bedroom,"Answer:
+
+Available options:
+[-] the library
+[-] the kitchen",Where is Daniel? 
+270,kitchen,Answer:,Where is Daniel? 
+271,office,"Answer:
+
+Available options:
+[1]. The dressing room.
+[2",Where is Sandra? 
+272,office,"Answer:
+
+Choose from:
+[A]. The kitchen.
+[B].",Where is Sandra? 
+273,kitchen,"Answer:
+
+Available options:
+(1). in the studio.
+(2",Where is Daniel? 
+274,bathroom,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The",Where is Daniel? 
+275,office,Answer:,Where is Sandra? 
+276,kitchen,Answer:,Where is Daniel? 
+277,hallway,Answer:,Where is Mary? 
+278,office,"Answer: 1
+
+Is the answer ""in the garden""?
+
+Available options",Where is John? 
+279,bathroom,Answer:,Where is John? 
+280,bathroom,"Answer:
+
+<DW64>
+
+<DW64>",Where is Sandra? 
+281,garden,"Answer:
+
+OPTIONS:
+- London
+- Manchester
+- New York",Where is Daniel? 
+282,office,,Where is Sandra? 
+283,office,"Answer:
+
+<context>
+
+<answer>
+
+Sandra went to",Where is Sandra? 
+284,garden,"Answer: He is in the garden.
+
+Question: What is the name of the",Where is John? 
+285,office,Answer:,Where is John? 
+286,bathroom,"Answer:
+
+A) in the bathroom
+B) in the garden
+C) in",Where is Sandra? 
+287,office,"Answer:
+
+The answer is:",Where is John? 
+288,garden,Answer:,Where is Daniel? 
+289,bathroom,"Answer:
+
+Possible answers:
+[i] The house.
+[ii]",Where is Sandra? 
+290,kitchen,"Answer:
+
+OPT:
+
+A). In the kitchen.
+B). In",Where is Mary? 
+291,kitchen,"Answer:
+
+[Illustration]
+
+[Illustration]
+
+[Illust",Where is John? 
+292,bedroom,Answer:,Where is John? 
+293,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+294,kitchen,"Possible answers:
+[1]. in the garden.
+[2]. in the kitchen",Where is John? 
+295,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+296,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+297,hallway,"Options:
+[I] Cape Colony
+[II] South Africa
+[III]",Where is John? 
+298,hallway,Answer:,Where is Mary? 
+299,bathroom,"Answer:
+
+Available options:
+[i] in the bathroom.
+[ii",Where is Mary? 
+300,bathroom,Answer:,Where is Mary? 
+301,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+302,bathroom,"Answer:
+<context>
+""Mary went to the kitchen. Mary went to the kitchen",Where is Mary? 
+303,office,Answer:,Where is John? 
+304,hallway,Answer:,Where is Mary? 
+305,garden,Answer:,Where is Daniel? 
+306,bathroom,Answer:,Where is Daniel? 
+307,office,"Answer:
+
+<context>
+
+A:
+
+B:
+
+C",Where is Daniel? 
+308,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is Daniel? 
+309,kitchen,"Answer:
+
+[Illustration: THE BATTLE OF GETTYSBURG",Where is John? 
+310,garden,"Answer:
+
+<context>
+
+Answer:
+
+Answer:
+
+Answer",Where is Daniel? 
+311,garden,"Answer:
+
+OPTIONS:
+- Chattanooga
+- Chickamauga",Where is Sandra? 
+312,office,"Answer:
+
+<context>
+
+<example>
+Daniel journeyed to the",Where is Daniel? 
+313,bedroom,"Answer:
+
+Sandra is in Astoria.
+
+Question: What is the",Where is Sandra? 
+314,garden,"Answer:
+
+In the context, the correct answer is:
+
+In the context",Where is John? 
+315,office,"Answer:
+
+Available options:
+[A]. London
+[B]. Edinburgh",Where is Mary? 
+316,bedroom,Answer:,Where is Daniel? 
+317,office,"OPTIONS:
+- in the kitchen.
+- in the hallway.
+-",Where is Mary? 
+318,office,"Answer:
+
+Available options:
+(A). in the West;
+(B",Where is Mary? 
+319,garden,"Answer:
+
+Possible answers:
+[i] The house on I Street, between",Where is Daniel? 
+320,garden,Answer:,Where is John? 
+321,kitchen,Answer:,Where is Sandra? 
+322,kitchen,"Answer:
+
+OPTIONS:
+- in the kitchen
+- in the verand",Where is Sandra? 
+323,garden,"OPTIONS:
+[i] in the garden.
+[ii] in the kitchen",Where is Daniel? 
+324,garden,"Answer:
+
+Available options:
+[i] Manchester
+[ii] Bolton",Where is Daniel? 
+325,bathroom,"Answer:
+
+Available options:
+(1). in the bathroom.
+(2",Where is Sandra? 
+326,bedroom,Answer:,Where is John? 
+327,garden,"Answer:
+
+Available options:
+(1). in the garden.
+(2",Where is Sandra? 
+328,garden,"Answer:
+
+<example>
+Sandra is in the kitchen.
+</example",Where is Sandra? 
+329,bedroom,"Possible answers:
+[i] in the garden.
+[ii] in the kitchen",Where is Daniel? 
+330,kitchen,"Possible answers:
+[i] in the hallway.
+[ii] in the",Where is Sandra? 
+331,office,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where is John? 
+332,kitchen,"Answer:
+
+Available options:
+(A). Cape Cod
+(B). New",Where is Sandra? 
+333,bedroom,"Possible answers:
+[i] in the kitchen
+[ii] in the garden",Where is Daniel? 
+334,bedroom,Answer:,Where is Daniel? 
+335,office,"Possible answers:
+[A]. in the house.
+[B]. in the barn",Where is John? 
+336,hallway,"Answer:
+
+OPT:
+[i] The poorhouse.
+[ii]",Where is Daniel? 
+337,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is Sandra? 
+338,hallway,"Answer:
+
+Available options:
+(1). in the hallway.
+(",Where is Sandra? 
+339,hallway,"Answer:
+Available options:
+[A]. in the kitchen.
+[B]. in",Where is Sandra? 
+340,hallway,"Answer:
+
+OPT:
+[i] The barn.
+[ii] The",Where is Mary? 
+341,garden,"Answer:
+
+Available options:
+[A]. The garden.
+[B].",Where is Mary? 
+342,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+343,kitchen,"Answer: [FAVOURITE]
+
+Choose your answer from:
+[A",Where is Sandra? 
+344,garden,Answer:,Where is Sandra? 
+345,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+346,hallway,Answer:,Where is Daniel? 
+347,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+348,kitchen,,Where is Mary? 
+349,kitchen,"Answer:
+
+Available options:
+(1). At the kitchen.
+(2",Where is John? 
+350,bedroom,"Answer:
+
+Available options:
+[1]. New York City
+[2].",Where is Sandra? 
+351,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+352,garden,"Answer:
+
+Available options:
+[i] Park
+[ii] Loheng",Where is Sandra? 
+353,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+354,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+355,bathroom,Answer:,Where is Sandra? 
+356,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+357,hallway,Answer:,Where is Mary? 
+358,garden,"Answer:
+
+Possible answers:
+[i] in the garden
+[ii]",Where is Mary? 
+359,hallway,"OPTIONS:
+[A]. in the hallway.
+[B]. in the",Where is Mary? 
+360,garden,Answer:,Where is Daniel? 
+361,bathroom,Answer:,Where is Daniel? 
+362,garden,"Answer:
+<context>
+<context>
+<context>
+<context>",Where is Mary? 
+363,garden,"Answer:
+
+In the context of the passage, what is the relationship between John and",Where is John? 
+364,garden,"Answer:
+
+OPTIONS:
+[i] The garden.
+[ii]",Where is Daniel? 
+365,garden,"Answer:
+
+Available options:
+[i] The man is sitting in the garden",Where is Sandra? 
+366,garden,"Answer:
+
+Available options:
+(A). The major's story.
+(",Where is Sandra? 
+367,hallway,"Options:
+[I] in the kitchen.
+[II] in the hallway",Where is Daniel? 
+368,hallway,"Answer:
+
+OPT:
+[i] The church
+[ii] The home",Where is Mary? 
+369,hallway,Answer:,Where is Daniel? 
+370,hallway,"Answer:
+
+Available options:
+(A). in the hallway.
+(",Where is Daniel? 
+371,hallway,Answer:,Where is Daniel? 
+372,garden,"Answer:
+
+The answer to this question is:",Where is Mary? 
+373,garden,"Answer:
+
+Available options:
+[A]. in the garden.
+[B",Where is Mary? 
+374,office,"Answer:
+
+Available options:
+[-] in the garden
+[-] in the",Where is Mary? 
+375,bedroom,"Answer:
+
+<context>
+
+Answer: Mary lives in New York City.",Where is Mary? 
+376,kitchen,"Answer:
+
+Available options:
+[i] The church.
+[ii]",Where is Sandra? 
+377,bathroom,"Answer:
+
+OPT:
+[i] The square.
+[ii] The",Where is Sandra? 
+378,bathroom,Answer:,Where is Sandra? 
+379,bedroom,"Answer: He is in the kitchen.
+
+Question: What is the name of the",Where is John? 
+380,bathroom,"Answer:
+
+Mary is at home.
+
+Is the correct answer ""Mary is",Where is Mary? 
+381,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+382,bedroom,"Possible answers:
+[i] in the hallway.
+[ii] in the office",Where is Mary? 
+383,office,"Answer:
+
+<context>
+<context-menu>
+<context-menu-",Where is Sandra? 
+384,office,"Answer:
+
+<context>
+
+Answer:
+
+pick from the following.",Where is Mary? 
+385,kitchen,Answer:,Where is Sandra? 
+386,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+387,office,"Answer:
+
+Available options:
+[i] Vicksburg
+[ii] Mississippi",Where is John? 
+388,office,"Answer:
+
+In the context, ""Mary traveled to the office"" means:",Where is Mary? 
+389,kitchen,"Answer:
+
+She is in the kitchen.
+
+Question: What is the name",Where is Sandra? 
+390,kitchen,"Answer: The church of St. John the Baptist
+
+Is the answer correct?",Where is Mary? 
+391,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+392,bathroom,"Possible answers:
+(a). in the garden.
+(b). in the church",Where is Mary? 
+393,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+394,office,"Answer:
+
+Available options:
+[-] in the kitchen
+[-] in the",Where is Sandra? 
+395,office,Answer:,Where is Daniel? 
+396,bedroom,"Answer:
+
+Available options:
+[1]. in the garden.
+[2",Where is Daniel? 
+397,office,"Answer:
+
+OPT:
+[i] Newhaven
+[ii] Piccad",Where is Daniel? 
+398,bathroom,"Answer:
+
+In the bathroom.
+
+.
+
+Is the answer correct?",Where is Sandra? 
+399,garden,"Answer:
+
+SCENE--_A Hall looking towards the Garden._",Where is Sandra? 
+400,bedroom,"Answer:
+
+OPTIONS:
+[A]. Attila
+[B]. Att",Where is John? 
+401,garden,Answer:,Where is John? 
+402,bedroom,"Answer:
+
+In the
+
+Scene within sight of the Tiber--Ships ready",Where is John? 
+403,kitchen,"Answer:
+
+Available options:
+[1]. The back yard.
+[2",Where is Sandra? 
+404,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is Sandra? 
+405,kitchen,"Possible answers:
+[i] in the kitchen.
+[ii] in the ver",Where is Daniel? 
+406,hallway,Answer:,Where is Daniel? 
+407,bedroom,"Answer:
+
+<context>
+
+<answer>
+
+<context>",Where is Sandra? 
+408,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+409,kitchen,"Answer:
+
+<context>
+Sandra went to the bathroom.
+</context",Where is Sandra? 
+410,bedroom,Answer:,Where is John? 
+411,garden,Answer:,Where is Sandra? 
+412,bathroom,"Answer: The answer is:
+
+<context>
+<question>
+<answer",Where is Sandra? 
+413,hallway,"Answer:
+
+(1) in the bathroom
+(2) in the bedroom",Where is Daniel? 
+414,office,Answer:,Where is Sandra? 
+415,bedroom,"Answer:
+
+OPTIONS:
+- London
+- Edinburgh
+- Glasgow
+-",Where is Daniel? 
+416,bedroom,Answer:,Where is Daniel? 
+417,kitchen,"Answer:
+
+Available options:
+[1]. The orchard.
+[2].",Where is John? 
+418,hallway,"Answer:
+
+<context>
+<paragraph>Sandra journeyed to the hall",Where is Sandra? 
+419,bathroom,"Answer:
+
+OPT:
+[i] The garden.
+[ii] The",Where is Sandra? 
+420,hallway,"Answer:
+
+<context>
+Sandra went back to the kitchen.
+</",Where is Sandra? 
+421,hallway,"Answer:
+<context>
+The most recent location of Sandra is the bathroom.
+</",Where is Sandra? 
+422,bathroom,Answer:,Where is Sandra? 
+423,hallway,"Answer: _The garden_
+
+Based on this paragraph, choose the correct option to",Where is Daniel? 
+424,bedroom,"Answer:
+Available options:
+[i] The bathroom
+[ii] The bedroom",Where is Mary? 
+425,kitchen,"Answer:
+
+Available options:
+[i] The Beaubien's house.",Where is John? 
+426,kitchen,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is John? 
+427,office,"OPTIONS:
+- in the office
+- in the garden
+- in the house",Where is John? 
+428,bedroom,"OPTIONS:
+[A]. in the kitchen.
+[B]. in the living",Where is Sandra? 
+429,bedroom,"Answer:
+Available options:
+[i] Piccadilly Circus
+[ii]",Where is Sandra? 
+430,office,Answer:,Where is John? 
+431,kitchen,"Answer:
+
+Available options:
+[-] in the kitchen
+[-] in the nursing",Where is John? 
+432,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+433,kitchen,"Answer:
+
+<context>
+
+Answer: Mary went to the hallway.",Where is Mary? 
+434,office,"Answer:
+
+OPTIONS:
+- Sharpsburg, Maryland
+- Antiet",Where is Daniel? 
+435,garden,"Answer:
+
+<context>
+
+The context is:
+
+Sandra went",Where is Sandra? 
+436,kitchen,"Answer: <i>The Green Chamber</i>
+
+pick from the following.",Where is Mary? 
+437,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+438,bedroom,"Answer:
+
+Question: What is the name of the man who was in charge of",Where is Daniel? 
+439,garden,"Answer:
+
+In the passage, where is John?",Where is John? 
+440,bedroom,"Answer:
+
+SCENE--_A Hall looking towards the Garden._
+
+ _",Where is Sandra? 
+441,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+442,bathroom,Answer:,Where is Daniel? 
+443,garden,"Answer:
+
+Choose your answer from:
+[I] London.
+[II",Where is Mary? 
+444,bedroom,"Answer:
+
+OPTIONS:
+[i] The garden.
+[ii]",Where is Daniel? 
+445,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+446,bedroom,Answer:,Where is Sandra? 
+447,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+448,garden,"Answer: In the garden
+
+Based on the paragraph, what is the best answer to",Where is Daniel? 
+449,kitchen,"Answer: In the kitchen.
+
+Question: What is the name of the instrument which",Where is Sandra? 
+450,kitchen,Answer:,Where is John? 
+451,kitchen,"Answer:
+
+<context>
+
+<question>
+
+What is the name",Where is John? 
+452,kitchen,"Answer:
+
+<context>
+
+Sandra moved to the office. You have",Where is Sandra? 
+453,garden,Answer:,Where is Sandra? 
+454,bathroom,Answer:,Where is Sandra? 
+455,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+456,bedroom,"Answer: In the bedroom.
+
+Question: What is the name of the person who",Where is Mary? 
+457,hallway,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where is John? 
+458,garden,"OPTIONS:
+[1]. in the kitchen.
+[2]. in the hall",Where is John? 
+459,hallway,"Answer:
+Available options:
+[i] Geralton Castle
+[ii] New",Where is Sandra? 
+460,bathroom,"Answer:
+
+Available options:
+[1]. New York
+[2]. Grey",Where is Sandra? 
+461,garden,Answer:,Where is Sandra? 
+462,bedroom,"Answer:
+<context>
+
+<context>
+
+<context>",Where is John? 
+463,office,Answer:,Where is John? 
+464,garden,Answer: In the _Allgemeine deutsche Bibliothek_,Where is John? 
+465,garden,"Answer:
+
+<context>
+Sandra went back to the garden. You were",Where is Sandra? 
+466,bedroom,Answer:,Where is Daniel? 
+467,bedroom,"Answer:
+
+OPT:
+[i] The Almond blossoms.
+[ii",Where is Daniel? 
+468,bedroom,"Answer:
+
+Available options:
+(1). in the bedroom.
+(2",Where is Sandra? 
+469,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+470,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+471,office,"Answer:
+
+Available options:
+(A). in the house of Milnwood",Where is Mary? 
+472,office,Answer:,Where is Mary? 
+473,bathroom,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where is John? 
+474,kitchen,"Answer:
+
+Possible answers:
+[i] in the kitchen
+[ii]",Where is John? 
+475,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+476,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+477,kitchen,"Answer:
+
+<context>
+Sandra went to the kitchen.
+</context",Where is Sandra? 
+478,garden,Answer:,Where is John? 
+479,bathroom,Answer:,Where is John? 
+480,bedroom,"Answer:
+
+In the Verandah
+
+Available options:
+1). Yes",Where is Sandra? 
+481,bedroom,"Answer:
+
+<context>
+ _Man._ My father, I'm still a",Where is Sandra? 
+482,hallway,"Answer:
+
+<context>
+_At._                                Alas! _Man",Where is Daniel? 
+483,hallway,"Answer:
+Available choices:
+[i] in the hallway.
+[ii]",Where is John? 
+484,garden,"Answer:
+
+Available options:
+(1). in the garden.
+(2",Where is John? 
+485,bedroom,"Answer:
+
+Available options:
+[i] in the Long Island beach hotel",Where is Daniel? 
+486,bathroom,"Answer:
+<context>
+<context>
+<context>
+<context>",Where is Sandra? 
+487,hallway,"Answer:
+
+<context>
+
+<example>
+Daniel travelled to the hall",Where is Daniel? 
+488,bedroom,Answer:,Where is John? 
+489,bathroom,"Answer:
+
+OPT:
+[1]. The palace of the King.
+[",Where is Daniel? 
+490,kitchen,Answer:,Where is Daniel? 
+491,bedroom,Answer:,Where is John? 
+492,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context>",Where is John? 
+493,garden,"OPTIONS:
+- in the operating-room
+- in the kitchen
+- in",Where is John? 
+494,garden,"Answer:
+
+Available options:
+[A]. in the White Springs Hotel.",Where is John? 
+495,kitchen,"Answer:  
+Choices:
+[A]. In Glasgow.
+[B]. In",Where is Mary? 
+496,kitchen,"Answer:
+
+<context>
+<example>
+The most recent location of Mary",Where is Mary? 
+497,bedroom,"OPTIONS:
+[a]. in the kitchen.
+[b]. in the bedroom",Where is Sandra? 
+498,hallway,"Answer:
+
+Available options:
+[i] The hospital.
+[ii]",Where is John? 
+499,hallway,"Answer:
+
+In the ""Quat'z' Arts"" ball.",Where is John? 
+500,kitchen,Answer:,Where is Daniel? 
+501,garden,"Answer:
+
+OPTIONS:
+[i] Luxembourg
+[ii] Luxembourg Gardens",Where is Daniel? 
+502,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+503,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+504,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+505,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+506,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+507,office,"OPTIONS:
+[A]. in India;
+[B]. in England;",Where is Daniel? 
+508,office,,Where is Daniel? 
+509,bedroom,,Where is Daniel? 
+510,bedroom,"Answer:
+
+Available options:
+[i] The Temple
+[ii] Paper",Where is John? 
+511,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+512,bedroom,Answer:,Where is Mary? 
+513,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+514,office,"Answer:
+
+OPT:
+[i] The man who is sitting in the garden",Where is Daniel? 
+515,bathroom,"Answer:
+
+Available options:
+[i] Sandwood, this side of Kenos",Where is Mary? 
+516,bathroom,"Answer:
+
+[Illustration]
+
+[Illustration]
+
+[Illust",Where is Daniel? 
+517,bedroom,"Answer:
+
+<context>
+
+<question>
+
+<answer>",Where is Sandra? 
+518,hallway,Answer:,Where is Daniel? 
+519,garden,"Answer: [A]. San Petronio
+
+Question: What is the name of",Where is Daniel? 
+520,office,Answer:,Where is Sandra? 
+521,office,Answer:,Where is Daniel? 
+522,hallway,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where is Daniel? 
+523,hallway,"Possible Answers:
+[A]. in the house.
+[B]. in the office",Where is Daniel? 
+524,garden,"Answer: _The hospital_
+
+pick from the following.
+[A]. in",Where is Sandra? 
+525,hallway,Answer:,Where is Mary? 
+526,office,Answer:,Where is Daniel? 
+527,garden,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is Daniel? 
+528,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+529,hallway,"Answer:
+
+Available options:
+[i] The office.
+[ii]",Where is Mary? 
+530,garden,"Answer:
+
+Available options:
+[1]. Palenque
+[2].",Where is John? 
+531,garden,Answer:,Where is John? 
+532,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+533,office,Answer:,Where is Sandra? 
+534,bathroom,Answer:,Where is Daniel? 
+535,garden,"Answer:
+The answer is:",Where is Sandra? 
+536,bedroom,"Answer:
+
+In the bedroom
+
+Is the answer ""In the bedroom""?",Where is Sandra? 
+537,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+538,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is Sandra? 
+539,bedroom,Answer:,Where is Sandra? 
+540,garden,"Answer:
+
+OPTIONS:
+[i] Jamestown
+[ii] Powhat",Where is John? 
+541,office,"Answer: In the house of a neighboring farmer.
+
+Question: Who is the father",Where is Mary? 
+542,hallway,"Answer: He is in the garden.
+
+Question: Who is the writer of the",Where is Daniel? 
+543,hallway,Answer:,Where is John? 
+544,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+545,garden,"Possible answers:
+[1]. In the United States.
+[2]. In England",Where is Sandra? 
+546,kitchen,"Answer: The answer is:
+
+A. The church of St. Mary Magdalene",Where is Mary? 
+547,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+548,hallway,Answer:,Where is John? 
+549,bedroom,Answer:,Where is Daniel? 
+550,bedroom,Answer:,Where is John? 
+551,bathroom,"Answer:
+
+Available options:
+[i] in the car
+[ii]",Where is John? 
+552,office,"OPTIONS:
+[i] in the hospital.
+[ii] in the theatre",Where is John? 
+553,bedroom,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where is Daniel? 
+554,kitchen,"Answer:
+
+OPTIONS:
+[i] The kitchen.
+[ii]",Where is Daniel? 
+555,hallway,"Answer:
+
+OPTIONS:
+[i] in the kitchen
+[ii]",Where is Sandra? 
+556,kitchen,"Answer:
+
+OPT:
+[A]. in the kitchen.
+[B].",Where is Mary? 
+557,bedroom,Answer:,Where is Daniel? 
+558,bedroom,"Possible answers:
+[i] in the bedroom
+[ii] in the bathroom",Where is Daniel? 
+559,bedroom,,Where is Mary? 
+560,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+561,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is Sandra? 
+562,garden,"Answer:
+
+OPTIONS:
+- in the garden
+- in the church",Where is Sandra? 
+563,kitchen,"Answer:
+
+OPT:
+[1]. The kitchen
+[2]. The bathroom",Where is Daniel? 
+564,bedroom,Answer:,Where is Sandra? 
+565,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+566,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+567,kitchen,"Answer:
+
+OPT:
+[1]. The kitchen.
+[2]. The",Where is Daniel? 
+568,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+569,bedroom,"Answer:
+
+Question: What is the name of the person who is in love with Sandra",Where is Sandra? 
+570,bedroom,Answer:,Where is Daniel? 
+571,bedroom,"Answer: He went back to the bedroom.
+
+Question: What is the name of",Where is Daniel? 
+572,kitchen,Answer:,Where is Sandra? 
+573,kitchen,"Answer:
+
+A. in the kitchen
+
+B. in the hallway",Where is John? 
+574,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is Sandra? 
+575,bathroom,"Answer:
+
+Available options:
+(1). Hillerton
+(2). Hill",Where is John? 
+576,bedroom,"Answer:
+
+Available options:
+(1). Hillerton
+(2). Hill",Where is John? 
+577,hallway,"OPTIONS:
+[-] San Francisco
+[-] Marysville
+[-] San Francisco",Where is Daniel? 
+578,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+579,bedroom,,Where is Daniel? 
+580,hallway,Answer:,Where is John? 
+581,hallway,"Answer:
+
+In the first paragraph, it is mentioned that John is a student.",Where is John? 
+582,garden,"Answer:
+
+<context>
+Daniel went back to the bedroom.
+</context",Where is Daniel? 
+583,kitchen,Answer:,Where is Daniel? 
+584,bedroom,Answer:,Where is Mary? 
+585,bedroom,Answer:,Where is Sandra? 
+586,garden,"Answer:
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+587,hallway,Answer:,Where is Daniel? 
+588,bedroom,"Answer:
+
+In the bedroom.
+
+Is the answer ""in the bedroom""",Where is John? 
+589,bedroom,"Answer:
+
+<context>
+
+Answer:",Where is Mary? 
+590,office,"Answer:
+
+<context>
+
+Sandra is at home.
+</context",Where is Sandra? 
+591,hallway,"Answer:
+
+In the context, ""Mary"" is used to refer to:",Where is Mary? 
+592,office,Answer:,Where is John? 
+593,garden,"Answer:
+
+Available options:
+[i] The hospital.
+[ii]",Where is John? 
+594,bathroom,"Answer:
+
+Available options:
+[i] The hospital ward.
+[ii",Where is John? 
+595,bathroom,Answer:,Where is Sandra? 
+596,office,"Answer:
+<context>
+<context>
+<context>
+<context>",Where is Sandra? 
+597,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is Sandra? 
+598,garden,"Answer:
+
+Possible answers:
+[i] The Red-shouldered Hawk",Where is Daniel? 
+599,bedroom,Answer:,Where is Daniel? 
+600,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+601,bedroom,"Answer:
+
+Available options:
+[i] The bedroom.
+[ii]",Where is Sandra? 
+602,kitchen,"Available options:
+[1]. in the office.
+[2]. in the house.",Where is Mary? 
+603,kitchen,"Answer:
+
+<context>
+
+<answer>
+
+<context>",Where is Sandra? 
+604,office,"Answer:
+
+OPT:
+[1]. In the bathroom.
+[2].",Where is John? 
+605,garden,"Answer:
+
+Answer:
+
+pick from the following.
++ Mary's bedroom",Where is Mary? 
+606,kitchen,Answer:,Where is John? 
+607,hallway,"Answer:
+
+The answer to this question is within the text:
+
+John went",Where is John? 
+608,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+609,bedroom,Answer:,Where is Daniel? 
+610,kitchen,,Where is Daniel? 
+611,office,"Answer:
+
+She is in the kitchen.
+
+Is the answer yes or no",Where is Sandra? 
+612,bathroom,"Possible answers:
+[A]. in the kitchen.
+[B]. in the bathroom",Where is Daniel? 
+613,garden,"Answer:
+
+In the context of the passage, what is John doing?",Where is John? 
+614,bathroom,Answer:,Where is Sandra? 
+615,office,Answer:,Where is Daniel? 
+616,kitchen,Answer:,Where is Sandra? 
+617,hallway,Answer:,Where is Daniel? 
+618,kitchen,"Answer:
+
+In the context of the following passage, what is the name of the",Where is Mary? 
+619,office,"Answer:
+
+<context>
+
+<question>
+
+<answer>",Where is Sandra? 
+620,garden,Answer: The first volume of the _Chronicles of Canada_ is _The First,Where is John? 
+621,office,"Answer:
+
+<context>
+
+Answer:
+
+pick from the following.",Where is Mary? 
+622,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+623,kitchen,"Answer:
+
+Available options:
+[1]. The kitchen.
+[2].",Where is Sandra? 
+624,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is John? 
+625,bedroom,,Where is Daniel? 
+626,bathroom,"Answer:
+
+Available options:
+[i] The library.
+[ii]",Where is John? 
+627,bathroom,"Answer:
+
+Possible answers:
+[A]. The Hoffman House.
+[B",Where is John? 
+628,bedroom,Answer:,Where is John? 
+629,bedroom,Answer:,Where is John? 
+630,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+631,bedroom,"Answer:
+
+In the bedroom
+
+Is the answer ""In the bedroom""?",Where is Mary? 
+632,bedroom,"Answer: The kitchen
+
+Based on the paragraph, is the answer to the question is",Where is Mary? 
+633,kitchen,Answer:,Where is Mary? 
+634,garden,"Answer:
+
+Available options:
+[1]. The bathroom.
+[2].",Where is John? 
+635,garden,Answer:,Where is John? 
+636,garden,Answer:,Where is Sandra? 
+637,kitchen,"Answer:
+
+Available options:
+[A]. in the kitchen.
+[B",Where is John? 
+638,hallway,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is Mary? 
+639,bathroom,"OPTIONS:
+[a]. in the bathroom.
+[b]. in the kitchen",Where is Sandra? 
+640,garden,"Answer:
+
+OPTIONS:
+- at the garden
+- at the house",Where is Daniel? 
+641,garden,"Options:
+[A]. in the garden
+[B]. in the sleigh
+[",Where is Daniel? 
+642,bedroom,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where is Daniel? 
+643,office,"Answer:
+
+Available options:
+[i] in the house
+[ii]",Where is John? 
+644,garden,"Answer:
+
+Available options:
+[i] The forest.
+[ii]",Where is Sandra? 
+645,garden,"Answer:
+
+Available options:
+[i] The mountains.
+[ii]",Where is Mary? 
+646,hallway,"Answer:
+
+OPTIONS:
+[A]. The forest.
+[B].",Where is Sandra? 
+647,office,,Where is Sandra? 
+648,kitchen,Answer:,Where is Sandra? 
+649,kitchen,"</context>
+
+Answer:
+
+<context>
+
+<context>
+
+<",Where is Sandra? 
+650,bathroom,"Answer:
+
+Available options:
+1). in the bathroom.
+2). in",Where is Daniel? 
+651,garden,"Answer:
+
+OPT:
+- garden
+- palace
+- church
+- garden",Where is Sandra? 
+652,kitchen,"Answer:
+
+<context>
+
+Daniel went to the kitchen. Daniel went to",Where is Daniel? 
+653,kitchen,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where is Mary? 
+654,garden,"OPTIONS:
+[A]. in the garden.
+[B]. in the kitchen",Where is Mary? 
+655,bathroom,"A:
+B:
+C:
+D:
+Answer:
+[D]",Where is Mary? 
+656,kitchen,"Answer:
+
+OPTIONS:
+[i] in the jungle.
+[ii",Where is John? 
+657,kitchen,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is John? 
+658,garden,"Answer: </context>
+
+<context>
+
+<context>
+
+<",Where is Daniel? 
+659,kitchen,"OPTIONS:
+[A]. in the kitchen.
+[B]. in the garden",Where is Daniel? 
+660,kitchen,"Answer:
+
+Choose your answer from:
+[A]. The kitchen.
+[",Where is Sandra? 
+661,kitchen,"Answer:
+
+Available options:
+[1]. The house.
+[2].",Where is Sandra? 
+662,garden,Answer:,Where is John? 
+663,bedroom,Answer:,Where is Mary? 
+664,bedroom,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is Mary? 
+665,bathroom,"Answer:
+
+Available options:
+[A]. in the kitchen.
+[B",Where is Mary? 
+666,office,Answer:,Where is Daniel? 
+667,office,Answer:,Where is John? 
+668,office,"Answer:
+
+<poem>
+
+<poem>
+
+<po",Where is John? 
+669,office,"Answer:
+<context>
+
+<context>
+<context>
+<context",Where is John? 
+670,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+671,bedroom,"Answer:
+
+Available options:
+[1]. in the kitchen.
+[2",Where is John? 
+672,office,"OPTIONS:
+- in the kitchen
+- in the garden
+- in the office",Where is Daniel? 
+673,bathroom,"Answer:
+
+Available options:
+[i] in the garden.
+[ii",Where is Daniel? 
+674,kitchen,"Answer:
+
+She is sitting in the garden.
+
+pick from the following.",Where is Mary? 
+675,bathroom,"Possible answers:
+[i] in the hallway.
+[ii] in the",Where is Mary? 
+676,office,"Answer:
+
+OPTIONS:
+[i] Uri
+[ii] App",Where is Mary? 
+677,hallway,Answer:,Where is Sandra? 
+678,hallway,Answer:,Where is Sandra? 
+679,hallway,Answer:,Where is Sandra? 
+680,kitchen,"Answer:
+
+Answer:
+
+Question: What is Daniel's name?",Where is Daniel? 
+681,kitchen,"OPTIONS:
+[a]. in the temple.
+[b]. in the forest",Where is Daniel? 
+682,kitchen,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where is Mary? 
+683,office,"Answer:
+
+Available options:
+[i] The Astor House.
+[",Where is Mary? 
+684,bathroom,Answer:,Where is Daniel? 
+685,garden,"Answer:
+
+Available options:
+[i] The doctor is at the hospital.",Where is John? 
+686,bathroom,"Answer:
+
+Available options:
+[-] The point.
+[-] The water",Where is Mary? 
+687,office,"Answer:
+
+Available options:
+[i] Northumberland
+[ii] Ann",Where is Daniel? 
+688,bathroom,"Answer:
+
+Possible answers:
+I. in the kitchen
+II. in the",Where is John? 
+689,hallway,Answer:,Where is John? 
+690,garden,Answer:,Where is Sandra? 
+691,bathroom,"Answer:
+
+Available options:
+[-] Penzance
+[-] Cornwall",Where is Sandra? 
+692,bathroom,"Answer:
+
+Available options:
+[i] Marazion
+[ii]",Where is Sandra? 
+693,office,"Answer: <context>
+
+<context>
+
+<context>
+
+<",Where is Sandra? 
+694,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+695,garden,Answer:,Where is Mary? 
+696,garden,Answer:,Where is Mary? 
+697,bedroom,Answer:,Where is Sandra? 
+698,kitchen,"Answer:
+
+<context>
+
+<example>
+The boughs of",Where is Sandra? 
+699,bedroom,"Answer:
+
+OPT:
+[i] The White Springs Hotel
+[ii]",Where is Daniel? 
+700,hallway,Answer:,Where is Mary? 
+701,hallway,"Answer:
+
+Pick from:
+[1]. The hallway.
+[2].",Where is Mary? 
+702,bathroom,Answer:,Where is John? 
+703,bathroom,"Answer:
+
+Available options:
+[A]. Luxembourg prison.
+[B].",Where is John? 
+704,office,"Answer:
+A) in the Luxembourg
+B) in the Luxembourg
+C) in the",Where is John? 
+705,hallway,"Possible answers:
+[a]. in the garden.
+[b]. in the house",Where is Mary? 
+706,hallway,"Possible answers:
+[A]. in the garden.
+[B]. in the kitchen",Where is Mary? 
+707,bathroom,"Possible answers:
+[i] in the garden.
+[ii] in the office",Where is Daniel? 
+708,office,,Where is Sandra? 
+709,hallway,Answer:,Where is Mary? 
+710,garden,"Answer:
+
+Available options:
+(1). Boston
+(2). New York",Where is John? 
+711,garden,Answer:,Where is Sandra? 
+712,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+713,kitchen,"Answer:
+
+<context>
+<answer>
+
+</answer>",Where is Sandra? 
+714,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+715,garden,"Answer:
+
+Available options:
+(1). in the garden.
+(2",Where is Sandra? 
+716,hallway,"Answer:
+
+Available options:
+[i] Kentucky
+[ii] Virginia",Where is Mary? 
+717,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+718,hallway,"Answer:
+
+OPT:
+[A]. in the kitchen.
+[B].",Where is Mary? 
+719,office,"Answer:
+
+OPTIONS:
+- in the bathroom
+- in the kitchen",Where is Sandra? 
+720,garden,"Answer:
+
+Choose from:
+[1]. in the library.
+[2",Where is Daniel? 
+721,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+722,garden,"Answer: [A]. Greenberry Point
+
+pick from the following.
+[A",Where is Daniel? 
+723,office,Answer:,Where is Sandra? 
+724,office,Answer:,Where is Sandra? 
+725,garden,"Answer:
+
+<context>
+<context.section>
+<context.paragraph>",Where is Sandra? 
+726,office,Answer:,Where is John? 
+727,bathroom,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The",Where is Mary? 
+728,garden,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where is Mary? 
+729,bathroom,"Answer:
+
+OPTIONS:
+[A]. Lucknow
+[B]. C",Where is Daniel? 
+730,bedroom,"Answer:
+
+<context>
+
+John was a soldier of the Ninety-",Where is John? 
+731,bedroom,"Answer:
+<context>
+<context>
+<context>
+<context>",Where is John? 
+732,hallway,"Answer: She is in the hallway.
+
+Question: What is the name of",Where is Sandra? 
+733,office,"Answer:
+
+Available options:
+[i] The house of correction.
+[",Where is Mary? 
+734,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+735,hallway,"Answer:
+
+Available options:
+[A]. in the house;
+[B",Where is John? 
+736,bathroom,"Answer:
+
+OPTIONS:
+[i] The library.
+[ii] The",Where is Sandra? 
+737,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+738,bathroom,"Answer:
+<a href=""https://en.wikipedia.org/wiki/Bast",Where is John? 
+739,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+740,garden,"Answer:
+
+Available options:
+[1]. in the kitchen.
+[2",Where is John? 
+741,garden,"Answer:
+
+Available options:
+[1]. The Deanery.
+[2",Where is John? 
+742,kitchen,"Answer:
+
+OPT:
+[i] The barn.
+[ii] The",Where is Daniel? 
+743,office,"Answer:
+
+OPT:
+[i] The Brewster House.
+[ii",Where is Sandra? 
+744,bathroom,"Answer:
+
+<context>
+
+Answer:
+
+<context>",Where is Daniel? 
+745,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+746,bathroom,Answer:,Where is John? 
+747,hallway,"Answer:
+<context>
+
+<context>
+
+<context>",Where is John? 
+748,office,Answer:,Where is John? 
+749,kitchen,"Answer:
+
+Available options:
+[i] The man is in the stable.",Where is John? 
+750,office,"Answer:
+
+Available options:
+(A). The editor of the ""Mountain",Where is Sandra? 
+751,office,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is Sandra? 
+752,hallway,"Answer:
+
+In Oxford, in the physic garden.
+
+Who was the author",Where is Daniel? 
+753,bedroom,"Answer:
+
+OPTIONS:
+- garden
+- house
+- church
+- garden",Where is Mary? 
+754,hallway,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where is Daniel? 
+755,garden,"Answer: The most recent location of Daniel is
+Answer:",Where is Daniel? 
+756,garden,"Answer:
+
+OPTIONS:
+[i] in the house.
+[ii",Where is Daniel? 
+757,office,"Answer:
+
+Available options:
+[i] John is in the kitchen.",Where is John? 
+758,kitchen,,Where is Sandra? 
+759,bathroom,"Answer:
+
+<context>
+<question>
+What is the name of the",Where is Mary? 
+760,office,"Answer:
+
+<context>
+
+<question>
+
+<answer>",Where is Sandra? 
+761,bedroom,"Answer:
+
+<context>
+The context is:
+
+Sandra journeyed",Where is Sandra? 
+762,bathroom,"Answer:
+
+<context>
+
+The answer is:
+
+A. The",Where is Mary? 
+763,garden,"Answer:
+
+Available options:
+[i] in the hotel.
+[ii",Where is Daniel? 
+764,hallway,"Possible answers:
+(A). in the kitchen.
+(B). in the garden.",Where is Daniel? 
+765,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+766,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+767,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+768,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+769,bedroom,Answer:,Where is John? 
+770,bathroom,Answer:,Where is Daniel? 
+771,bedroom,"Answer:
+
+[Illustration: THE MORNING STAR.
+
+The morning",Where is John? 
+772,office,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where is John? 
+773,office,"Answer:
+
+Available options:
+[-] Hillerton
+[-] Daly's",Where is John? 
+774,kitchen,"Answer:
+
+Available options:
+[i] Hillerton
+[ii] C",Where is Mary? 
+775,kitchen,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The",Where is Daniel? 
+776,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context>",Where is John? 
+777,bathroom,Answer:,Where is John? 
+778,bathroom,"Answer:
+A. in the kitchen
+B. in the bathroom
+C. in the",Where is John? 
+779,office,Answer:,Where is Daniel? 
+780,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+781,office,"OPTIONS:
+- in the corner
+- in the corner room
+- in the",Where is Daniel? 
+782,office,"Answer:
+
+Answer:
+
+Available options:
+1). in the kitchen.",Where is Daniel? 
+783,bathroom,Answer:,Where is John? 
+784,hallway,Answer:,Where is Sandra? 
+785,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+786,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+787,hallway,"Answer:
+
+Possible answers:
+[i] The kitchen
+[ii] The",Where is Mary? 
+788,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+789,garden,"Answer:
+
+Available options:
+[i] The castle of Tillietudlem",Where is Sandra? 
+790,garden,"Answer:
+
+Available options:
+[i] The house.
+[ii]",Where is Sandra? 
+791,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+792,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+793,office,Answer:,Where is John? 
+794,garden,Answer:,Where is Mary? 
+795,office,,Where is Daniel? 
+796,office,Answer:,Where is Sandra? 
+797,office,Answer:,Where is Mary? 
+798,office,"Answer: [A]. Gallatin
+
+Question: What is the name of the man",Where is Sandra? 
+799,office,Answer:,Where is Sandra? 
+800,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+801,bathroom,Answer:,Where is Daniel? 
+802,office,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where is Mary? 
+803,bedroom,Answer:,Where is Sandra? 
+804,office,,Where is Mary? 
+805,garden,"Answer:
+
+Available options:
+1). in the house.
+2). in",Where is John? 
+806,bedroom,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where is John? 
+807,bedroom,"Answer:
+
+<context>
+<question>
+What is the name of the",Where is John? 
+808,hallway,Answer:,Where is Daniel? 
+809,hallway,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is Daniel? 
+810,garden,"Answer: [Possible answer: Hillerton]
+
+Is the answer ""Hillerton""?",Where is Sandra? 
+811,garden,"Answer:
+
+<context>
+
+Sandra lives in Hillerton.
+</",Where is Sandra? 
+812,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+813,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+814,hallway,"Answer:
+
+<context>
+
+Mary was in the kitchen.
+
+</",Where is Mary? 
+815,office,"OPTIONS:
+- in the office
+- in the house
+- in the studio",Where is Daniel? 
+816,office,"Answer:
+
+<context>
+
+Answer:
+
+pick from the following.",Where is Mary? 
+817,kitchen,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is Daniel? 
+818,garden,"Answer:
+Available options:
+[i] in the office.
+[ii] in",Where is John? 
+819,office,"Available options:
+[i] in the nunnery.
+[ii] in the",Where is Daniel? 
+820,garden,Answer:,Where is Sandra? 
+821,garden,"Answer:
+The answer is:",Where is Sandra? 
+822,bathroom,"Answer:
+
+Available options:
+(1). in the bathroom.
+(2",Where is Daniel? 
+823,hallway,"Answer:
+
+Available options:
+[A]. in the hallway.
+[",Where is John? 
+824,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+825,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+826,bathroom,"Answer:
+
+<context>
+
+Mary journeyed to the bathroom.",Where is Mary? 
+827,bedroom,Answer:,Where is Mary? 
+828,bathroom,Answer:,Where is Mary? 
+829,kitchen,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is Daniel? 
+830,garden,"Answer:
+
+OPT:
+[i] North Side
+[ii] Hyde Park",Where is Mary? 
+831,bathroom,"Answer:
+
+Available options:
+[i] The house.
+[ii]",Where is Sandra? 
+832,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+833,kitchen,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is Sandra? 
+834,bedroom,"OPTIONS:
+[A]. in the bedroom.
+[B]. in the kitchen",Where is Mary? 
+835,bathroom,"Possible answers:
+[A]. St Charles;
+[B]. St Hilaire",Where is John? 
+836,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+837,bathroom,Answer:,Where is Daniel? 
+838,office,Answer:,Where is Daniel? 
+839,hallway,"Answer:
+
+Answer:
+
+Question: What is the name of the Brownie",Where is Sandra? 
+840,garden,"Answer:
+
+<context>
+
+<example>
+Sandra went to the",Where is Sandra? 
+841,garden,"Answer:
+
+[Illustration]
+
+[Illustration]
+
+[Illust",Where is Sandra? 
+842,office,Answer:,Where is Daniel? 
+843,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+844,kitchen,Answer:,Where is John? 
+845,bedroom,"Answer:
+<context>
+Sandra is sitting in the bedroom.
+</context>",Where is Sandra? 
+846,bedroom,"Answer:
+
+Available options:
+[i] The church.
+[ii]",Where is John? 
+847,garden,Answer:,Where is Sandra? 
+848,garden,Answer:,Where is Sandra? 
+849,office,"Answer:
+
+OPTIONS:
+- in the garden
+- in the kitchen",Where is John? 
+850,bedroom,"Answer:
+
+A) in the house of assembly
+
+B) in the house",Where is Daniel? 
+851,hallway,"Answer:
+
+OPT:
+[i] St. Eustache
+[ii",Where is Daniel? 
+852,bathroom,"Answer: The ""hallway"".
+
+Question: What is the name of the Sacrament",Where is Daniel? 
+853,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+854,bedroom,"Answer:
+
+Available options:
+(1). in the bedroom.
+(2",Where is Mary? 
+855,bedroom,Answer:,Where is Daniel? 
+856,bedroom,Answer:,Where is Daniel? 
+857,bedroom,"Answer:
+
+<context>
+<context.section>
+  <context.paragraph",Where is John? 
+858,kitchen,"Answer:
+
+Available options:
+[i] The nunnery.
+[ii",Where is Mary? 
+859,office,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is Mary? 
+860,bathroom,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is Mary? 
+861,garden,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where is Mary? 
+862,office,"Answer:
+
+<context>
+
+Mary is in the hospital.
+
+</",Where is Mary? 
+863,kitchen,"Answer:
+
+<context>
+
+Mary went to the hallway. What relation",Where is Mary? 
+864,hallway,Answer:,Where is Mary? 
+865,garden,"Answer:
+
+Available options:
+[i] Kwa
+[ii] K",Where is Sandra? 
+866,bedroom,"Answer:
+
+<context>
+
+Answer:
+
+[1]",Where is Mary? 
+867,bedroom,"Answer: In the kitchen.
+
+Context: Mary is a young woman who travels to",Where is Mary? 
+868,kitchen,"Answer:
+
+<context>
+
+A:
+
+<context>",Where is Daniel? 
+869,hallway,Answer:,Where is John? 
+870,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+871,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is John? 
+872,hallway,"Answer: 
+<context>
+
+<context>
+
+<context>",Where is John? 
+873,hallway,"Answer:
+
+<i>A) The kitchen</i>
+<i>",Where is John? 
+874,garden,"Answer:
+
+Possible answers:
+[A]. in the garden
+[B].",Where is Mary? 
+875,garden,"Answer:
+
+Available options:
+[i] Boma
+[ii] B",Where is John? 
+876,garden,"Answer:
+
+Available options:
+[A]. The hotel.
+[B].",Where is John? 
+877,kitchen,Answer:,Where is Daniel? 
+878,hallway,Answer:,Where is Sandra? 
+879,office,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where is Sandra? 
+880,bedroom,,Where is John? 
+881,hallway,"Answer:
+
+In the first volume of the Treatise on Painting.
+
+Who",Where is Daniel? 
+882,office,Answer:,Where is Mary? 
+883,office,Answer:,Where is Mary? 
+884,hallway,"Answer:
+<context>
+
+<context>
+
+<context>",Where is John? 
+885,bedroom,,Where is John? 
+886,bedroom,,Where is Daniel? 
+887,hallway,Answer:,Where is Daniel? 
+888,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+889,bedroom,"Available options:
+[1]. in the office.
+[2]. in the apartment",Where is Daniel? 
+890,garden,Answer:,Where is John? 
+891,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+892,garden,"Answer:
+
+Available options:
+[i] The village of Nerac.",Where is John? 
+893,hallway,"Answer:
+
+In the garden.
+
+Question: What is the reason why Mary",Where is Mary? 
+894,office,"Answer:
+
+<DW52>
+
+<DW52>",Where is John? 
+895,office,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where is John? 
+896,garden,"Answer: The Court of Justice
+
+Question: What is the name of the person who",Where is Sandra? 
+897,hallway,"Answer: She is in the garden.
+
+Question: What is the name of the",Where is Sandra? 
+898,garden,"Answer:
+
+<context>
+<question>
+<answer>
+<context>",Where is John? 
+899,office,"OPTIONS:
+[A]. Quebec;
+[B]. Montreal;
+[C",Where is Daniel? 
+900,bathroom,"Answer:
+
+Available options:
+[i] The man who was called Felix.",Where is Daniel? 
+901,bathroom,"Possible answers:
+[A]. in the temple
+[B]. in the house",Where is Daniel? 
+902,garden,"Answer:
+
+Available options:
+[i] The old temple.
+[ii",Where is John? 
+903,office,"Answer:
+Available options:
+[i] Tennessee.
+[ii] Kentucky.",Where is Mary? 
+904,garden,Answer:,Where is Sandra? 
+905,garden,"Possible answers:
+(A). in the garden
+(B). on the sidewalk
+(",Where is Sandra? 
+906,kitchen,"Answer:
+
+Available options:
+[i] The Astor House.
+[",Where is Sandra? 
+907,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+908,office,"Answer: _In the bathroom._
+
+Question: What is the name of the man",Where is Daniel? 
+909,office,Answer:,Where is Mary? 
+910,bedroom,,Where is Daniel? 
+911,bedroom,Answer:,Where is Mary? 
+912,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+913,hallway,Answer:,Where is Daniel? 
+914,garden,Answer:,Where is Mary? 
+915,kitchen,,Where is Mary? 
+916,hallway,Answer:,Where is Sandra? 
+917,garden,Answer:,Where is Mary? 
+918,garden,Answer:,Where is Mary? 
+919,bedroom,Answer:,Where is Daniel? 
+920,bathroom,Answer:,Where is Daniel? 
+921,hallway,Answer:,Where is Mary? 
+922,hallway,"Answer:
+
+Answer the following question given the paragraph above:
+What is the name",Where is Daniel? 
+923,kitchen,Answer:,Where is Mary? 
+924,bedroom,"Answer: In the bedroom.
+
+Question: What is the name of the book?",Where is Daniel? 
+925,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+926,office,Answer:,Where is Daniel? 
+927,kitchen,Answer:,Where is Daniel? 
+928,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+929,bathroom,Answer:,Where is Mary? 
+930,office,Answer:,Where is Sandra? 
+931,office,,Where is Daniel? 
+932,bedroom,"Answer:
+<context>
+
+<context>
+
+<context>",Where is John? 
+933,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+934,kitchen,"Answer:
+<context>
+<context.section>
+    <context.paragraph>",Where is Sandra? 
+935,hallway,"Answer:
+
+<context>
+
+Answer:
+
+John is in the """,Where is John? 
+936,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+937,garden,"Answer: The ""House of God""
+
+Question: What is the name of the",Where is Daniel? 
+938,bedroom,"Answer:
+
+<DW72>sandra moved to the bedroom.",Where is Sandra? 
+939,bedroom,Answer:,Where is Sandra? 
+940,bedroom,Answer:,Where is John? 
+941,office,"Answer:
+
+OPTIONS:
+[i] Helstone
+[ii] Mar",Where is Daniel? 
+942,office,"Answer:
+
+OPT:
+[i] Cornwall
+[ii] Penzance",Where is Daniel? 
+943,kitchen,"Answer:
+
+Possible answers:
+[i] The village of Marazion.",Where is John? 
+944,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+945,office,Answer:,Where is Sandra? 
+946,bathroom,"Answer:
+
+In the first chapter of the book of Exodus, Mary is described as",Where is Mary? 
+947,bathroom,"Answer: The pyramids are of the class known as mastaba pyramids, the term mastaba",Where is Sandra? 
+948,kitchen,"Answer:
+
+OPTIONS:
+- in the field
+- in the garden",Where is Mary? 
+949,bedroom,"Answer:
+
+OPTIONS:
+[A]. Carvel Hall
+[B].",Where is Daniel? 
+950,hallway,"Answer:
+
+Available options:
+(A). Northumberland
+(B). Ann",Where is John? 
+951,kitchen,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is John? 
+952,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+953,kitchen,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is Mary? 
+954,office,"Possible answers:
+(A). in the kitchen.
+(B). in the garden.",Where is Sandra? 
+955,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+956,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is John? 
+957,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+958,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+959,bedroom,"Answer: In the bedroom.
+
+Based on this paragraph, is the correct answer """,Where is John? 
+960,hallway,"Answer: The most interesting part of the story is the part about Mary.
+
+Please answer",Where is Mary? 
+961,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Daniel? 
+962,bathroom,"Options:
+[I] in the kitchen.
+[II] in the dining room",Where is John? 
+963,bedroom,Answer:,Where is Mary? 
+964,garden,"Answer:
+
+OPTIONS:
+[1]. London
+[2]. Paris",Where is Mary? 
+965,garden,"Answer:
+
+In the third volume of the _Allgemeine Revision des g",Where is Daniel? 
+966,bathroom,"Answer:
+
+Answer:
+
+Question:  Given the paragraph above, please choose",Where is Mary? 
+967,bathroom,"OPTIONS:
+[A]. London
+[B]. England
+[C]. America",Where is Daniel? 
+968,hallway,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where is Mary? 
+969,kitchen,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is Sandra? 
+970,bathroom,Answer:,Where is Daniel? 
+971,kitchen,Answer:,Where is Daniel? 
+972,bathroom,Answer:,Where is Sandra? 
+973,hallway,Answer:,Where is Daniel? 
+974,hallway,"Answer:
+
+Available options:
+[-] The house.
+[-] The kitchen",Where is Daniel? 
+975,bedroom,"Answer:
+
+OPTIONS:
+- in the woods
+- in the mountains",Where is Daniel? 
+976,office,"Answer:
+
+Available options:
+[-] in the house
+[-] in the",Where is John? 
+977,office,"Answer: He is in the camp.
+
+Based on this paragraph, is the correct",Where is John? 
+978,bedroom,"Answer:
+
+<context>
+
+<question>
+
+<answer>",Where is Mary? 
+979,hallway,"Answer:
+
+<context>
+
+Sandra journeyed to the bathroom.",Where is Sandra? 
+980,kitchen,"Answer:
+
+OPTIONS:
+- Auburn
+- Boston
+- Burlington",Where is Mary? 
+981,bathroom,"Answer:
+
+Available options:
+[1]. Hardanger
+[2]. Hard",Where is Mary? 
+982,bedroom,"Answer:
+
+<context>
+
+Sandra went back to the bedroom.",Where is Sandra? 
+983,office,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where is Sandra? 
+984,garden,"OPTIONS:
+[A]. The garden.
+[B]. The fonda.",Where is Mary? 
+985,garden,"Answer:
+
+Available options:
+[i] Sierran foothill
+[",Where is Sandra? 
+986,garden,"Answer:
+
+<context>
+
+Sandra is a character in the novel """,Where is Sandra? 
+987,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Mary? 
+988,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is John? 
+989,bathroom,Answer:,Where is John? 
+990,garden,"Answer: The Sacrament of Marriage.
+
+Question: What is the sacrament of marriage?",Where is Sandra? 
+991,kitchen,"Possible answers:
+[1]. In the kitchen.
+[2]. In the upper chamber",Where is Sandra? 
+992,garden,Answer:,Where is John? 
+993,garden,Answer:,Where is Daniel? 
+994,garden,Answer:,Where is Mary? 
+995,kitchen,"Answer:
+
+[Illustration]
+
+[Illustration]
+
+[Illust",Where is John? 
+996,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is Sandra? 
+997,office,"Answer:
+
+Available options:
+[i] The Highlands.
+[ii]",Where is Sandra? 
+998,bathroom,"Answer:
+
+Available options:
+[i] Bath
+[ii] Bathroom",Where is Sandra? 
+999,bedroom,"Answer:
+
+In the garden.
+
+pick from the following.
+[I",Where is John? 

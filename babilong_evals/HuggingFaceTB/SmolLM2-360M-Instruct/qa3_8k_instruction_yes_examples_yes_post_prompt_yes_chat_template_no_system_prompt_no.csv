@@ -1,0 +1,4450 @@
+,target,output,question
+0,office,"Possible answers:
+[i] in the garden.
+[ii] in the kitchen",Where was the apple before the bathroom? 
+1,office,"Possible answers:
+[i] the garden.
+[ii] the kitchen.",Where was the apple before the hallway? 
+2,office,"Answer:
+
+Available options:
+(I). in the kitchen.
+(II",Where was the apple before the hallway? 
+3,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the garden? 
+4,bathroom,"Answer:
+<a href=""https://en.wikipedia.org/wiki/File",Where was the football before the garden? 
+5,garden,"Answer:
+
+Available options:
+(i). in the garden.
+(ii",Where was the apple before the bathroom? 
+6,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+7,kitchen,"Answer:
+
+Available options:
+[i] The Big Horn River.
+[",Where was the apple before the office? 
+8,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the office? 
+9,bedroom,Answer:,Where was the apple before the office? 
+10,garden,Answer:,Where was the apple before the bedroom? 
+11,garden,Answer:,Where was the apple before the bedroom? 
+12,garden,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The",Where was the milk before the bathroom? 
+13,garden,"Answer:
+
+Available options:
+(1). The bathroom.
+(2).",Where was the milk before the bathroom? 
+14,garden,"Answer:
+
+Available options:
+(1). The bathroom.
+(2).",Where was the milk before the bathroom? 
+15,kitchen,"Answer:
+
+OPTIONS:
+[-] The garden.
+[-] The office",Where was the football before the garden? 
+16,kitchen,Answer:,Where was the football before the garden? 
+17,garden,Answer:,Where was the milk before the bedroom? 
+18,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bedroom? 
+19,bedroom,Answer:,Where was the football before the bathroom? 
+20,garden,Answer:,Where was the football before the hallway? 
+21,garden,"Answer:
+
+<a href=""/questions/111"">More questions?",Where was the football before the office? 
+22,hallway,"Answer:
+
+<choices>
+  <listing>
+    <item>The bathroom",Where was the football before the garden? 
+23,office,"Answer:
+<context>
+<context>
+<context>
+<context>",Where was the milk before the kitchen? 
+24,kitchen,"OPTIONS:
+[A]. in the kitchen.
+[B]. in the bathroom",Where was the milk before the bedroom? 
+25,bathroom,"OPTIONS:
+[a]. in the living room.
+[b]. in the",Where was the football before the bedroom? 
+26,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the bedroom? 
+27,garden,"Answer:
+
+<br>
+pick from the following options:
+[A].",Where was the football before the office? 
+28,garden,Answer:,Where was the football before the office? 
+29,garden,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the apple before the office? 
+30,bathroom,"Answer:
+
+pick from the following options
+[A]. in the garden
+[",Where was the apple before the hallway? 
+31,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the kitchen? 
+32,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the kitchen? 
+33,hallway,Answer:,Where was the milk before the bedroom? 
+34,bedroom,"Answer:
+
+<context>
+
+<question>
+
+<answer>",Where was the milk before the garden? 
+35,hallway,"Answer:
+
+Available options:
+(I). In the hallway.
+(",Where was the apple before the bathroom? 
+36,hallway,"Answer: The football was in the kitchen.
+
+Question: What was the name of",Where was the football before the kitchen? 
+37,bathroom,"Answer: Before the kitchen
+
+Question: Before the kitchen, where was the apple?",Where was the apple before the kitchen? 
+38,garden,"Answer:
+
+<context>
+Before the bathroom, the apple was in the garden",Where was the apple before the bathroom? 
+39,garden,"Answer:
+<context>
+<context>
+<context>
+<context>",Where was the apple before the bathroom? 
+40,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the hallway? 
+41,garden,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the football before the hallway? 
+42,garden,"Answer:
+
+<context>
+Sterne’s influence in Germany lived its",Where was the milk before the hallway? 
+43,hallway,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where was the milk before the bathroom? 
+44,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the hallway? 
+45,bedroom,"Answer:
+
+OPT:
+[i] Jamestown.
+[ii] Matchcot",Where was the apple before the bathroom? 
+46,bedroom,Answer:,Where was the apple before the bathroom? 
+47,bedroom,"OPTIONS:
+[A]. inside the house.
+[B]. in the garden",Where was the apple before the bathroom? 
+48,bedroom,"OPTIONS:
+[a]. inside the kitchen.
+[b]. in the garden",Where was the apple before the bathroom? 
+49,bedroom,"OPTIONS:
+[A]. in the garden.
+[B]. in the kitchen",Where was the milk before the hallway? 
+50,kitchen,"Answer:
+
+Available options:
+[i] the garden
+[ii] the",Where was the apple before the garden? 
+51,garden,"OPTIONS:
+[a]. in the garden.
+[b]. in the kitchen",Where was the apple before the bedroom? 
+52,garden,"Answer:
+
+Available options:
+(A). The garden.
+(B).",Where was the football before the kitchen? 
+53,bathroom,Answer:,Where was the apple before the bedroom? 
+54,bathroom,Answer:,Where was the apple before the bedroom? 
+55,office,"Answer:
+
+Available options:
+[i] The hallway.
+[ii",Where was the football before the hallway? 
+56,kitchen,Answer:,Where was the apple before the office? 
+57,office,Answer:,Where was the football before the garden? 
+58,office,"Answer:
+
+<context>
+The answer is:
+
+A. The bedroom",Where was the football before the bedroom? 
+59,garden,"Answer:
+<context>
+The answer is:
+<i>The hallway",Where was the apple before the hallway? 
+60,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the bedroom? 
+61,bathroom,"Answer:
+
+Available options:
+[i] the bathroom.
+[ii]",Where was the football before the hallway? 
+62,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the kitchen? 
+63,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the bathroom? 
+64,garden,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where was the football before the bathroom? 
+65,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+66,bathroom,"Answer:
+
+OPTIONS:
+[1]. The kitchen.
+[2].",Where was the milk before the office? 
+67,bathroom,"Answer:
+
+<context>
+<DW53>
+
+</context",Where was the milk before the office? 
+68,garden,Answer:,Where was the football before the bedroom? 
+69,kitchen,"Answer: The bathroom.
+
+Question: What was the name of the poet?",Where was the football before the bathroom? 
+70,office,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the hallway? 
+71,hallway,Answer:,Where was the apple before the garden? 
+72,bathroom,Answer:,Where was the milk before the kitchen? 
+73,kitchen,"Answer:
+
+<context>
+_Pp._ 111-1",Where was the apple before the bathroom? 
+74,garden,Answer:,Where was the apple before the bathroom? 
+75,garden,Answer:,Where was the milk before the hallway? 
+76,hallway,Answer:,Where was the milk before the office? 
+77,garden,Answer:,Where was the milk before the hallway? 
+78,office,"A: in the garden
+
+B: in the office
+
+C: in the",Where was the apple before the bathroom? 
+79,office,"Answer:
+
+OPTIONS:
+[A]. The garden.
+[B].",Where was the apple before the bathroom? 
+80,kitchen,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The",Where was the milk before the office? 
+81,kitchen,"Answer:
+
+<context>
+
+<context>
+
+Answer:",Where was the milk before the office? 
+82,kitchen,Answer:,Where was the milk before the office? 
+83,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the hallway? 
+84,bathroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the bedroom? 
+85,garden,"Answer:
+
+<choices>
+[a]. bedroom
+[b]. hallway",Where was the apple before the bathroom? 
+86,bathroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the kitchen? 
+87,bathroom,"pick from the following.
+[A]. the bedroom.
+[B]. the bathroom",Where was the milk before the kitchen? 
+88,garden,"Answer:
+
+Available options:
+[i] the bedroom
+[ii] the",Where was the milk before the bathroom? 
+89,bathroom,"A:
+B:
+C:
+D:
+Answer:",Where was the football before the bedroom? 
+90,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the kitchen? 
+91,hallway,"OPTIONS:
+[A]. The garden.
+[B]. The bathroom.",Where was the milk before the kitchen? 
+92,garden,"Answer:
+
+Available options:
+[i] The bathroom.
+[ii]",Where was the milk before the bedroom? 
+93,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the kitchen? 
+94,kitchen,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the bedroom? 
+95,kitchen,"OPTIONS:
+[a]. The kitchen.
+[b]. The garden.",Where was the apple before the hallway? 
+96,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the hallway? 
+97,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the kitchen? 
+98,bedroom,"OPTIONS:
+[A]. the living-room.
+[B]. the kitchen",Where was the milk before the bathroom? 
+99,bathroom,"Answer:
+
+Available options:
+[i] the kitchen.
+[ii]",Where was the milk before the bedroom? 
+100,office,"Answer:
+
+OPT:
+[A]. The kitchen.
+[B]. The",Where was the milk before the bathroom? 
+101,office,"Answer:
+
+Available options:
+(A). The kitchen.
+(B).",Where was the milk before the bathroom? 
+102,bedroom,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where was the football before the office? 
+103,bedroom,"OPT:
+[1]. The garden.
+[2]. The kitchen.
+[",Where was the football before the office? 
+104,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the bathroom? 
+105,hallway,Answer:,Where was the football before the bathroom? 
+106,garden,"Answer:
+
+Available options:
+[i] Union Square
+[ii] South",Where was the football before the hallway? 
+107,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the hallway? 
+108,hallway,"Answer:
+Available options:
+[A]. The kitchen.
+[B]. The",Where was the apple before the bathroom? 
+109,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the apple before the bathroom? 
+110,garden,Answer:,Where was the apple before the hallway? 
+111,garden,"Answer:
+
+The apple was in the hallway.
+
+Now, the """,Where was the apple before the hallway? 
+112,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the kitchen? 
+113,hallway,"Answer:
+
+<context>
+
+<question>
+
+<answer>",Where was the football before the kitchen? 
+114,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+115,hallway,"Answer:
+
+pick from the following options. --the kitchen
+
+--the garden",Where was the milk before the bathroom? 
+116,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bathroom? 
+117,hallway,"Answer:
+
+OPTIONS:
+[A]. The kitchen.
+[B].",Where was the milk before the bathroom? 
+118,bedroom,"Answer:
+
+Available options:
+[i] the garden
+[ii] the",Where was the football before the office? 
+119,bedroom,"OPT:
+[1]. Northumberland
+[2]. Hampton
+[3]. Green",Where was the football before the office? 
+120,garden,"Answer:
+
+<context>
+
+The answer is:
+
+A. The",Where was the apple before the kitchen? 
+121,garden,"Answer:
+
+Available options:
+[1]. The garden.
+[2].",Where was the milk before the hallway? 
+122,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the hallway? 
+123,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the hallway? 
+124,office,"Answer: The apple was in the garden.
+
+Question: What is the best kind",Where was the apple before the garden? 
+125,kitchen,"Answer:
+
+<listing>
+  <item>
+    <context>
+      <",Where was the milk before the garden? 
+126,kitchen,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the milk before the garden? 
+127,kitchen,"Answer:
+
+Available options:
+(1). Boque.
+(2).",Where was the milk before the garden? 
+128,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the kitchen? 
+129,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the kitchen? 
+130,garden,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the milk before the kitchen? 
+131,bathroom,"Answer:
+
+Available options:
+[i] Carver's house.
+[",Where was the milk before the office? 
+132,bathroom,"Answer:
+
+Available options:
+[A]. The kitchen.
+[B].",Where was the milk before the office? 
+133,bathroom,"Answer:
+
+Choose from:
+[A]. The kitchen.
+[B].",Where was the milk before the office? 
+134,bathroom,Answer:,Where was the apple before the hallway? 
+135,garden,Answer:,Where was the football before the kitchen? 
+136,garden,Answer:,Where was the football before the kitchen? 
+137,garden,"OPTIONS:
+[A]. in the kitchen.
+[B]. in the garden",Where was the football before the kitchen? 
+138,bedroom,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where was the football before the garden? 
+139,bedroom,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The",Where was the football before the garden? 
+140,kitchen,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the bedroom? 
+141,kitchen,"OPTIONS:
+[A]. the kitchen.
+[B]. the garden.",Where was the milk before the bedroom? 
+142,kitchen,"OPTIONS:
+[a]. The garden.
+[b]. The kitchen.",Where was the milk before the bedroom? 
+143,bathroom,"Answer:
+
+Available options:
+[i] The hallway.
+[ii",Where was the football before the hallway? 
+144,bathroom,"Answer:
+
+Available options:
+(A). The hallway.
+(B",Where was the football before the hallway? 
+145,office,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the garden? 
+146,garden,"Answer:
+
+Available options:
+[A]. the garden.
+[B].",Where was the football before the hallway? 
+147,garden,"Answer:
+
+<choices>
+[a]. The garden.
+[b].",Where was the football before the hallway? 
+148,garden,"Answer:
+
+Available options:
+[i] The hallway.
+[ii",Where was the football before the hallway? 
+149,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the kitchen? 
+150,kitchen,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the milk before the office? 
+151,garden,Answer:,Where was the apple before the bathroom? 
+152,garden,"Answer:
+
+pick from the following options:
+[A]. in the kitchen.",Where was the apple before the bathroom? 
+153,bathroom,"Answer:
+
+Available options:
+(1). The garden.
+(2).",Where was the milk before the kitchen? 
+154,bathroom,"Answer:
+
+OPTIONS:
+[A]. Mary went back to the kitchen.",Where was the milk before the kitchen? 
+155,bathroom,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where was the apple before the office? 
+156,bathroom,Answer:,Where was the apple before the office? 
+157,bedroom,"Answer:
+
+OPT:
+[1]. The garden.
+[2]. The",Where was the apple before the bathroom? 
+158,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bathroom? 
+159,garden,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where was the apple before the hallway? 
+160,office,"Answer:
+
+<solution>
+The answer is: the bedroom
+
+Question:",Where was the football before the kitchen? 
+161,office,Answer:,Where was the apple before the bedroom? 
+162,office,"Answer: The football was in the kitchen.
+
+Question: What was the football in",Where was the football before the kitchen? 
+163,garden,"Answer: The office.
+
+Question: What was the milk for?
+
+Answer",Where was the milk before the office? 
+164,bathroom,Answer:,Where was the milk before the bedroom? 
+165,kitchen,"Answer:
+
+OPT:
+[A]. The milk was discarded by Sandra.",Where was the milk before the office? 
+166,kitchen,"Answer:
+
+<context>
+<paragraph>
+<sentence>Sandra went",Where was the milk before the office? 
+167,kitchen,"Answer:
+
+OPT:
+[i] St. Louis.
+[ii]",Where was the milk before the office? 
+168,kitchen,"Answer:
+
+<i>The context says:</i>
+
+Virginia went",Where was the milk before the garden? 
+169,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the kitchen? 
+170,bathroom,"Answer:
+
+Available options:
+[i1] The dining room.
+[",Where was the football before the kitchen? 
+171,bathroom,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where was the football before the kitchen? 
+172,bathroom,"Answer:
+
+<br>
+<br>
+pick from options:
+[",Where was the football before the office? 
+173,bathroom,"Answer: The office.
+
+Question: Where was the apple before the garden?",Where was the football before the office? 
+174,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+175,office,Answer:,Where was the football before the bedroom? 
+176,bedroom,Answer:,Where was the football before the garden? 
+177,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the garden? 
+178,kitchen,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the garden? 
+179,hallway,"Answer:
+
+<choices>
+[a]. The office.
+[b].",Where was the football before the bedroom? 
+180,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bedroom? 
+181,bathroom,"Answer:
+
+<context>
+<example>
+<football>
+<",Where was the football before the office? 
+182,bathroom,"Answer:
+<context>
+The context states: ""The context states: ""The",Where was the football before the office? 
+183,bathroom,"Answer:
+<a href=""https://en.wikipedia.org/wiki/File",Where was the football before the office? 
+184,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the bathroom? 
+185,bathroom,"Answer:
+
+Available options:
+[-] The hallway.
+[-] The",Where was the football before the hallway? 
+186,bedroom,"Answer:
+
+Available options:
+[i] the pantry
+[ii] the",Where was the milk before the bathroom? 
+187,kitchen,Answer:,Where was the apple before the office? 
+188,garden,Answer:,Where was the milk before the office? 
+189,garden,"Answer:
+
+<context>
+<context.section>
+    <context.paragraph",Where was the milk before the office? 
+190,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the bathroom? 
+191,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the milk before the kitchen? 
+192,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the bathroom? 
+193,hallway,"Answer:
+
+<choices>
+[a]. The garden.
+[b].",Where was the milk before the kitchen? 
+194,hallway,"Answer:
+
+<context>
+The context states: ""The milk was in the",Where was the milk before the kitchen? 
+195,hallway,"Answer:
+
+<choices>
+<i>A) kitchen</i>",Where was the apple before the office? 
+196,bathroom,"Answer:
+
+Available options:
+(1). Simiti.
+(2).",Where was the apple before the office? 
+197,bedroom,"OPTIONS:
+[a]. Simiti.
+[b]. Bodega Central.",Where was the apple before the bathroom? 
+198,bathroom,Answer:,Where was the apple before the office? 
+199,kitchen,Answer:,Where was the milk before the garden? 
+200,garden,"Answer: The milk was in the bathroom.
+
+Question: What was the milk in",Where was the milk before the bedroom? 
+201,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the garden? 
+202,bedroom,Answer:,Where was the milk before the garden? 
+203,bedroom,"Answer:
+
+Available options:
+[1]. The garden.
+[2].",Where was the milk before the garden? 
+204,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the bedroom? 
+205,bedroom,"Answer:
+
+Available options:
+[A]. The garden.
+[B].",Where was the apple before the garden? 
+206,kitchen,"OPTIONS:
+[A]. in the garden.
+[B]. in the kitchen",Where was the apple before the hallway? 
+207,kitchen,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the apple before the hallway? 
+208,kitchen,"Answer:
+
+Available options:
+[i] the office
+[ii] the",Where was the milk before the office? 
+209,garden,Answer:,Where was the milk before the kitchen? 
+210,bathroom,"Answer:
+
+Available options:
+[i] The hallway.
+[ii",Where was the football before the hallway? 
+211,hallway,"Answer:
+
+Available options:
+[i] the garden
+[ii] the",Where was the football before the kitchen? 
+212,hallway,"Answer:
+
+OPT:
+[i] The garden.
+[ii] The",Where was the football before the kitchen? 
+213,kitchen,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the milk before the garden? 
+214,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bathroom? 
+215,office,"Answer:
+
+Available options:
+[1]. The hallway.
+[2",Where was the football before the hallway? 
+216,hallway,Answer:,Where was the apple before the bedroom? 
+217,hallway,Answer:,Where was the apple before the bedroom? 
+218,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the bedroom? 
+219,kitchen,"Answer:
+<context>
+Before the garden, the apple was in the garden.",Where was the apple before the garden? 
+220,bedroom,"Answer:
+
+<context>
+The garden.
+</context>
+
+Question",Where was the milk before the garden? 
+221,bedroom,"Answer:
+
+Available options:
+(1). The garden.
+(2).",Where was the milk before the garden? 
+222,bedroom,"Answer:
+
+Options:
+[A]. The garden.
+[B]. The bedroom",Where was the milk before the garden? 
+223,bedroom,"Answer:
+
+Available options:
+(1). The garden.
+(2).",Where was the milk before the office? 
+224,bedroom,"A:
+B:
+C:
+D:",Where was the milk before the office? 
+225,bedroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the hallway? 
+226,bedroom,"Answer:
+
+pick from the following options. --the bedroom
+
+Available options:",Where was the milk before the hallway? 
+227,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the milk before the hallway? 
+228,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bedroom? 
+229,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the bedroom? 
+230,kitchen,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the garden? 
+231,kitchen,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where was the apple before the garden? 
+232,garden,Answer:,Where was the football before the bedroom? 
+233,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the kitchen? 
+234,kitchen,"Answer:
+
+<choices>
+[a]. The garden.
+[b].",Where was the milk before the hallway? 
+235,bedroom,"Answer:
+
+pick from the following options:
+[A]. in the kitchen.",Where was the milk before the office? 
+236,bedroom,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where was the milk before the office? 
+237,bedroom,"Answer:
+
+Choose from:
+[A]. in the kitchen.
+[B",Where was the milk before the office? 
+238,bedroom,"OPTIONS:
+[A]. in the kitchen.
+[B]. in the garden",Where was the milk before the office? 
+239,kitchen,"Answer:
+
+Choose from:
+[1]. The nunnery.
+[2",Where was the football before the bedroom? 
+240,bathroom,"OPTIONS:
+[1]. The kitchen.
+[2]. The bathroom.",Where was the football before the bedroom? 
+241,bathroom,"A: in the kitchen
+B: in the garden
+C: in the office
+D",Where was the football before the bedroom? 
+242,bathroom,"Answer:
+
+OPT:
+[i] The garden.
+[ii] The",Where was the football before the garden? 
+243,kitchen,"Answer:
+<context>
+<context.section>
+<context.paragraph>",Where was the milk before the garden? 
+244,office,"Answer:
+<context>
+The context states: ""Sandra went to the kitchen",Where was the milk before the kitchen? 
+245,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+246,bedroom,"Answer:
+
+Available options:
+[i] The office.
+[ii]",Where was the milk before the office? 
+247,bedroom,"Answer:
+
+<solution>
+The answer is: The office.
+
+Explanation",Where was the milk before the office? 
+248,kitchen,"Answer:
+
+Available options:
+1). In the garden.
+2). In",Where was the milk before the garden? 
+249,kitchen,"Answer:
+
+<context>
+O Stars, so golden, it is not so",Where was the milk before the garden? 
+250,hallway,"Answer:
+
+Available options:
+(A). The garden.
+(B).",Where was the football before the bathroom? 
+251,hallway,"Answer:
+
+Available options:
+(1). The kitchen.
+(2).",Where was the football before the bathroom? 
+252,hallway,"Answer:
+
+Available options:
+(i). in the kitchen.
+(ii",Where was the football before the bathroom? 
+253,bathroom,"Answer:
+
+<choices>
+<listing>
+<item>
+<",Where was the milk before the kitchen? 
+254,garden,"Answer:
+
+<choices>
+[a]. The hallway.
+[b",Where was the football before the hallway? 
+255,bedroom,"Answer:
+
+OPTIONS:
+[A]. The kitchen.
+[B].",Where was the apple before the kitchen? 
+256,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the hallway? 
+257,bathroom,"Answer:
+<br>
+<br>
+A) bathroom
+B) kitchen",Where was the apple before the hallway? 
+258,bathroom,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where was the apple before the hallway? 
+259,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the hallway? 
+260,hallway,Answer:,Where was the apple before the bathroom? 
+261,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the garden? 
+262,bathroom,Answer:,Where was the milk before the office? 
+263,bathroom,Answer:,Where was the milk before the office? 
+264,hallway,Answer:,Where was the football before the bedroom? 
+265,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+266,bathroom,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the apple before the garden? 
+267,bathroom,Answer:,Where was the apple before the garden? 
+268,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+269,garden,"Answer:
+
+<choices>
+[a]. The kitchen.
+[b].",Where was the football before the hallway? 
+270,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the kitchen? 
+271,garden,"OPTIONS:
+[A]. in the garden.
+[B]. in the bedroom",Where was the football before the kitchen? 
+272,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bathroom? 
+273,bathroom,"Answer:
+
+<context>
+The context states: ""The context states: """,Where was the apple before the hallway? 
+274,bathroom,"Answer:
+
+<solution>
+<context>
+<question>
+In the",Where was the apple before the office? 
+275,office,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the bedroom? 
+276,kitchen,"Answer:
+
+[Possible answers:
+1). in the garden;
+2).",Where was the football before the garden? 
+277,bedroom,"Answer:
+
+Available options:
+(1). The hallway.
+(2",Where was the football before the hallway? 
+278,bathroom,Answer:,Where was the apple before the garden? 
+279,office,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the bathroom? 
+280,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bedroom? 
+281,kitchen,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the apple before the bedroom? 
+282,kitchen,"Answer:
+
+Available options:
+[i] The bedroom.
+[ii]",Where was the apple before the bedroom? 
+283,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the kitchen? 
+284,office,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the kitchen? 
+285,office,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The",Where was the apple before the bathroom? 
+286,office,Answer:,Where was the apple before the bathroom? 
+287,bathroom,Answer:,Where was the apple before the office? 
+288,office,Answer:,Where was the milk before the bedroom? 
+289,office,"Answer:
+
+<context>
+The context states: ""Sandra went back to",Where was the milk before the bedroom? 
+290,garden,"Answer:
+
+Available options:
+(1). The office.
+(2).",Where was the football before the kitchen? 
+291,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the bathroom? 
+292,garden,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where was the football before the bathroom? 
+293,hallway,Answer:,Where was the football before the bedroom? 
+294,bedroom,"Answer:
+<choices>
++ <i>The first mention of Shandy is",Where was the football before the hallway? 
+295,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the garden? 
+296,garden,Answer:,Where was the apple before the kitchen? 
+297,kitchen,Answer:,Where was the milk before the bathroom? 
+298,garden,"Answer:
+
+<context>
+The answer to this question is:
+
+<",Where was the football before the bathroom? 
+299,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the bathroom? 
+300,hallway,Answer:,Where was the milk before the office? 
+301,office,"Answer:
+
+Available options:
+(1). The bathroom.
+(2).",Where was the milk before the bathroom? 
+302,office,"Answer:
+
+[i] The bathroom.
+
+[ii] The kitchen.",Where was the milk before the bathroom? 
+303,office,"Answer:
+
+Available options:
+1). The bathroom.
+2). The kitchen",Where was the milk before the bathroom? 
+304,bedroom,Answer:,Where was the football before the office? 
+305,hallway,"Answer:
+
+Available options:
+[i] The office.
+[ii]",Where was the football before the bathroom? 
+306,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the football before the bathroom? 
+307,hallway,"OPTIONS:
+[a]. in the bedroom.
+[b]. in the office",Where was the football before the bathroom? 
+308,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the hallway? 
+309,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the hallway? 
+310,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the bathroom? 
+311,office,Answer:,Where was the football before the bathroom? 
+312,bathroom,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the football before the garden? 
+313,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the bedroom? 
+314,hallway,"Answer:
+
+Choose from:
+[A]. The garden.
+[B].",Where was the football before the bedroom? 
+315,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the hallway? 
+316,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the hallway? 
+317,kitchen,"Answer:
+
+Available options:
+
+* The milk was in the garden.",Where was the milk before the garden? 
+318,kitchen,"Answer:
+
+<solution>The answer is: The garden.</solution>",Where was the milk before the garden? 
+319,bedroom,"Answer:
+
+<solution>
+The answer is: The office.
+</solution",Where was the milk before the office? 
+320,garden,"Answer:
+
+Available options:
+[A]. Kitchen
+[B]. Bathroom",Where was the milk before the hallway? 
+321,bedroom,"Answer:
+
+Available options:
+[A]. In the hallway.
+[",Where was the football before the bathroom? 
+322,hallway,"Answer:
+
+Choose from:
+(1). The bathroom.
+(2).",Where was the milk before the bedroom? 
+323,bedroom,"Answer:
+
+Available options:
+(1). in the hallway.
+(",Where was the football before the bathroom? 
+324,hallway,"OPTIONS:
+[a]. in the garden.
+[b]. in the kitchen",Where was the apple before the bedroom? 
+325,bedroom,"Answer:
+
+Available options:
+[i] bathroom
+[ii] bedroom",Where was the milk before the bathroom? 
+326,bedroom,Answer:,Where was the milk before the bathroom? 
+327,office,"Answer:
+<choices>
+<i>A) The first car of the accommodation",Where was the apple before the bathroom? 
+328,office,Answer:,Where was the apple before the bathroom? 
+329,office,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where was the apple before the bathroom? 
+330,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the bedroom? 
+331,garden,"Answer:
+
+Available options:
+(A). The bedroom.
+(B).",Where was the milk before the bedroom? 
+332,garden,"OPTIONS:
+[A]. The kitchen.
+[B]. The bathroom.",Where was the milk before the bedroom? 
+333,garden,Answer:,Where was the football before the bedroom? 
+334,garden,"Answer:
+
+<choices>
+<listing>
+<item>
+<",Where was the football before the bedroom? 
+335,office,Answer:,Where was the milk before the garden? 
+336,office,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The",Where was the milk before the garden? 
+337,office,"Answer:
+
+OPT:
+[i] The garden.
+[ii] The",Where was the apple before the kitchen? 
+338,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the hallway? 
+339,hallway,Answer:,Where was the apple before the office? 
+340,bathroom,Answer:,Where was the apple before the garden? 
+341,bathroom,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The",Where was the apple before the garden? 
+342,kitchen,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the milk before the garden? 
+343,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bathroom? 
+344,kitchen,"Answer:
+
+<context>
+The context states that the milk was discarded in the",Where was the milk before the garden? 
+345,bedroom,Answer:,Where was the milk before the hallway? 
+346,bedroom,"Answer:
+
+<context>
+
+<question>
+
+<answer>",Where was the milk before the garden? 
+347,bedroom,"Available options:
+[1]. The garden.
+[2]. The kitchen.",Where was the milk before the garden? 
+348,bedroom,"Answer:
+
+pick from the following options:
+[A]. in the kitchen.",Where was the milk before the garden? 
+349,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the milk before the bathroom? 
+350,garden,"Answer:
+
+<choices>
+[a]. in the garden.
+[b",Where was the apple before the office? 
+351,bathroom,"Answer:
+
+Available options:
+(1). in the garden.
+(2",Where was the football before the garden? 
+352,hallway,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the football before the bedroom? 
+353,hallway,"Answer:
+
+Available options:
+(I). The bedroom.
+(II).",Where was the football before the bedroom? 
+354,hallway,"Answer:
+
+<example>
+Before the garden, the football was in the",Where was the football before the garden? 
+355,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+356,kitchen,"Answer:
+
+<solution>
+<context>
+<question>
+Where was",Where was the milk before the office? 
+357,kitchen,"Answer:
+
+<context>
+
+<example>
+<example>
+<",Where was the milk before the office? 
+358,hallway,"Answer:
+
+<context>
+
+<context>
+
+Answer:",Where was the football before the garden? 
+359,bathroom,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the football before the garden? 
+360,bathroom,Answer:,Where was the apple before the garden? 
+361,bathroom,Answer:,Where was the milk before the bedroom? 
+362,bathroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the apple before the bedroom? 
+363,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+364,office,"OPT:
+[i] The kitchen.
+[ii] The garden.
+[",Where was the milk before the bedroom? 
+365,bathroom,"Answer:
+
+Available options:
+[i] The bar-room
+[ii",Where was the milk before the kitchen? 
+366,hallway,"Answer:
+
+Available options:
+[i] The editor's office.
+[",Where was the apple before the bedroom? 
+367,kitchen,"Answer:
+
+OPTIONS:
+[i] the kitchen.
+[ii]",Where was the football before the garden? 
+368,kitchen,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where was the milk before the garden? 
+369,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the garden? 
+370,hallway,"Answer:
+
+OPT:
+[i] The garden.
+[ii] The",Where was the apple before the bathroom? 
+371,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the bathroom? 
+372,hallway,"Answer:
+
+OPTIONS:
+- Mayab
+- Mayac
+- May",Where was the apple before the bathroom? 
+373,bedroom,Answer:,Where was the football before the kitchen? 
+374,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the hallway? 
+375,office,"Answer:
+
+Available options:
+[i] the office
+[ii] the",Where was the milk before the bedroom? 
+376,office,Answer:,Where was the milk before the bedroom? 
+377,office,Answer:,Where was the milk before the bedroom? 
+378,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+379,bathroom,"Answer:
+
+<context>
+<context.section>
+    <context.section",Where was the football before the hallway? 
+380,bedroom,"Answer:
+
+OPT:
+[1]. The kitchen.
+[2]. The",Where was the milk before the hallway? 
+381,bathroom,"Answer:
+
+Available options:
+(A). The kitchen.
+(B).",Where was the milk before the hallway? 
+382,bathroom,"Answer:
+
+<context>
+
+""The happy path!--where the apple",Where was the milk before the hallway? 
+383,hallway,Answer:,Where was the football before the bathroom? 
+384,office,"Answer:
+
+<context>
+<context.section>
+  <context.paragraph",Where was the milk before the bathroom? 
+385,office,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where was the milk before the bathroom? 
+386,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the football before the bathroom? 
+387,office,"Answer:
+
+OPTIONS:
+[A]. in the kitchen.
+[B",Where was the football before the bathroom? 
+388,bathroom,"Answer:
+
+Available options:
+[I] the garden.
+[II]",Where was the football before the kitchen? 
+389,office,"Answer:
+
+Available options:
+(A). In the garden.
+(B",Where was the football before the bedroom? 
+390,garden,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the milk before the kitchen? 
+391,kitchen,Answer:,Where was the milk before the garden? 
+392,office,"Answer:
+
+<choices>
+[a]. The kitchen.
+[b].",Where was the milk before the garden? 
+393,garden,"Answer:
+
+OPTIONS:
+[i] The garden.
+[ii]",Where was the football before the bedroom? 
+394,office,"Answer:
+
+Explanation:",Where was the milk before the garden? 
+395,kitchen,"Answer:
+
+Available options:
+(A). In the garden.
+(B",Where was the apple before the garden? 
+396,kitchen,"Answer:
+
+Explanation:",Where was the apple before the garden? 
+397,kitchen,"Answer:
+
+Available options:
+1). Before the garden.
+2). Before",Where was the apple before the garden? 
+398,bathroom,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the apple before the kitchen? 
+399,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the bathroom? 
+400,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+401,garden,"Answer:
+
+Available options:
+(i). in the kitchen.
+(ii",Where was the apple before the bathroom? 
+402,hallway,"Answer:
+
+<context>
+
+The context states that the apple was in the",Where was the apple before the office? 
+403,bathroom,"Answer:
+
+<context>
+The milk was in the bathroom.
+</context",Where was the milk before the bedroom? 
+404,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the bathroom? 
+405,hallway,"Answer:
+
+Available options:
+[1]. in the hallway.
+[",Where was the football before the bathroom? 
+406,bedroom,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where was the apple before the kitchen? 
+407,bedroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the apple before the kitchen? 
+408,kitchen,"OPTIONS:
+[1]. The kitchen.
+[2]. The office.",Where was the apple before the garden? 
+409,kitchen,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where was the apple before the garden? 
+410,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the garden? 
+411,kitchen,"Answer:
+
+OPTIONS:
+- garden
+- church
+- hallway",Where was the football before the office? 
+412,kitchen,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where was the football before the office? 
+413,kitchen,"Answer:
+
+<choices>
+<a id=""choice-1""></a",Where was the football before the garden? 
+414,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the kitchen? 
+415,garden,Answer:,Where was the milk before the hallway? 
+416,garden,"Answer:
+
+<choices>
+[a]. The hallway.
+[b",Where was the milk before the hallway? 
+417,garden,"Answer:
+
+<context>
+The context states: ""Mary went to the garden",Where was the milk before the hallway? 
+418,garden,"pick from the following options.
+[A]. inside the waggon.
+[",Where was the milk before the hallway? 
+419,hallway,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the apple before the garden? 
+420,bathroom,Answer:,Where was the football before the bedroom? 
+421,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the bedroom? 
+422,hallway,"Answer:
+
+<choices>
+  * The garden
+  * The kitchen
+  * The",Where was the apple before the garden? 
+423,bathroom,"OPTIONS:
+[a]. in the kitchen.
+[b]. in the bathroom",Where was the apple before the hallway? 
+424,garden,"Answer:
+
+Available options:
+[i] the hallway
+[ii]",Where was the football before the hallway? 
+425,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the bedroom? 
+426,bathroom,Answer:,Where was the milk before the hallway? 
+427,hallway,Answer:,Where was the milk before the office? 
+428,hallway,"Answer:
+
+Available options:
+[i] the garden
+[ii] the",Where was the milk before the office? 
+429,bathroom,"Answer: The hallway.
+
+Question: What is the name of the gentleman who",Where was the milk before the hallway? 
+430,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the kitchen? 
+431,kitchen,"Answer:
+
+Available options:
+[1]. The kitchen.
+[2].",Where was the milk before the garden? 
+432,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the kitchen? 
+433,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the kitchen? 
+434,kitchen,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the apple before the office? 
+435,hallway,"pick from the following.
+[A]. The bathroom.
+[B]. The bedroom",Where was the milk before the kitchen? 
+436,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the hallway? 
+437,bedroom,"OPTIONS:
+[1]. Antwerp.
+[2]. The garden.",Where was the milk before the office? 
+438,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+439,hallway,"Answer:
+
+<context>
+
+The answer is:
+
+A. The",Where was the apple before the bedroom? 
+440,garden,"Answer:
+
+<choices>
+[1]. The office.
+[2].",Where was the milk before the office? 
+441,garden,"Answer:
+
+<a href=""/questions/100/"">More questions",Where was the milk before the office? 
+442,garden,"Answer:
+
+Available options:
+(1). The garden.
+(2).",Where was the milk before the office? 
+443,garden,"Answer:
+
+Available options:
+[i] The office.
+[ii]",Where was the milk before the office? 
+444,hallway,"OPTIONS:
+[A]. in the office.
+[B]. in the hall",Where was the football before the office? 
+445,bedroom,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where was the milk before the kitchen? 
+446,bedroom,Answer:,Where was the milk before the kitchen? 
+447,garden,"Answer:
+
+Available options:
+[i] The bathroom.
+[ii]",Where was the football before the bathroom? 
+448,hallway,"Answer:
+
+<context>
+
+The answer is:
+
+<context>",Where was the football before the garden? 
+449,bathroom,"Answer:
+
+<context>
+The context is:
+
+The milk was in",Where was the milk before the hallway? 
+450,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the office? 
+451,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the office? 
+452,bedroom,"Answer: ""The office.""
+
+Question: Who was the woman who was talking to",Where was the football before the office? 
+453,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bedroom? 
+454,hallway,"Answer:
+
+<context>
+The context states: ""Mary went to the bedroom",Where was the apple before the bedroom? 
+455,hallway,Answer:,Where was the apple before the bedroom? 
+456,garden,Answer:,Where was the milk before the bedroom? 
+457,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the milk before the bedroom? 
+458,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bedroom? 
+459,garden,"Answer:
+
+OPTIONS:
+[1]. The garden.
+[2].",Where was the milk before the bedroom? 
+460,garden,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where was the apple before the kitchen? 
+461,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the hallway? 
+462,hallway,"Answer:
+
+OPT:
+[1]. The kitchen.
+[2]. The",Where was the football before the bathroom? 
+463,hallway,"Answer:
+
+Available options:
+(i). in the garden.
+(ii",Where was the football before the bathroom? 
+464,bedroom,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where was the football before the hallway? 
+465,hallway,"Answer:
+
+Available options:
+[i] The bathroom.
+[ii]",Where was the milk before the bedroom? 
+466,hallway,"Answer:
+
+Choose from:
+[A]. The kitchen.
+[B].",Where was the milk before the bedroom? 
+467,bedroom,"OPTIONS:
+[A]. in the garden.
+[B]. in the office",Where was the milk before the kitchen? 
+468,kitchen,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the bedroom? 
+469,kitchen,Answer:,Where was the apple before the bedroom? 
+470,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the garden? 
+471,garden,"Answer:
+
+Available options:
+[i] the hallway
+[ii]",Where was the football before the hallway? 
+472,garden,"Answer:
+
+Available options:
+[i] the garden
+[ii] the",Where was the milk before the office? 
+473,office,"Answer:
+<context>
+<context.section>
+    <context.section.",Where was the milk before the kitchen? 
+474,kitchen,"Answer:
+<context>
+<context>
+<context>
+<context>",Where was the football before the garden? 
+475,bedroom,"Answer:
+
+<context>
+<example>
+<apple>
+<apple",Where was the apple before the bathroom? 
+476,office,Answer:,Where was the apple before the bedroom? 
+477,garden,"Answer:
+
+Available options:
+(I). In the garden.
+(II",Where was the apple before the office? 
+478,garden,"Answer:
+
+OPT:
+[i] Kitchen.
+[ii] Hallway",Where was the apple before the office? 
+479,garden,"OPTIONS:
+[a]. in the garden.
+[b]. in the hall",Where was the apple before the office? 
+480,hallway,"Answer:
+
+OPT:
+[A]. The garden.
+[B]. The",Where was the apple before the bathroom? 
+481,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the kitchen? 
+482,hallway,"Answer:
+
+pick one:
+
+A). in the kitchen
+
+B).",Where was the apple before the bathroom? 
+483,bathroom,"OPTIONS:
+[A]. in the garden.
+[B]. in the kitchen",Where was the apple before the hallway? 
+484,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the apple before the kitchen? 
+485,garden,"Answer:
+
+Available options:
+[i] The hallway.
+[ii",Where was the football before the hallway? 
+486,garden,"Answer:
+
+Available options:
+(A). in the hallway.
+(",Where was the football before the hallway? 
+487,garden,"OPTIONS:
+[-] Ashburton;
+[-] Carleton;
+[-",Where was the apple before the office? 
+488,garden,"OPTIONS:
+[a]. The garden.
+[b]. The kitchen.",Where was the apple before the office? 
+489,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the office? 
+490,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+491,bedroom,Answer:,Where was the apple before the garden? 
+492,kitchen,Answer:,Where was the apple before the bedroom? 
+493,office,"Answer:
+
+Available options:
+(A). Before the bedroom.
+(B",Where was the apple before the bedroom? 
+494,office,Answer:,Where was the apple before the bedroom? 
+495,garden,"Answer:
+
+<choices>
+<listing>
+<item>
+<",Where was the apple before the bathroom? 
+496,garden,"Answer:
+
+Available options:
+(1). The kitchen.
+(2).",Where was the apple before the bathroom? 
+497,bathroom,"Answer:
+
+<context>
+before the kitchen.
+</context>",Where was the apple before the kitchen? 
+498,bathroom,Answer:,Where was the apple before the kitchen? 
+499,office,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the football before the bedroom? 
+500,bathroom,"Answer:
+
+Choose from:
+[A]. The kitchen.
+[B].",Where was the milk before the bedroom? 
+501,bathroom,"Answer:
+
+OPTIONS:
+[A]. The kitchen.
+[B].",Where was the milk before the bedroom? 
+502,bathroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the bedroom? 
+503,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+504,garden,"Answer:
+
+OPT:
+[1]. The bedroom.
+[2]. The",Where was the apple before the bedroom? 
+505,garden,"Answer:
+
+OPTIONS:
+[1] The garden.
+[2]",Where was the apple before the kitchen? 
+506,office,"Answer:
+
+Available options:
+[i] The garden.
+[ii] The",Where was the football before the garden? 
+507,garden,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the football before the kitchen? 
+508,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the kitchen? 
+509,garden,"Answer:
+
+Available options:
+[i] The stable.
+[ii]",Where was the apple before the bathroom? 
+510,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bedroom? 
+511,garden,"Answer:
+
+Available options:
+(A). The garden.
+(B).",Where was the apple before the hallway? 
+512,bathroom,Answer:,Where was the apple before the kitchen? 
+513,kitchen,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the apple before the bathroom? 
+514,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the kitchen? 
+515,bathroom,"Answer:
+
+Available options:
+[i] the house
+[ii] the",Where was the football before the office? 
+516,bathroom,"Answer:
+
+Available options:
+[i] the front room
+[ii]",Where was the football before the office? 
+517,bedroom,"Answer:
+
+<context>
+The answer is:
+
+A. The basement",Where was the football before the kitchen? 
+518,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the kitchen? 
+519,bedroom,Answer:,Where was the football before the kitchen? 
+520,garden,"Answer:
+
+pick from the following options.
+[A]. inside the Residency",Where was the football before the bedroom? 
+521,garden,"Answer:
+
+<context>
+Before the bedroom, the football was in the",Where was the football before the bedroom? 
+522,garden,Answer:,Where was the football before the bedroom? 
+523,garden,"OPTIONS:
+[A]. The garden.
+[B]. The hallway.",Where was the football before the bedroom? 
+524,bedroom,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the apple before the bathroom? 
+525,garden,Answer:,Where was the milk before the bedroom? 
+526,garden,Answer:,Where was the milk before the bedroom? 
+527,garden,"Answer:
+
+Available options:
+[i] The bedroom.
+[ii]",Where was the milk before the bedroom? 
+528,garden,"Answer:
+
+Available options:
+(I). St. Mary's.
+(",Where was the milk before the bedroom? 
+529,garden,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the football before the bedroom? 
+530,bathroom,"Answer:
+
+Choose from:
+[1]. The hospital.
+[2].",Where was the milk before the hallway? 
+531,garden,"Answer:
+
+Available options:
+[i] the garden
+[ii] the",Where was the apple before the office? 
+532,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the office? 
+533,garden,Answer:,Where was the apple before the office? 
+534,office,"Answer:
+
+<choices>
+  * <a href=""/q/1"">",Where was the apple before the hallway? 
+535,garden,"OPTIONS:
+[-] The office.
+[-] The hallway.
+[-",Where was the football before the kitchen? 
+536,garden,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the football before the kitchen? 
+537,garden,"OPTIONS:
+[A]. in the garden.
+[B]. in the hall",Where was the football before the kitchen? 
+538,hallway,"Answer: _The garden._
+
+Based on this paragraph, answer the question: What",Where was the milk before the office? 
+539,office,"OPTIONS:
+[1]. The kitchen.
+[2]. The garden.",Where was the milk before the hallway? 
+540,office,"OPTIONS:
+[a]. inside the bathroom.
+[b]. outside the bathroom",Where was the football before the bathroom? 
+541,kitchen,"Answer:
+
+pick from the following options. --in the kitchen
+
+--in",Where was the apple before the garden? 
+542,kitchen,"Answer:
+
+Available options:
+[-] The garden.
+[-] The kitchen",Where was the apple before the garden? 
+543,bedroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the football before the kitchen? 
+544,kitchen,"Answer: The garden.
+
+Question: What is the name of the person who was",Where was the apple before the garden? 
+545,bathroom,Answer:,Where was the milk before the office? 
+546,bathroom,"Answer:
+
+<a href=""/questions/10"">More</a>",Where was the football before the garden? 
+547,bedroom,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the football before the office? 
+548,bedroom,"Answer:
+
+<context>
+
+<context>
+
+Answer:",Where was the football before the office? 
+549,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+550,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bedroom? 
+551,bathroom,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The",Where was the football before the hallway? 
+552,bathroom,"Answer:
+
+<choices>
+[a]. The kitchen.
+[b].",Where was the apple before the hallway? 
+553,office,"Answer:
+
+<choices>
+[a]. The kitchen.
+[b].",Where was the football before the hallway? 
+554,office,"OPTIONS:
+[a]. The garden.
+[b]. The bedroom.",Where was the football before the hallway? 
+555,office,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the milk before the hallway? 
+556,garden,"Answer:
+
+<context>
+<man>
+<man>
+<man",Where was the apple before the bedroom? 
+557,bathroom,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the football before the kitchen? 
+558,bathroom,"Answer:
+
+Available options:
+1). Rome.
+2). Carthage.",Where was the apple before the garden? 
+559,garden,Answer:,Where was the milk before the office? 
+560,garden,"Answer:
+
+<example>
+The bedroom.
+</example>
+
+Question",Where was the football before the bedroom? 
+561,garden,Answer:,Where was the football before the bedroom? 
+562,garden,"Answer: The bedroom
+
+Question: What is the name of the ball?",Where was the football before the bedroom? 
+563,garden,"OPTIONS:
+[1]. The kitchen.
+[2]. The bathroom.",Where was the milk before the bedroom? 
+564,garden,"Answer:
+
+<context>
+
+The context states: ""The milk was in",Where was the milk before the bedroom? 
+565,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+566,garden,"pick from the following.
+[I] the kitchen
+[II] the garden",Where was the milk before the office? 
+567,garden,"OPTIONS:
+[a]. in the kitchen.
+[b]. in the garden",Where was the milk before the office? 
+568,garden,"OPTIONS:
+[-] The kitchen.
+[-] The garden.
+[-]",Where was the football before the bathroom? 
+569,bathroom,"Answer:
+
+<context>
+<context.section>
+    <context.section",Where was the football before the office? 
+570,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the hallway? 
+571,garden,"Answer:
+
+Choose from the following options.
+[A]. The hallway.",Where was the milk before the hallway? 
+572,garden,Answer:,Where was the milk before the hallway? 
+573,hallway,Answer:,Where was the football before the garden? 
+574,garden,"Answer:
+
+Available options:
+[-] the garden
+[-] the kitchen",Where was the football before the office? 
+575,hallway,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the football before the kitchen? 
+576,hallway,"Answer:
+<a href=""https://en.wikipedia.org/wiki/Foot",Where was the football before the kitchen? 
+577,kitchen,"Answer:
+
+Available options:
+[i] The hallway.
+[ii",Where was the football before the hallway? 
+578,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the kitchen? 
+579,bedroom,Answer:,Where was the milk before the office? 
+580,garden,Answer:,Where was the football before the bedroom? 
+581,garden,"Answer: The football was in the bedroom.
+
+Question: What is the name of",Where was the football before the bedroom? 
+582,garden,"Answer:
+
+OPTIONS:
+- St. George’s Cross
+- Ste",Where was the football before the bedroom? 
+583,garden,Answer:,Where was the football before the bedroom? 
+584,office,"Answer:
+
+[Illustration: THE ARMY OF VIRGINIA",Where was the apple before the bathroom? 
+585,bathroom,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the football before the garden? 
+586,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the garden? 
+587,bathroom,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the football before the garden? 
+588,bathroom,"Answer:
+
+Available options:
+[i] Binoto's hostelry.",Where was the football before the garden? 
+589,kitchen,"Answer:
+
+Available options:
+[i] the garden
+[ii] the",Where was the apple before the office? 
+590,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the kitchen? 
+591,office,"OPTIONS:
+[a]. in the kitchen.
+[b]. in the hall",Where was the football before the kitchen? 
+592,office,"Answer:
+
+<choices>
+[a]. The garden.
+[b].",Where was the apple before the kitchen? 
+593,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the hallway? 
+594,hallway,"Answer:
+
+<context>
+The answer is:
+
+A) The kitchen",Where was the apple before the office? 
+595,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+596,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+597,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the hallway? 
+598,bathroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the hallway? 
+599,bathroom,"Answer:
+
+Available options:
+[i] the garden.
+[ii]",Where was the apple before the hallway? 
+600,bathroom,"Answer:
+
+Available options:
+[A]. The kitchen.
+[B].",Where was the apple before the kitchen? 
+601,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the kitchen? 
+602,bedroom,Answer:,Where was the milk before the bathroom? 
+603,bedroom,"Answer:
+
+<choices>
+[1]. The bathroom.
+[2].",Where was the milk before the bathroom? 
+604,garden,"Answer:
+
+<context>
+""Before the bedroom, the football was in the",Where was the football before the bedroom? 
+605,garden,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where was the apple before the bathroom? 
+606,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the hallway? 
+607,hallway,"Answer:
+
+<solution>
+<list>
+<item>The answer is",Where was the apple before the kitchen? 
+608,bathroom,"Answer: The office was in the bedroom.
+
+Question: Where was the milk put",Where was the milk before the office? 
+609,bathroom,Answer:,Where was the milk before the office? 
+610,bathroom,"Answer:
+
+pick one:
+
+A). on the piazzas of",Where was the football before the hallway? 
+611,bathroom,"Answer:
+
+Available options:
+(A). the kitchen
+(B). the",Where was the football before the hallway? 
+612,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bedroom? 
+613,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bedroom? 
+614,hallway,"Answer:
+
+<choices>
+[1]. The kitchen.
+[2].",Where was the milk before the bedroom? 
+615,kitchen,"OPTIONS:
+[A]. in the kitchen.
+[B]. in the garden",Where was the apple before the hallway? 
+616,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+617,office,"Answer:
+
+Available options:
+(1). The garden.
+(2).",Where was the milk before the garden? 
+618,hallway,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where was the football before the garden? 
+619,bedroom,"Answer:
+
+Available options:
+(1). The kitchen.
+(2).",Where was the apple before the bathroom? 
+620,bathroom,"Answer:
+
+Available options:
+[i] The milk was in the kitchen.",Where was the milk before the kitchen? 
+621,bathroom,Answer:,Where was the milk before the kitchen? 
+622,bathroom,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the football before the garden? 
+623,bathroom,"Answer:
+
+Available options:
+[i] the house of the lord of the",Where was the football before the garden? 
+624,bathroom,"Answer: The garden.
+
+<context>
+
+<context>
+
+<",Where was the apple before the garden? 
+625,garden,"OPTIONS:
+[A]. The hallway.
+[B]. The garden.",Where was the football before the kitchen? 
+626,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the kitchen? 
+627,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bedroom? 
+628,office,"OPTIONS:
+[1]. The kitchen.
+[2]. The garden.",Where was the milk before the bathroom? 
+629,garden,"OPTIONS:
+[-] The bedroom.
+[-] The bathroom.
+[-]",Where was the milk before the kitchen? 
+630,bathroom,"Answer:
+
+Available options:
+[i] The Minster house.
+[",Where was the milk before the kitchen? 
+631,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the bedroom? 
+632,bathroom,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where was the milk before the kitchen? 
+633,bathroom,"Answer:
+
+Available options:
+[i] the bathroom
+[ii] the",Where was the milk before the kitchen? 
+634,bathroom,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the apple before the garden? 
+635,bedroom,Answer:,Where was the milk before the office? 
+636,bedroom,Answer:,Where was the milk before the office? 
+637,bedroom,Answer:,Where was the milk before the office? 
+638,bedroom,"Answer: The milk was in the bedroom.
+
+Question: What is the name of",Where was the milk before the office? 
+639,kitchen,Answer:,Where was the football before the bedroom? 
+640,kitchen,"Answer:
+
+OPTIONS:
+[A]. Matchcot.
+[B].",Where was the apple before the office? 
+641,kitchen,"Answer:
+
+Available options:
+(i). in the garden.
+(ii",Where was the apple before the office? 
+642,kitchen,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where was the apple before the office? 
+643,bathroom,"OPTIONS:
+[-] The garden.
+[-] The bedroom.
+[-]",Where was the apple before the kitchen? 
+644,office,Answer:,Where was the football before the garden? 
+645,kitchen,Answer:,Where was the football before the hallway? 
+646,kitchen,"Answer:
+
+<solution>The answer is: The hallway.</solution>",Where was the football before the hallway? 
+647,office,"Answer:
+
+<solution>The answer is: The kitchen.</solution>",Where was the milk before the kitchen? 
+648,kitchen,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where was the football before the hallway? 
+649,office,"Answer:
+
+Available options:
+(1). The garden.
+(2).",Where was the milk before the kitchen? 
+650,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the bedroom? 
+651,hallway,"Answer:
+
+<context>
+
+The answer is:
+
+<i>",Where was the milk before the bedroom? 
+652,office,"Answer:
+
+<choices>
+[1]. The garden.
+[2].",Where was the milk before the garden? 
+653,office,"Answer:
+
+<context>
+<context.section>
+<context.section",Where was the milk before the garden? 
+654,office,"Answer:
+
+OPTIONS:
+- garden
+- kitchen
+- bedroom
+-",Where was the milk before the garden? 
+655,bedroom,"Answer:
+
+Available options:
+(i). in the hallway.
+(",Where was the milk before the office? 
+656,bedroom,Answer:,Where was the milk before the office? 
+657,kitchen,"Answer: The milk was in the kitchen.
+
+Question: What was the Brownies",Where was the milk before the hallway? 
+658,kitchen,Answer:,Where was the milk before the hallway? 
+659,kitchen,Answer:,Where was the apple before the hallway? 
+660,office,Answer:,Where was the milk before the bedroom? 
+661,hallway,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the milk before the bedroom? 
+662,hallway,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The",Where was the milk before the bedroom? 
+663,bathroom,"Answer: The hallway.
+
+Who is the author of the story ""The Little",Where was the football before the hallway? 
+664,bathroom,"OPTIONS:
+[a]. in the hallway.
+[b]. in the",Where was the football before the hallway? 
+665,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bedroom? 
+666,bedroom,"Answer:
+
+Available options:
+[i] the garden.
+[ii]",Where was the apple before the hallway? 
+667,hallway,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the apple before the bedroom? 
+668,hallway,"Answer:
+
+Available options:
+[i] The bedroom.
+[ii]",Where was the apple before the bedroom? 
+669,kitchen,"pick from the following.
+[A]. the kitchen.
+[B]. the bathroom",Where was the milk before the bedroom? 
+670,garden,"Answer:
+
+Available options:
+[i] The hallway.
+[ii",Where was the football before the hallway? 
+671,garden,"Answer:
+
+<context>
+The football was in the hallway.
+</",Where was the football before the hallway? 
+672,kitchen,"Answer: Mary went to the bedroom.
+
+Question: What happened to the milk?",Where was the milk before the office? 
+673,kitchen,"Answer:
+
+<choices>
+[1]. The barn.
+[2].",Where was the milk before the office? 
+674,office,"Answer:
+
+Available options:
+(1). the garden.
+(2).",Where was the milk before the bathroom? 
+675,office,Answer:,Where was the milk before the kitchen? 
+676,garden,"Answer:
+
+Available options:
+(1). The kitchen.
+(2).",Where was the apple before the bathroom? 
+677,garden,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where was the milk before the bathroom? 
+678,kitchen,Answer:,Where was the football before the office? 
+679,garden,"Answer:
+
+Available options:
+(1). The kitchen.
+(2).",Where was the football before the bedroom? 
+680,kitchen,"Answer:
+
+Available options:
+(1). The kitchen.
+(2).",Where was the milk before the garden? 
+681,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the garden? 
+682,kitchen,"Answer:
+
+OPT:
+[i] The garden.
+[ii] The",Where was the milk before the office? 
+683,office,"Answer:
+
+OPTIONS:
+- in the basement of the church
+- in",Where was the football before the hallway? 
+684,office,Answer:,Where was the football before the hallway? 
+685,office,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the bedroom? 
+686,office,"Answer:
+
+<choices>
+[1]. The hallway.
+[2",Where was the football before the bedroom? 
+687,office,"Answer:
+
+Available options:
+[i] The pantry.
+[ii]",Where was the milk before the bedroom? 
+688,kitchen,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the apple before the office? 
+689,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the hallway? 
+690,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bedroom? 
+691,bedroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the kitchen? 
+692,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the office? 
+693,garden,"Answer:
+
+Available options:
+[i] The office.
+[ii]",Where was the football before the office? 
+694,garden,"Answer:
+
+Available options:
+[-] The garden.
+[-] The kitchen",Where was the football before the office? 
+695,bedroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the apple before the kitchen? 
+696,bedroom,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where was the apple before the kitchen? 
+697,bedroom,"Answer:
+
+Available options:
+(1). The kitchen.
+(2).",Where was the milk before the office? 
+698,bedroom,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where was the milk before the office? 
+699,bedroom,"Answer:
+
+<br>
+<br>
+Possible answers:
+[i",Where was the apple before the bathroom? 
+700,hallway,"OPTIONS:
+[A]. in the garden.
+[B]. in the attic",Where was the apple before the office? 
+701,hallway,"OPTIONS:
+[a]. in the bathroom.
+[b]. in the bathroom",Where was the apple before the office? 
+702,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the office? 
+703,hallway,"OPT:
+[1]. The kitchen.
+[2]. The hallway.",Where was the football before the garden? 
+704,office,"OPTIONS:
+[a]. in the garden.
+[b]. in the operating",Where was the milk before the kitchen? 
+705,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the garden? 
+706,bedroom,Answer:,Where was the milk before the garden? 
+707,bedroom,"Answer:
+
+<context>
+The garden.
+</context>
+
+Question",Where was the milk before the garden? 
+708,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the milk before the garden? 
+709,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the office? 
+710,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bathroom? 
+711,hallway,"Answer:
+
+Available options:
+(1). in the garden.
+(2",Where was the apple before the office? 
+712,hallway,"Answer:
+
+Available options:
+[A]. Stables.
+[B].",Where was the apple before the office? 
+713,garden,Answer:,Where was the football before the bathroom? 
+714,hallway,"Answer:
+
+Available options:
+[i] The office.
+[ii]",Where was the football before the office? 
+715,garden,"Answer:
+
+<choices>
+[a]. office.
+[b]. bathroom",Where was the football before the bathroom? 
+716,garden,"Answer:
+<a href=""https://en.wikipedia.org/wiki/File",Where was the football before the bathroom? 
+717,bathroom,,Where was the apple before the office? 
+718,garden,Answer:,Where was the apple before the bathroom? 
+719,bathroom,Answer:,Where was the apple before the office? 
+720,kitchen,"Answer:
+
+Available options:
+(1). in the garden.
+(2",Where was the milk before the garden? 
+721,kitchen,"Answer:
+
+Available options:
+[-] the bathroom
+[-] the office",Where was the milk before the garden? 
+722,office,"Answer:
+
+Available options:
+[i] The bedroom.
+[ii]",Where was the milk before the bedroom? 
+723,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bedroom? 
+724,bedroom,Answer:,Where was the apple before the bathroom? 
+725,hallway,"Answer:
+
+<choices>
+i. in the garden
+ii. in the",Where was the apple before the bathroom? 
+726,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the hallway? 
+727,office,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where was the milk before the bathroom? 
+728,bathroom,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where was the milk before the office? 
+729,kitchen,"OPTIONS:
+[1]. The library.
+[2]. The kitchen.",Where was the football before the garden? 
+730,kitchen,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the hallway? 
+731,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the hallway? 
+732,office,"Answer:
+
+Choose your answer from:
+[A]. The kitchen.
+[",Where was the milk before the bathroom? 
+733,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bathroom? 
+734,office,"Answer:
+
+Available options:
+[i] the kitchen.
+[ii]",Where was the milk before the bathroom? 
+735,bathroom,"Answer:
+
+OPT:
+[i] The stable.
+[ii] The",Where was the apple before the kitchen? 
+736,bathroom,"Answer:
+
+Available options:
+(I). The garden.
+(II).",Where was the apple before the kitchen? 
+737,bathroom,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where was the apple before the kitchen? 
+738,bedroom,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where was the milk before the garden? 
+739,garden,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where was the milk before the bedroom? 
+740,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the bathroom? 
+741,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the bathroom? 
+742,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the bathroom? 
+743,office,"Answer:
+
+OPTIONS:
+- St Charles
+- St Eustache",Where was the apple before the kitchen? 
+744,office,"Answer:
+
+OPTIONS:
+[A]. St Eustache.
+[",Where was the apple before the kitchen? 
+745,garden,Answer:,Where was the milk before the office? 
+746,garden,"Answer:
+
+Available options:
+(1). The office.
+(2).",Where was the milk before the office? 
+747,garden,"Answer:
+
+OPTIONS:
+[i] The office.
+[ii]",Where was the milk before the office? 
+748,hallway,"Answer:
+
+Available options:
+(1). The garden.
+(2).",Where was the apple before the bedroom? 
+749,bedroom,Answer:,Where was the milk before the kitchen? 
+750,office,"OPTIONS:
+[A]. in the garden.
+[B]. in the kitchen",Where was the football before the hallway? 
+751,office,"Answer:
+
+Available options:
+[i] the hallway
+[ii]",Where was the football before the hallway? 
+752,bedroom,"Answer:
+
+<context>
+""Before the hallway,"" said her brother,",Where was the apple before the hallway? 
+753,hallway,Answer:,Where was the milk before the garden? 
+754,hallway,Answer:,Where was the milk before the garden? 
+755,kitchen,"Answer:
+<context>
+
+<context>
+
+<context>",Where was the football before the bathroom? 
+756,kitchen,"Answer:
+
+<choices>
+<a id=""choice1""></a>",Where was the football before the bathroom? 
+757,kitchen,"OPTIONS:
+[-] The kitchen.
+[-] The bedroom.
+[-]",Where was the milk before the bathroom? 
+758,bathroom,Answer:,Where was the milk before the kitchen? 
+759,bathroom,"Answer:
+
+Available options:
+(A). in the bathroom.
+(B",Where was the football before the office? 
+760,kitchen,"OPTIONS:
+[A]. the kitchen.
+[B]. the office.",Where was the football before the hallway? 
+761,garden,"Answer:
+
+Available options:
+(1). in the library.
+(2",Where was the football before the office? 
+762,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+763,garden,"Answer:
+
+<context>
+The context says: Mary went back to the kitchen",Where was the apple before the office? 
+764,bathroom,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where was the apple before the garden? 
+765,hallway,"Answer:
+
+<choices>
+<a id=""choice-1""></a",Where was the apple before the bathroom? 
+766,hallway,Answer:,Where was the apple before the bathroom? 
+767,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the bathroom? 
+768,bedroom,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where was the football before the bathroom? 
+769,bedroom,Answer:,Where was the apple before the hallway? 
+770,garden,Answer:,Where was the football before the office? 
+771,garden,"Answer:
+
+Available options:
+(i). in the garden.
+(ii",Where was the football before the office? 
+772,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the office? 
+773,garden,Answer:,Where was the football before the office? 
+774,bedroom,"Answer:
+
+Available options:
+[1]. The garden.
+[2].",Where was the apple before the bathroom? 
+775,kitchen,"Answer: ""The garden.""
+
+Question: What did the milk go to?",Where was the milk before the garden? 
+776,kitchen,"Answer: ""The Supervisor said: ""Well, now, if you're ready to",Where was the milk before the garden? 
+777,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the garden? 
+778,hallway,"pick from the following.
+[A]. in the kitchen.
+[B]. in",Where was the milk before the bathroom? 
+779,kitchen,"Answer:
+
+<context>
+<context.section>
+  <context.paragraph",Where was the milk before the office? 
+780,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the kitchen? 
+781,bedroom,Answer:,Where was the football before the kitchen? 
+782,hallway,"Answer:
+Possible answers:
+[i] The garden.
+[ii] The hall",Where was the football before the bedroom? 
+783,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the bedroom? 
+784,office,"Answer:
+
+<choices>
+[a]. kitchen.
+[b]. bathroom",Where was the milk before the bathroom? 
+785,garden,"Answer:
+
+Available options:
+(I). The office.
+(II).",Where was the milk before the office? 
+786,garden,"Answer:
+
+Available options:
+(i). in the kitchen.
+(ii",Where was the milk before the office? 
+787,garden,"Answer:
+
+Available options:
+[i] The Beaubien's dressing room",Where was the apple before the kitchen? 
+788,bedroom,"Answer:
+
+<context>
+<context.section>
+    <context.paragraph",Where was the apple before the bathroom? 
+789,bathroom,"Answer:
+
+<context>
+
+<context>
+
+Answer:",Where was the apple before the hallway? 
+790,kitchen,"Answer:
+
+<context>
+
+The answer is:
+
+A:",Where was the apple before the garden? 
+791,kitchen,"Answer:
+
+<context>
+The apple was in the bedroom.
+</context",Where was the apple before the garden? 
+792,kitchen,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the apple before the garden? 
+793,bathroom,"Answer:
+
+<choices>
+[a]. The garden.
+[b].",Where was the football before the hallway? 
+794,garden,Answer:,Where was the milk before the bathroom? 
+795,kitchen,Answer:,Where was the apple before the bathroom? 
+796,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bathroom? 
+797,kitchen,"OPTIONS:
+[A]. in the kitchen.
+[B]. in the garden",Where was the apple before the bathroom? 
+798,garden,"OPTIONS:
+[-] The garden.
+[-] The living room.
+[-",Where was the apple before the kitchen? 
+799,garden,"Answer:
+
+<choices>
+[a]. The garden.
+[b].",Where was the apple before the kitchen? 
+800,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the milk before the hallway? 
+801,bathroom,"Answer:
+
+<context>
+
+The answer is:
+
+<item>",Where was the milk before the hallway? 
+802,bathroom,"Answer: The hallway
+
+Based on this review, would the user recommend this book",Where was the milk before the hallway? 
+803,bedroom,"Answer:
+
+<choices>
+i. the garden
+ii. the bedroom",Where was the apple before the kitchen? 
+804,bathroom,"Answer:
+
+<choices>
+[a]. garden
+[b]. office",Where was the apple before the bedroom? 
+805,garden,"Answer:
+
+<context>
+Before the bedroom, the apple was in the garden",Where was the apple before the bedroom? 
+806,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bedroom? 
+807,bedroom,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the apple before the garden? 
+808,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+809,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+810,garden,Answer:,Where was the apple before the hallway? 
+811,office,Answer:,Where was the apple before the garden? 
+812,bathroom,Answer:,Where was the football before the office? 
+813,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+814,garden,"Answer:
+
+<context>
+
+<example>
+
+<example>",Where was the apple before the kitchen? 
+815,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the football before the kitchen? 
+816,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the kitchen? 
+817,hallway,"Answer:
+
+OPTIONS:
+[A]. The kitchen.
+[B].",Where was the football before the kitchen? 
+818,bathroom,"Answer:
+
+Available options:
+[i] the kitchen.
+[ii]",Where was the milk before the hallway? 
+819,bathroom,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where was the milk before the hallway? 
+820,bedroom,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the football before the kitchen? 
+821,hallway,"Answer:
+
+Available options:
+(i). in the garden.
+(ii",Where was the apple before the bedroom? 
+822,hallway,Answer:,Where was the apple before the bedroom? 
+823,hallway,"Answer:
+
+<context>
+Sandra went to the bathroom.
+</context",Where was the football before the bedroom? 
+824,hallway,"Answer: Mary went to the bathroom.
+
+Question: What was the instrument of the",Where was the milk before the office? 
+825,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bedroom? 
+826,hallway,"OPTIONS:
+[A]. In the kitchen.
+[B]. In the hall",Where was the apple before the bedroom? 
+827,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bathroom? 
+828,office,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the milk before the bedroom? 
+829,bathroom,"Answer:
+
+<context>
+The context states: ""The milk was dropped by",Where was the milk before the office? 
+830,hallway,"Answer:
+
+<context>
+The context states: ""The mother and son agreed",Where was the milk before the garden? 
+831,hallway,"Answer:
+
+Available options:
+(A). The barn.
+(B).",Where was the milk before the garden? 
+832,hallway,"Answer:
+
+Available options:
+(A). bathroom
+(B). kitchen",Where was the milk before the garden? 
+833,hallway,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the football before the bedroom? 
+834,bedroom,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where was the apple before the bathroom? 
+835,kitchen,"Answer:
+
+Available options:
+[A]. The bedroom.
+[B].",Where was the football before the bedroom? 
+836,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the bedroom? 
+837,kitchen,"Answer:
+
+[Illustration]
+
+[Illustration]
+
+[Illust",Where was the football before the bedroom? 
+838,hallway,"Answer:
+
+[A]. The bathroom.
+
+[B]. The kitchen.",Where was the football before the bathroom? 
+839,bathroom,Answer:,Where was the football before the hallway? 
+840,garden,"Answer:
+
+<choices>
+[1]. The hallway.
+[2",Where was the milk before the hallway? 
+841,garden,"Answer:
+
+Available options:
+[i] kitchen
+[ii] dining-",Where was the milk before the hallway? 
+842,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the hallway? 
+843,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the hallway? 
+844,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the hallway? 
+845,bedroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the hallway? 
+846,bedroom,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where was the milk before the hallway? 
+847,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+848,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+849,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bathroom? 
+850,bedroom,"Answer:
+
+Available options:
+[i] bathroom
+[ii] kitchen",Where was the milk before the hallway? 
+851,bedroom,"OPTIONS:
+[-] The office.
+[-] The kitchen.
+[-]",Where was the milk before the hallway? 
+852,bedroom,"Answer:
+
+OPT:
+[i] Carvel Hall
+[ii] Car",Where was the milk before the hallway? 
+853,kitchen,Answer:,Where was the milk before the bedroom? 
+854,kitchen,"Answer: The bedroom.
+
+Question: Who was the milkman?
+
+Answer",Where was the milk before the bedroom? 
+855,garden,"Answer: _The kitchen._
+
+Question: What was the SQUIRE of M",Where was the milk before the office? 
+856,garden,Answer:,Where was the milk before the office? 
+857,bedroom,"Answer:
+
+Available options:
+[i] the kitchen.
+[ii]",Where was the milk before the hallway? 
+858,bedroom,"Answer:
+
+OPTIONS:
+[-] The garden.
+[-] The kitchen",Where was the milk before the hallway? 
+859,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the kitchen? 
+860,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the garden? 
+861,hallway,"Answer:
+
+pick from the following options. --The kitchen. --The garden.",Where was the milk before the bathroom? 
+862,kitchen,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where was the milk before the garden? 
+863,kitchen,"Answer:
+
+<context>
+
+<example>
+
+<example>",Where was the football before the bathroom? 
+864,kitchen,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The",Where was the football before the bathroom? 
+865,bedroom,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where was the apple before the garden? 
+866,garden,"Answer:
+
+OPT:
+[A]. in the kitchen.
+[B].",Where was the apple before the hallway? 
+867,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+868,bedroom,Answer:,Where was the apple before the garden? 
+869,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+870,hallway,"Answer:
+
+Available options:
+(A). The kitchen.
+(B).",Where was the milk before the garden? 
+871,hallway,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where was the milk before the garden? 
+872,kitchen,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where was the football before the office? 
+873,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the hallway? 
+874,bathroom,Answer:,Where was the football before the hallway? 
+875,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the office? 
+876,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bathroom? 
+877,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the garden? 
+878,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bedroom? 
+879,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the kitchen? 
+880,bathroom,"Answer:
+
+Available options:
+(A). The hallway.
+(B",Where was the football before the hallway? 
+881,bathroom,"Answer:
+
+<solution>The answer is: The football was in the garden.",Where was the football before the garden? 
+882,garden,Answer:,Where was the football before the bedroom? 
+883,bathroom,Answer:,Where was the football before the garden? 
+884,bedroom,Answer:,Where was the milk before the kitchen? 
+885,office,"Answer:
+
+OPT:
+[A]. The garden.
+[B]. The",Where was the football before the hallway? 
+886,office,"Answer:
+
+OPT:
+[1]. In the garden.
+[2].",Where was the football before the hallway? 
+887,garden,"Answer:
+
+OPTIONS:
+- garden
+- garden path
+- garden path",Where was the milk before the office? 
+888,garden,Answer:,Where was the milk before the office? 
+889,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the milk before the office? 
+890,garden,"Answer:
+
+Available options:
+[i] the store
+[ii] the",Where was the apple before the hallway? 
+891,bathroom,"Answer:
+
+<context>
+""The hallway,"" said Harry, ""was",Where was the milk before the hallway? 
+892,bathroom,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The",Where was the milk before the hallway? 
+893,garden,"OPTIONS:
+[A]. in the garden.
+[B]. in the hall",Where was the milk before the kitchen? 
+894,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the hallway? 
+895,garden,Answer:,Where was the milk before the hallway? 
+896,garden,"Possible answers:
+[A]. The kitchen.
+[B]. The bedroom.",Where was the milk before the hallway? 
+897,garden,Answer:,Where was the milk before the hallway? 
+898,garden,Answer:,Where was the milk before the hallway? 
+899,bedroom,"pick from the following.
+[A]. at the kitchen.
+[B]. at",Where was the milk before the garden? 
+900,office,"Answer:
+
+Available options:
+(1). The kitchen.
+(2).",Where was the milk before the bedroom? 
+901,office,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where was the milk before the bedroom? 
+902,hallway,"pick from the following.
+[A]. in the garden.
+[B]. in",Where was the football before the bathroom? 
+903,hallway,"OPTIONS:
+[1]. The garden.
+[2]. The kitchen.",Where was the football before the bathroom? 
+904,garden,"OPTIONS:
+[a]. in the garden.
+[b]. in the kitchen",Where was the football before the hallway? 
+905,bedroom,"Answer:
+
+Available options:
+[i] The temple.
+[ii]",Where was the apple before the office? 
+906,bedroom,"Answer:
+
+Available options:
+(A). in the office.
+(B",Where was the apple before the office? 
+907,office,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the garden? 
+908,office,"Answer:
+
+The kitchen.
+
+Question: What did the milk go to?",Where was the milk before the kitchen? 
+909,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the hallway? 
+910,hallway,"OPTIONS:
+[1]. The kitchen.
+[2]. The garden.",Where was the apple before the bedroom? 
+911,hallway,"Answer: [A]. The garden.
+
+Question: What is the name of the",Where was the apple before the bedroom? 
+912,kitchen,Answer:,Where was the football before the hallway? 
+913,kitchen,"Answer:
+
+<solution>
+The answer is: The football was in the hall",Where was the football before the hallway? 
+914,hallway,"pick from the following.
+[A]. the kitchen.
+[B]. the hall",Where was the milk before the garden? 
+915,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the garden? 
+916,bedroom,Answer:,Where was the milk before the bathroom? 
+917,kitchen,"Answer:
+
+Available options:
+[i] The church at Gaeta.",Where was the milk before the hallway? 
+918,bathroom,Answer:,Where was the milk before the office? 
+919,garden,"OPTIONS:
+[1]. The kitchen.
+[2]. The hallway.",Where was the milk before the bathroom? 
+920,bedroom,"OPTIONS:
+[1]. The Minster box.
+[2]. The Min",Where was the apple before the bathroom? 
+921,hallway,Answer:,Where was the football before the kitchen? 
+922,hallway,"Answer:
+
+<choices>
+  * A
+  * B
+  * C
+</",Where was the football before the kitchen? 
+923,hallway,"Answer:
+
+<choices>
+  <listing>
+    <item>The kitchen",Where was the football before the kitchen? 
+924,garden,"Answer:
+
+Explanation:",Where was the football before the bedroom? 
+925,hallway,"Answer:
+
+OPT:
+[A]. The kitchen.
+[B]. The",Where was the apple before the bedroom? 
+926,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the hallway? 
+927,garden,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where was the milk before the office? 
+928,bathroom,"Answer:
+
+<context>
+<context.section>
+    <context.paragraph",Where was the milk before the bedroom? 
+929,bathroom,Answer:,Where was the apple before the hallway? 
+930,bathroom,"Answer: The orchard.
+
+Question: What was the name of the person who travelled",Where was the apple before the garden? 
+931,garden,"Answer:
+
+<context>
+
+A) The barn
+B) The garden",Where was the apple before the office? 
+932,garden,"Answer:
+<context>
+The context states that the apple was in the office.",Where was the apple before the office? 
+933,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the office? 
+934,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the apple before the garden? 
+935,hallway,Answer:,Where was the football before the kitchen? 
+936,hallway,Answer:,Where was the football before the kitchen? 
+937,office,"Answer:
+
+Available options:
+[-] The garden.
+[-] The bedroom",Where was the milk before the garden? 
+938,office,"Answer:
+
+<choices>
+[1]. The kitchen.
+[2].",Where was the milk before the garden? 
+939,bathroom,Answer:,Where was the milk before the office? 
+940,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the kitchen? 
+941,kitchen,"Answer:
+
+Available options:
+(1). the office.
+(2).",Where was the football before the hallway? 
+942,hallway,Answer:,Where was the football before the kitchen? 
+943,kitchen,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where was the milk before the garden? 
+944,bedroom,"OPTIONS:
+[a]. The machine was in the garden.
+[b].",Where was the apple before the garden? 
+945,hallway,Answer:,Where was the milk before the bathroom? 
+946,office,Answer:,Where was the football before the hallway? 
+947,office,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the hallway? 
+948,office,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where was the football before the hallway? 
+949,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bedroom? 
+950,kitchen,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where was the milk before the bathroom? 
+951,kitchen,Answer:,Where was the milk before the bathroom? 
+952,bathroom,"Pick from:
+[A]. The bathroom.
+[B]. The garden.",Where was the football before the bedroom? 
+953,bathroom,"Answer:
+
+Available options:
+[i] The bedroom.
+[ii]",Where was the football before the bedroom? 
+954,hallway,"Answer:
+
+Available options:
+[i] the garden
+[ii] the",Where was the milk before the bedroom? 
+955,bathroom,"Answer:
+
+<DW64>
+
+OPT:
+
+[A",Where was the apple before the hallway? 
+956,bathroom,"Answer:
+
+<context>
+
+The answer is:
+
+<context>",Where was the apple before the hallway? 
+957,bathroom,"Answer:
+
+Available options:
+[1]. The hallway.
+[2",Where was the apple before the hallway? 
+958,bathroom,"OPTIONS:
+[A]. inside the kitchen.
+[B]. in the garden",Where was the apple before the hallway? 
+959,bathroom,"Answer:
+
+Choose from:
+[A]. inside the kitchen.
+[B",Where was the apple before the hallway? 
+960,hallway,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the football before the garden? 
+961,bathroom,"Answer:
+
+OPT:
+[i] the kitchen.
+[ii] the",Where was the milk before the hallway? 
+962,bathroom,"Answer:
+
+OPT:
+[i] the garden.
+[ii] the",Where was the milk before the hallway? 
+963,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the hallway? 
+964,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bedroom? 
+965,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the kitchen? 
+966,hallway,"Answer:
+
+[A]. The bedroom.
+[B]. The bathroom.",Where was the milk before the kitchen? 
+967,bathroom,Answer:,Where was the football before the office? 
+968,bedroom,"Answer:
+
+<context>
+
+[Illustration]
+
+[Illustration",Where was the football before the bathroom? 
+969,bedroom,Answer:,Where was the football before the office? 
+970,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the bedroom? 
+971,hallway,"Answer:
+
+Available options:
+(1). The bedroom.
+(2).",Where was the milk before the bedroom? 
+972,hallway,"Answer:
+
+<context>
+
+<question>
+
+<answer>",Where was the milk before the bedroom? 
+973,bedroom,"Available options:
+[I] bathroom
+[II] bedroom
+[III] kitchen",Where was the apple before the office? 
+974,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the bedroom? 
+975,hallway,"Answer:
+
+Available options:
+[A]. The Conciergerie.",Where was the football before the bedroom? 
+976,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bathroom? 
+977,hallway,"Answer:
+
+Available options:
+[i] The bedroom.
+[ii]",Where was the football before the bedroom? 
+978,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the bathroom? 
+979,office,"Answer:
+
+<pre>
+<code>
+<span class=""ocr_",Where was the football before the bathroom? 
+980,office,"Answer:
+
+<choices>
+[a]. The garden.
+[b].",Where was the football before the kitchen? 
+981,bedroom,"Answer:
+
+Available options:
+[i] The garden.
+[ii]",Where was the apple before the office? 
+982,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the office? 
+983,bathroom,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where was the milk before the bedroom? 
+984,hallway,"Answer:
+
+<example>
+Mary got the milk there.
+</example>",Where was the football before the garden? 
+985,garden,"Answer:
+
+OPT:
+[1]. The kitchen.
+[2]. The",Where was the milk before the bedroom? 
+986,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the garden? 
+987,bedroom,"Answer:
+
+Available options:
+[A]. The garden.
+[B].",Where was the football before the office? 
+988,garden,"Answer:
+
+Available options:
+[i] The football was in the bedroom.",Where was the football before the bedroom? 
+989,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the kitchen? 
+990,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the football before the kitchen? 
+991,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the football before the kitchen? 
+992,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the bedroom? 
+993,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where was the milk before the bedroom? 
+994,bedroom,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where was the apple before the kitchen? 
+995,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the apple before the office? 
+996,hallway,"Answer:
+
+OPT:
+[1]. The kitchen.
+[2]. The",Where was the apple before the office? 
+997,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where was the milk before the kitchen? 
+998,bathroom,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where was the football before the garden? 

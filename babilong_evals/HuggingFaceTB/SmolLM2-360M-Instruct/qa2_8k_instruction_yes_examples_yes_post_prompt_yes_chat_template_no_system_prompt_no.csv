@@ -1,0 +1,4548 @@
+,target,output,question
+0,hallway,"Answer:
+<context>
+The milk is in the balcony.
+</context>",Where is the milk? 
+1,hallway,"Answer: In the hallway.
+
+Question: What is the football?",Where is the football? 
+2,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+3,hallway,"Answer: The football was delivered by the Sinias.
+
+Question: What is the",Where is the football? 
+4,garden,"Answer: Mary went to the hallway.
+
+Question: What is the name of",Where is the milk? 
+5,garden,"Possible answers:
+[A]. in the kitchen.
+[B]. in the garden.",Where is the milk? 
+6,bedroom,"Answer:
+
+Available options:
+(1). in the garden.
+(2",Where is the football? 
+7,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+8,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+9,kitchen,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+10,bedroom,"Answer: The football is in the kitchen.
+
+Now, how did the author know",Where is the football? 
+11,hallway,"Answer:
+
+OPT:
+[i] The office.
+[ii] The",Where is the football? 
+12,garden,Answer:,Where is the milk? 
+13,garden,"Answer:
+
+In the kitchen.
+
+OPTIONS:
+[A]. Yes",Where is the milk? 
+14,bathroom,Answer:,Where is the apple? 
+15,garden,"Answer: The best substitute for the mother is a wet-nurse.
+
+pick",Where is the milk? 
+16,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+17,garden,Answer:,Where is the milk? 
+18,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+19,kitchen,"Answer:
+
+<i>In the orchard.</i>
+
+Question:",Where is the apple? 
+20,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+21,bedroom,"Answer:
+
+<context>
+
+A) in the basket
+B) in",Where is the apple? 
+22,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+23,bathroom,Answer:,Where is the football? 
+24,bedroom,"Answer:
+
+Available options:
+[1]. The milk is in the kitchen.",Where is the milk? 
+25,kitchen,"Answer:
+
+Available options:
+(A). Northumberland
+(B). Ann",Where is the milk? 
+26,kitchen,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where is the milk? 
+27,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+28,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+29,kitchen,"Answer:
+
+<context>
+
+The context states that the milk is in the",Where is the milk? 
+30,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+31,garden,"Answer:
+
+<context>
+
+The answer is:
+
+A. B",Where is the apple? 
+32,kitchen,"Answer:
+
+A) in the hallway
+B) in the hareem",Where is the football? 
+33,kitchen,Answer:,Where is the apple? 
+34,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+35,office,Answer:,Where is the milk? 
+36,kitchen,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+37,kitchen,Answer:,Where is the football? 
+38,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+39,bedroom,"Answer:
+
+<context>
+The context is: <i>Mary went to",Where is the milk? 
+40,bedroom,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where is the milk? 
+41,office,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the milk? 
+42,office,"Answer:
+
+Available options:
+[1]. The barn.
+[2].",Where is the milk? 
+43,office,"Answer:
+
+<context>
+
+<example>
+
+<example>",Where is the milk? 
+44,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+45,bedroom,"Answer:
+
+<context>
+
+The answer is:
+
+<i>",Where is the milk? 
+46,office,"Answer:
+
+Available options:
+[i] the field
+[ii] the",Where is the football? 
+47,bathroom,"Answer:
+
+Available options:
+[i] the barn
+[ii] the",Where is the football? 
+48,bathroom,"Answer:
+
+<context>
+
+<question>
+
+<answer>",Where is the football? 
+49,bedroom,"Answer:
+
+<context>
+
+<example>
+<example>
+<",Where is the milk? 
+50,bathroom,"Answer:
+
+<choices>
+[A]. The Brownies' cottage.",Where is the milk? 
+51,hallway,"Answer:
+
+OPTIONS:
+[i] The Orange Free State
+[ii",Where is the apple? 
+52,kitchen,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where is the football? 
+53,kitchen,"Answer:
+
+Available options:
+[i] The football is in the kitchen.",Where is the football? 
+54,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+55,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+56,bathroom,"Answer:
+
+OPT:
+[1]. The office.
+[2]. The",Where is the milk? 
+57,kitchen,"Answer:
+
+Available options:
+(A). in the office.
+(B",Where is the milk? 
+58,kitchen,"Answer:
+
+Available options:
+(A). The kitchen.
+(B).",Where is the milk? 
+59,bedroom,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where is the apple? 
+60,garden,"Answer:
+
+Available options:
+[i] The milk is in the milk barrel",Where is the milk? 
+61,garden,,Where is the milk? 
+62,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+63,kitchen,"Answer:
+
+<context>
+
+The football is in the stomach.",Where is the football? 
+64,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+65,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+66,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+67,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+68,bedroom,"Answer:
+
+Available options:
+(i). in the boat
+(ii).",Where is the milk? 
+69,bedroom,Answer:,Where is the football? 
+70,garden,Answer:,Where is the apple? 
+71,garden,"Answer:
+
+<context>
+<example>
+<Charlie went to the",Where is the apple? 
+72,bathroom,"Answer:
+
+<context>
+
+A. The orchard
+
+B. The",Where is the apple? 
+73,bathroom,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the apple? 
+74,bathroom,"Answer:
+
+Available options:
+(1). in the garden.
+(2",Where is the apple? 
+75,office,Answer:,Where is the apple? 
+76,hallway,"Answer: In the morning.
+
+Question: Where is the milk?
+
+Answer",Where is the milk? 
+77,hallway,"Answer: In the hallway
+
+Question: What is the milk for?",Where is the milk? 
+78,hallway,"Answer:
+
+<context>
+The milk was left by Mary in the hallway",Where is the milk? 
+79,hallway,"Answer:
+
+<context>
+The author of the story says that he left the",Where is the milk? 
+80,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+81,bathroom,Answer:,Where is the football? 
+82,kitchen,"Answer:
+
+Available options:
+[i] The football is in the bedroom.",Where is the football? 
+83,kitchen,"Answer:
+
+Available options:
+[i] the football is in the car.",Where is the football? 
+84,kitchen,"Answer:
+
+Available options:
+[i] The place where the football was found",Where is the football? 
+85,bathroom,"OPTIONS:
+- in the kitchen
+- in the hallway
+- in the",Where is the milk? 
+86,kitchen,"Answer:
+
+<context>
+
+<example>
+""The apple was in",Where is the apple? 
+87,bathroom,"Answer:
+
+<context>
+The context is:
+
+""Cousin",Where is the milk? 
+88,bedroom,Answer:,Where is the football? 
+89,kitchen,,Where is the apple? 
+90,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+91,kitchen,"Answer:
+
+Available options:
+(A). in the bathroom.
+(B",Where is the milk? 
+92,kitchen,"Answer:
+
+In the kitchen.
+
+Who is the narrator?
+
+Answer",Where is the milk? 
+93,kitchen,"Answer: In the garden.
+
+Question: Who is the woman who is not paying",Where is the milk? 
+94,kitchen,"Answer:
+
+<example>
+<example>
+<example>
+<example",Where is the milk? 
+95,bathroom,"Answer: The football is in the garage.
+
+Question: What is the difference between",Where is the football? 
+96,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+97,bathroom,"pick from the following.
+(A). in the ship's mess.
+(B",Where is the football? 
+98,bathroom,Answer:,Where is the football? 
+99,hallway,"Answer:
+
+<context>
+
+<example>
+
+<example>",Where is the milk? 
+100,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+101,office,"Answer:
+
+OPT:
+[i] The parlor.
+[ii]",Where is the milk? 
+102,kitchen,"Possible answers:
+[i] in the kitchen.
+[ii] in the bathroom.",Where is the milk? 
+103,kitchen,"Answer:
+
+Choose your answer from:
+[A]. The kitchen.
+[",Where is the milk? 
+104,bedroom,"Answer:
+
+OPT:
+[i] the classroom
+[ii] the office",Where is the football? 
+105,bathroom,"Answer: In the school-room.
+
+Question: What is the purpose of this",Where is the football? 
+106,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+107,bathroom,"Answer:
+
+<context>
+
+The apple is in the kitchen.",Where is the apple? 
+108,bedroom,"Possible answers:
+[A]. in the kitchen.
+[B]. in the bathroom",Where is the milk? 
+109,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+110,bedroom,"Answer:
+
+Available options:
+[i] in the house.
+[ii",Where is the football? 
+111,bedroom,"Answer:
+
+Available options:
+[i] The football is in the corner of",Where is the football? 
+112,bedroom,"Answer:
+
+Available options:
+[-] the officers' quarters
+[-] the",Where is the football? 
+113,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+114,office,"Answer:
+
+Available options:
+[i] The orchard.
+[ii]",Where is the apple? 
+115,office,"Answer:
+
+OPT:
+[i] The football was in the field.",Where is the football? 
+116,hallway,"Answer:
+
+<example>
+The football was in the corner of the field.",Where is the football? 
+117,office,"Answer:
+
+Available options:
+(A). in the bathroom.
+(B",Where is the milk? 
+118,bedroom,Answer:,Where is the milk? 
+119,bathroom,"OPTIONS:
+[1]. The temple.
+[2]. The room.",Where is the apple? 
+120,hallway,"OPTIONS:
+[A]. in the forest.
+[B]. in the temple",Where is the apple? 
+121,bedroom,"Answer:
+
+Available options:
+[i] the machine
+[ii] the",Where is the milk? 
+122,garden,"Answer:
+
+<context>
+
+Answer:
+
+Pick from:
+[",Where is the apple? 
+123,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+124,garden,Answer:,Where is the football? 
+125,kitchen,Answer:,Where is the football? 
+126,kitchen,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where is the football? 
+127,kitchen,"Answer:
+
+Available options:
+(1). in the hallway.
+(",Where is the football? 
+128,bedroom,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the football? 
+129,bedroom,"Possible answers:
+[i] in the corner of the room.
+[ii]",Where is the football? 
+130,kitchen,"Possible answers:
+[i] in the field.
+[ii] in the _",Where is the football? 
+131,kitchen,"Answer:
+
+Available options:
+[i] the place where the boys are sitting",Where is the football? 
+132,kitchen,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the milk? 
+133,hallway,"Available options:
+[1]. In the kitchen.
+[2]. In the office",Where is the football? 
+134,hallway,"Answer:
+
+OPTIONS:
+- in the hallway
+- in the garden",Where is the football? 
+135,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+136,office,"Answer:
+
+Available options:
+[i] in the refrigerator.
+[ii",Where is the milk? 
+137,office,"Answer:
+
+Available options:
+[i] The hallway.
+[ii",Where is the football? 
+138,kitchen,"Answer:
+
+Available options:
+(1). The kitchen.
+(2).",Where is the football? 
+139,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+140,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+141,bedroom,"Answer:
+
+Available options:
+(A). in the corner of the field.",Where is the football? 
+142,bedroom,"Answer:
+
+Available options:
+[i] The football is in the hallway",Where is the football? 
+143,bedroom,"OPTIONS:
+[A]. in the hallway.
+[B]. in the",Where is the football? 
+144,garden,"OPTIONS:
+[a]. in the kitchen.
+[b]. in the library",Where is the football? 
+145,kitchen,"OPTIONS:
+[a]. in the bathroom.
+[b]. in the kitchen",Where is the apple? 
+146,bathroom,Answer: (A). The milk was given to Mary by the butler.,Where is the milk? 
+147,garden,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the milk? 
+148,kitchen,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is the apple? 
+149,kitchen,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is the apple? 
+150,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+151,bedroom,"Answer:
+
+<context>
+
+A: The apple is in the bedroom.",Where is the apple? 
+152,bedroom,"Answer: In the bedroom.
+
+Question: What is the best kind of strength to",Where is the apple? 
+153,kitchen,"Answer:
+
+Answer:
+
+Question: What is the name of the poet?",Where is the football? 
+154,kitchen,Answer:,Where is the football? 
+155,hallway,"Answer: The football is in the bedroom.
+
+Based on this answer, does the",Where is the football? 
+156,hallway,"Answer: In the bedroom.
+
+<context>
+
+<context>",Where is the football? 
+157,bedroom,"Possible answers:
+[i] in the kitchen.
+[ii] in the bathroom",Where is the milk? 
+158,bedroom,"OPTIONS:
+[a]. in the kitchen.
+[b]. in the bathroom",Where is the milk? 
+159,hallway,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is the football? 
+160,garden,"Answer:
+
+In the first chapter of the book of Acts, the apple is mentioned",Where is the apple? 
+161,garden,"Answer: The basilica of St. Sandra
+
+Based on the context, the correct",Where is the apple? 
+162,garden,Answer:,Where is the apple? 
+163,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+164,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+165,garden,"Answer:
+
+Available options:
+[i] in the hallway.
+[",Where is the football? 
+166,garden,,Where is the football? 
+167,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+168,hallway,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the apple? 
+169,office,Answer:,Where is the football? 
+170,bedroom,"OPTIONS:
+[a]. in the middle of the river.
+[b].",Where is the apple? 
+171,bathroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the apple? 
+172,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+173,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the milk? 
+174,bathroom,"Answer:
+
+In the context of the above paragraph, the correct answer is:",Where is the apple? 
+175,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+176,hallway,Answer: _The first volume of _Douglas the Doomed One_._,Where is the apple? 
+177,kitchen,"Answer:
+
+A) In the kitchen.
+B) In the garden.
+C",Where is the apple? 
+178,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+179,office,,Where is the milk? 
+180,garden,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the milk? 
+181,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+182,garden,"Possible answers:
+[1]. in the kitchen.
+[2]. in the garden",Where is the milk? 
+183,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+184,kitchen,"Answer:
+
+Available options:
+[i] Rosemullion
+[ii",Where is the apple? 
+185,office,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the apple? 
+186,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+187,kitchen,"Possible answers:
+[A]. in the kitchen.
+[B]. in the bedroom.",Where is the milk? 
+188,office,"Answer:
+<DW19>s in the wood.
+
+Question: What",Where is the apple? 
+189,kitchen,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where is the milk? 
+190,garden,"Possible answers:
+[i] in the kitchen.
+[ii] in the garden.",Where is the apple? 
+191,garden,"Answer: The apple is in the pantry.
+
+Question: What is the name of",Where is the apple? 
+192,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the apple? 
+193,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+194,bedroom,"Answer: In the baking chamber.
+
+[Illustration: GAS FURNA",Where is the milk? 
+195,bathroom,"Answer:
+
+OPTIONS:
+[A]. The orchard.
+[B].",Where is the apple? 
+196,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the apple? 
+197,garden,Answer:,Where is the milk? 
+198,kitchen,"Options:
+[I] The kitchen.
+[II] The garden.
+[",Where is the milk? 
+199,kitchen,"Answer:
+The answer is:
+
+Question: What is the name of the person who",Where is the milk? 
+200,office,"Answer:
+
+In the grocery store.
+
+Who was the milkman?",Where is the milk? 
+201,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+202,hallway,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where is the milk? 
+203,garden,"OPTIONS:
+- in the kitchen
+- in the hallway
+- in the",Where is the milk? 
+204,garden,"OPTIONS:
+[a]. in the garden.
+[b]. in the hall",Where is the milk? 
+205,office,"Answer: Mary went back to the garden.
+
+<context>
+
+Question:",Where is the milk? 
+206,office,"Answer:
+
+<context>
+The milk was in the kitchen.
+</context",Where is the milk? 
+207,garden,"Answer: In the garden.
+
+<context>
+
+<question>",Where is the apple? 
+208,bathroom,"Answer:
+
+<context>
+[265] ""Deep amid disjoint",Where is the milk? 
+209,bathroom,"Answer:
+
+<example>
+""Fitz-James was brave:--Though",Where is the milk? 
+210,kitchen,"Answer:
+
+<context>
+<example>
+<example>
+<example",Where is the football? 
+211,kitchen,"Answer:
+
+<context>
+<question>
+<answer>
+<context",Where is the football? 
+212,kitchen,"Available options:
+[1]. In the corner of the room.
+[2].",Where is the football? 
+213,kitchen,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where is the milk? 
+214,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+215,office,"Answer:
+
+Available options:
+[-] the garden
+[-] the orchard",Where is the apple? 
+216,office,"Answer:
+
+Available options:
+[i] The bathroom.
+[ii]",Where is the apple? 
+217,office,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is the apple? 
+218,bathroom,"Answer:
+
+Available options:
+(A). the kitchen
+(B). the",Where is the milk? 
+219,bathroom,"Answer:
+Available options:
+(A). in the kitchen
+(B). in the",Where is the milk? 
+220,office,"Answer:
+
+<context>
+
+<example>
+
+<apple>",Where is the apple? 
+221,office,"Possible answers:
+[i] in the forest.
+[ii] in the field",Where is the apple? 
+222,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+223,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+224,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+225,bedroom,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the apple? 
+226,kitchen,"Answer:
+
+<example>
+Angeline was a very good student. She was",Where is the apple? 
+227,garden,"Answer:
+
+OPT:
+[A]. Cleveland
+[B]. Plymouth Hollow",Where is the football? 
+228,bathroom,"Answer: The milk was put there.
+
+In the context:
+
+Question:",Where is the milk? 
+229,garden,Answer:,Where is the football? 
+230,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+231,bathroom,Answer:,Where is the football? 
+232,bathroom,"Answer:
+
+In the garden.
+
+Is the author a man or a woman",Where is the football? 
+233,garden,Answer:,Where is the apple? 
+234,bathroom,"Answer:
+
+<context>
+
+The answer to this question is:",Where is the football? 
+235,bedroom,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where is the apple? 
+236,bedroom,Answer:,Where is the apple? 
+237,kitchen,,Where is the football? 
+238,office,"Answer:
+
+[Illustration]
+
+[Illustration]
+
+[Illust",Where is the apple? 
+239,garden,Answer:,Where is the milk? 
+240,hallway,"Answer:
+
+<context>
+
+The context states: ""We saw them making",Where is the apple? 
+241,hallway,Answer:,Where is the apple? 
+242,kitchen,"Answer:
+
+Available options:
+[1]. in the bedroom.
+[2",Where is the apple? 
+243,bathroom,"A:
+B:
+C:
+D:
+Answer:
+pick from the following",Where is the apple? 
+244,bathroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the apple? 
+245,hallway,"Answer:
+
+Available options:
+[1]. The milk is in the office.",Where is the milk? 
+246,garden,"Answer:
+
+Available options:
+[i] the garden
+[ii] the",Where is the milk? 
+247,garden,"Answer: [Illustration: A]
+
+[Illustration: B]",Where is the milk? 
+248,garden,"Answer:
+
+<context>
+
+The football is in the pocket of the shirt",Where is the football? 
+249,garden,"Answer: _The room._
+
+Question: What is the name of the person who",Where is the football? 
+250,bathroom,"Answer: In the apple-tree.
+
+Question: Who is the apple?",Where is the apple? 
+251,hallway,"Answer:
+
+<context>
+
+A) in the garden
+
+B)",Where is the apple? 
+252,hallway,"Answer:
+
+<choices>
+[a]. the back garden
+[b].",Where is the apple? 
+253,hallway,Answer:,Where is the apple? 
+254,hallway,Answer:,Where is the apple? 
+255,bathroom,"Answer:
+
+In the context, the correct answer is:
+
+Question: What",Where is the milk? 
+256,kitchen,"Answer:
+
+Available options:
+(A). in the orchard.
+(B",Where is the apple? 
+257,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+258,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+259,hallway,"Answer:
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+260,garden,"Possible answers:
+(A). in the house
+(B). in the yard",Where is the football? 
+261,garden,"Answer:
+
+Available options:
+[i] Carvel Hall
+[ii]",Where is the football? 
+262,garden,"Answer:
+
+Available options:
+(A). Northumberland
+(B). Ann",Where is the football? 
+263,bathroom,"Answer:
+
+OPT:
+[i] The barn.
+[ii] The",Where is the apple? 
+264,hallway,"OPTIONS:
+[A]. in the cabin.
+[B]. in the bathroom",Where is the apple? 
+265,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+266,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the apple? 
+267,bathroom,Answer:,Where is the apple? 
+268,bathroom,Answer:,Where is the apple? 
+269,garden,"Answer:
+
+Available options:
+(A). Atlanta
+(B). Savannah",Where is the apple? 
+270,kitchen,"Possible answers:
+[i] in the garden.
+[ii] in the library",Where is the football? 
+271,office,"Answer:
+
+In the apple.
+
+Question: What is the apple?",Where is the apple? 
+272,office,"Answer:
+
+OPT:
+[1]. The orchard.
+[2]. The",Where is the apple? 
+273,kitchen,"Answer:
+
+<context>
+
+A) In the kitchen.
+B)",Where is the football? 
+274,office,"Answer:
+
+<example>
+The apple was in the kitchen.
+</example",Where is the apple? 
+275,hallway,"Answer:
+
+Available options:
+[1]. in the milk.
+[2",Where is the milk? 
+276,hallway,"Answer: In the dairy.
+
+Question: Where is the milk?
+
+Answer",Where is the milk? 
+277,hallway,"Answer:
+
+In the kitchen
+
+In the pantry
+
+In the cellar",Where is the milk? 
+278,kitchen,"Answer:
+
+<context>
+
+<answer>
+
+Answer:",Where is the apple? 
+279,kitchen,"Answer:
+
+OPT:
+
+A). Jamestown
+B). Powhatan",Where is the apple? 
+280,bathroom,"Answer:
+
+Available options:
+[i] the British Museum.
+[ii",Where is the football? 
+281,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+282,office,"Answer:
+
+Available options:
+[i] the kitchen.
+[ii]",Where is the milk? 
+283,office,"Possible answers:
+[i] in the kitchen.
+[ii] in the garden.",Where is the milk? 
+284,office,Answer:,Where is the milk? 
+285,bedroom,"Answer:
+
+Available options:
+[1]. The football is in the bedroom.",Where is the football? 
+286,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+287,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+288,bedroom,Answer:,Where is the football? 
+289,bedroom,"Answer: [A]. The left wing of the Union army.
+
+[Illustration",Where is the football? 
+290,office,"OPTIONS:
+[i] The river.
+[ii] The mountains.",Where is the apple? 
+291,office,Answer:,Where is the apple? 
+292,office,"Answer: In the orchard.
+
+Question: What is the apple?
+
+Answer",Where is the apple? 
+293,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+294,bedroom,"Answer:
+
+<context>
+
+The context states that the milk was left on",Where is the milk? 
+295,hallway,"Answer:
+
+Available options:
+(A). at the home of General Cobb",Where is the milk? 
+296,hallway,"Available options:
+[A]. Atlanta;
+[B]. Goldsboro;",Where is the football? 
+297,hallway,Answer:,Where is the milk? 
+298,bathroom,"Answer:
+
+Available options:
+[1]. The orchard.
+[2].",Where is the apple? 
+299,bathroom,Answer:,Where is the apple? 
+300,bedroom,"Answer:
+<a href=""https://en.wikipedia.org/wiki/L",Where is the football? 
+301,bedroom,"Answer:
+
+Available options:
+(A). in the hallway.
+(",Where is the football? 
+302,office,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where is the football? 
+303,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+304,bedroom,"Answer: In the garden.
+
+Did the man who was going to the bathroom go",Where is the football? 
+305,bathroom,"Answer:
+
+In the kitchen.
+
+Question: What is the name of the",Where is the milk? 
+306,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+307,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+308,bathroom,"Answer:
+
+Available options:
+[i] The stable.
+[ii]",Where is the milk? 
+309,bathroom,"Answer:
+
+Available options:
+[i] The stable
+[ii] The",Where is the milk? 
+310,kitchen,"Answer:
+
+Available options:
+(1). The kitchen.
+(2).",Where is the milk? 
+311,kitchen,"Answer:
+
+In the apple
+
+OPT:
+[i] Yes
+[",Where is the milk? 
+312,kitchen,"Possible answers:
+[A]. in the kitchen.
+[B]. in the hall",Where is the milk? 
+313,kitchen,"Answer:
+
+<context>
+
+The answer is:
+
+A. The",Where is the milk? 
+314,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+315,bathroom,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where is the football? 
+316,bathroom,"Answer:
+
+OPTIONS:
+[i] in the garden.
+[ii",Where is the football? 
+317,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+318,office,Answer:,Where is the milk? 
+319,kitchen,,Where is the football? 
+320,bathroom,"Answer:
+<context>
+<context>
+<context>
+<context>",Where is the football? 
+321,bathroom,"Answer:
+
+<context>
+<example>
+<example>
+<example",Where is the football? 
+322,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+323,bathroom,"Answer:
+
+Available options:
+[A]. in the garden.
+[B",Where is the football? 
+324,bathroom,"Answer:
+
+Available options:
+[i] The hallway.
+[ii",Where is the football? 
+325,bathroom,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the apple? 
+326,bathroom,"OPTIONS:
+[i] in the pocket.
+[ii] in the breast",Where is the apple? 
+327,garden,"Answer:
+
+Available options:
+[i] The football is in the bedroom.",Where is the football? 
+328,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+329,garden,Answer:,Where is the football? 
+330,garden,"Answer:
+
+pick from the following.
+[I] on the beach.",Where is the football? 
+331,bathroom,Answer:,Where is the apple? 
+332,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+333,hallway,"Answer:
+
+A. In the hallway.
+
+B. In the kitchen",Where is the football? 
+334,hallway,"Answer:
+
+Available options:
+[1]. The football is in the kitchen.",Where is the football? 
+335,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+336,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+337,hallway,"Answer:
+
+In the hallway.
+
+In the kitchen.
+
+In",Where is the football? 
+338,hallway,"Possible answers:
+A). in the hallway
+B). in the kitchen
+C).",Where is the football? 
+339,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+340,garden,"Answer: The Brownies are in the kitchen.
+
+Question: What is the Brown",Where is the milk? 
+341,garden,"Answer:
+
+<context>
+
+[Illustration]
+
+[Illustration",Where is the milk? 
+342,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the football? 
+343,hallway,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where is the football? 
+344,hallway,"Possible answers:
+(A). in the kitchen.
+(B). in the bathroom.",Where is the milk? 
+345,garden,"Possible answers:
+[i] in the garden.
+[ii] in the library",Where is the football? 
+346,garden,"Options:
+[I] in the house
+[II] in the garden
+[",Where is the football? 
+347,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+348,garden,"Answer:
+
+<context>
+
+The context states that the apple was found in",Where is the apple? 
+349,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the apple? 
+350,bedroom,"Possible answers:
+[A]. in the kitchen.
+[B]. in the garden",Where is the milk? 
+351,office,"Answer: In the garden.
+
+Question: What is the author’s name?",Where is the milk? 
+352,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+353,office,"Answer: It is in the kitchen.
+
+Question: What is the name of the",Where is the milk? 
+354,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+355,hallway,"Answer:
+
+<context>
+
+The answer is:
+
+A. The",Where is the football? 
+356,hallway,"Answer:
+
+<context>
+
+The context is:
+
+""The football",Where is the football? 
+357,office,"Answer:
+
+Available options:
+(A). the church
+(B). the",Where is the milk? 
+358,hallway,"Possible answers:
+[i] in the kitchen.
+[ii] in the garden",Where is the milk? 
+359,hallway,"Possible answers:
+[i] in the kitchen.
+[ii] in the garden",Where is the milk? 
+360,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+361,bedroom,,Where is the football? 
+362,bedroom,"Answer:
+
+Available options:
+(1). in the garden.
+(2",Where is the apple? 
+363,bedroom,"Answer:
+
+Possible answers:
+[A]. The garden.
+[B].",Where is the apple? 
+364,bedroom,"Answer:
+
+Available options:
+(A). in the bathroom.
+(B",Where is the football? 
+365,kitchen,"Answer:
+
+[Illustration]
+
+[Illustration]
+
+[Illust",Where is the apple? 
+366,kitchen,"Answer:
+
+<choices>
+<a id=""choice1""></a>",Where is the apple? 
+367,garden,"Answer:
+
+OPTIONS:
+[A]. The dairy farm.
+[B",Where is the milk? 
+368,bedroom,"Answer:
+
+Available options:
+[i] The apple is in the hallway",Where is the apple? 
+369,bedroom,"Answer:
+
+OPTIONS:
+[A]. in the garden.
+[B",Where is the apple? 
+370,kitchen,"Answer:
+
+Available options:
+[i] Landewednack church",Where is the football? 
+371,kitchen,"OPTIONS:
+[1]. Landewednack.
+[2]. K",Where is the apple? 
+372,kitchen,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the apple? 
+373,kitchen,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the apple? 
+374,hallway,"Possible answers:
+[A]. in the hallway.
+[B]. in the bathroom",Where is the milk? 
+375,kitchen,"Possible answers:
+[A]. in the kitchen.
+[B]. in the living",Where is the milk? 
+376,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+377,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+378,office,Answer:,Where is the apple? 
+379,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+380,bathroom,"Answer:
+
+OPTIONS:
+[i] The football is in the kitchen.",Where is the football? 
+381,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+382,bathroom,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the football? 
+383,bedroom,"OPTIONS:
+[1]. in the kitchen.
+[2]. in the bathroom",Where is the milk? 
+384,bedroom,"Possible answers:
+[A]. in the kitchen.
+[B]. in the bathroom.",Where is the milk? 
+385,bathroom,"Answer:
+
+In the context, ""The milk is in the saddle bags, st",Where is the milk? 
+386,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+387,bathroom,"Answer:
+
+A) In the bathroom.
+
+B) In the kitchen.",Where is the football? 
+388,hallway,"Answer:
+
+<example>
+The apple is in the bathroom.
+</example",Where is the apple? 
+389,hallway,Answer:,Where is the apple? 
+390,hallway,"Answer:
+
+<example>
+The milk was in the milk-house.",Where is the milk? 
+391,garden,Answer:,Where is the milk? 
+392,garden,"Answer:
+
+Available options:
+(1). The kitchen.
+(2).",Where is the milk? 
+393,garden,Answer:,Where is the milk? 
+394,kitchen,"Answer:
+
+Available options:
+[i] The football is in the dressing-",Where is the football? 
+395,bedroom,Answer:,Where is the apple? 
+396,bedroom,"Answer:
+
+Available options:
+[-] in the garden
+[-] in the",Where is the apple? 
+397,bedroom,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where is the apple? 
+398,garden,"Answer:
+
+<context>
+
+A) The first day of the battle",Where is the football? 
+399,garden,"Answer: On the floor.
+
+Question: What is the name of the person who",Where is the football? 
+400,bathroom,"Options:
+[A]. in the lady's left hand
+[B]. in the",Where is the milk? 
+401,bathroom,"Answer:
+
+<context>
+
+<example>
+""I daresay",Where is the milk? 
+402,garden,"Answer:
+
+<context>
+
+The answer is:
+
+A. St",Where is the football? 
+403,garden,"Answer:
+
+OPT:
+[i] the hallway
+[ii] the",Where is the football? 
+404,garden,"OPTIONS:
+[A]. in the garden.
+[B]. in the hall",Where is the football? 
+405,hallway,"Answer:
+
+OPTIONS:
+[i] The football is in the room where",Where is the football? 
+406,bathroom,,Where is the football? 
+407,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+408,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+409,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+410,garden,,Where is the milk? 
+411,garden,,Where is the milk? 
+412,bedroom,"Answer:
+
+pick from the following.
+[A]. in the garden.",Where is the apple? 
+413,bedroom,"Options:
+[I] in the garden.
+[II] in the kitchen.",Where is the apple? 
+414,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+415,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+416,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+417,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+418,hallway,"Answer: Mary went to the bedroom.
+
+Based on this paragraph, is the answer",Where is the apple? 
+419,office,"OPTIONS:
+[A]. in the field;
+[B]. in the house",Where is the football? 
+420,kitchen,Answer:,Where is the apple? 
+421,kitchen,Answer:,Where is the apple? 
+422,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+423,kitchen,"Answer:
+
+<context>
+
+The answer is:
+
+A. The",Where is the apple? 
+424,kitchen,Answer:,Where is the milk? 
+425,bathroom,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the milk? 
+426,bathroom,"Answer:
+
+Available options:
+[i] The milk is in the kitchen.",Where is the milk? 
+427,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+428,kitchen,"Answer:
+
+<context>
+
+Answer:
+
+Answer:
+
+Answer",Where is the milk? 
+429,kitchen,"Answer:
+
+Available options:
+[A]. The kitchen.
+[B].",Where is the milk? 
+430,bedroom,"Answer: Mary went to the office.
+
+Question: What is the football used for",Where is the football? 
+431,bedroom,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where is the football? 
+432,office,"Answer:
+
+Available options:
+[A]. The apple is in the garden.",Where is the apple? 
+433,hallway,"OPTIONS:
+- in the kitchen
+- in the garden
+- in the attic",Where is the apple? 
+434,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+435,kitchen,"Answer:
+
+<context>
+
+The context is:
+
+""The camp",Where is the apple? 
+436,kitchen,"Answer:
+
+Available options:
+[-] Toser
+[-] Ghaf",Where is the football? 
+437,kitchen,"Answer:
+<context>
+The football was in the hallway.
+</context>",Where is the football? 
+438,hallway,,Where is the milk? 
+439,hallway,"Answer:
+
+<context>
+<context.section>
+    <context.paragraph",Where is the milk? 
+440,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+441,hallway,"Answer:
+
+Available options:
+[i] The barn.
+[ii]",Where is the milk? 
+442,hallway,"Answer:
+
+OPTIONS:
+[1]. Tintagel Castle.",Where is the milk? 
+443,garden,Answer:,Where is the apple? 
+444,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+445,hallway,"Answer:
+
+Available options:
+[1]. The boat.
+[2].",Where is the football? 
+446,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+447,hallway,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the football? 
+448,bathroom,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where is the milk? 
+449,kitchen,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the apple? 
+450,garden,"Answer:
+
+Available options:
+[i] The Mooress who was so",Where is the milk? 
+451,hallway,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where is the football? 
+452,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+453,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+454,garden,"Answer:
+
+Available options:
+[i] The milk is in the kitchen.",Where is the milk? 
+455,bedroom,Answer:,Where is the milk? 
+456,bedroom,Answer:,Where is the milk? 
+457,hallway,"Answer:
+
+OPTIONS:
+- at the house of representatives
+- at the",Where is the milk? 
+458,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+459,office,"Answer:
+
+<context>
+<example>
+<example>
+<example",Where is the milk? 
+460,bathroom,"Answer:
+
+In the garden.
+
+In the kitchen.
+
+In the",Where is the apple? 
+461,bathroom,"Possible answers:
+[i] in the garden.
+[ii] in the battery",Where is the apple? 
+462,bathroom,"Answer:
+
+[Illustration]
+
+Question: What is the name of the",Where is the football? 
+463,bedroom,"Answer:
+
+<choices>
+<a id=""choice1""></a>",Where is the football? 
+464,hallway,"Answer:
+
+<choices>
+<a id=""choice1""></a>",Where is the milk? 
+465,garden,"Answer:
+
+OPTIONS:
+[A]. bathroom
+[B]. kitchen",Where is the milk? 
+466,garden,"Answer:
+
+<context>
+The context is:
+
+Daniel went to the",Where is the milk? 
+467,hallway,"Answer:
+
+Available options:
+(A). bathroom
+(B). hallway",Where is the football? 
+468,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+469,hallway,"Available options:
+(i). in the garden.
+(ii). in the bathroom",Where is the football? 
+470,garden,"Answer:
+
+Answer:
+
+Available options:
+1). The football is in",Where is the football? 
+471,garden,"Answer:
+
+<context>
+<context.section>
+    <context.paragraph",Where is the football? 
+472,garden,Answer:,Where is the football? 
+473,garden,"Answer:
+
+OPTIONS:
+- bathroom
+- church
+- garden
+-",Where is the milk? 
+474,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+475,hallway,"Answer:
+
+In the corner of the corner of the corner of the corner of the",Where is the football? 
+476,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+477,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+478,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+479,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+480,office,"Answer:
+
+pick from the following.
+[I] Fez
+[II",Where is the football? 
+481,office,"Answer:
+
+<context>
+
+The football is in the town of Melilla",Where is the football? 
+482,kitchen,"Answer:
+
+OPTIONS:
+[i] The back of the neck.",Where is the football? 
+483,kitchen,"Answer:
+
+<context>
+
+Answer:
+
+Answer:
+
+Answer",Where is the apple? 
+484,kitchen,"Answer:
+
+<context>
+
+A: The apple is in the kitchen.",Where is the apple? 
+485,bedroom,Answer:,Where is the apple? 
+486,bathroom,"Answer: In the bathroom
+
+Did the author travel to the bathroom?
+
+OPT",Where is the football? 
+487,bathroom,"Answer: In the kitchen.
+
+Context:
+
+The author of this text is",Where is the milk? 
+488,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+489,bathroom,Answer:,Where is the football? 
+490,bathroom,"Answer:
+Available options:
+[1]. in the tree.
+[2]. in",Where is the apple? 
+491,bathroom,,Where is the apple? 
+492,office,Answer:,Where is the apple? 
+493,bedroom,Answer:,Where is the apple? 
+494,bedroom,Answer:,Where is the apple? 
+495,office,"Answer:
+
+Available options:
+[1]. The football is in the office.",Where is the football? 
+496,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+497,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+498,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+499,hallway,"Answer:
+
+In the context of the above paragraph, answer the following question.",Where is the milk? 
+500,office,"Answer: _In the garden_.
+
+Question: What is the meaning of the word",Where is the apple? 
+501,office,"Answer:
+
+Available options:
+(1). in the garden.
+(2",Where is the apple? 
+502,garden,"Answer:
+
+Available options:
+(A). Bordentown
+(B).",Where is the milk? 
+503,garden,"Answer:
+
+Available options:
+[1]. New York.
+[2].",Where is the milk? 
+504,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+505,bedroom,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The bathroom",Where is the milk? 
+506,bedroom,"Answer:
+
+Possible answers:
+[1] Benharrow's den
+[",Where is the apple? 
+507,kitchen,"Answer: The football is in the bathroom.
+
+Question: What is the name of",Where is the football? 
+508,kitchen,"Answer: The milk is in the kitchen.
+
+Question: What is the milk for",Where is the milk? 
+509,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+510,office,"Answer:
+
+Available options:
+(A). in the garden.
+(B",Where is the football? 
+511,office,"Possible answers:
+(A). in the pocket of the nurse's jacket.
+(B",Where is the football? 
+512,office,"Answer:
+
+Available options:
+[i] the hallway
+[ii]",Where is the football? 
+513,office,"Options:
+[I] the store
+[II] the house
+[III]",Where is the milk? 
+514,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+515,office,Answer:,Where is the apple? 
+516,office,"Answer:
+
+OPT:
+
+A). The Old Inn.
+B). The",Where is the apple? 
+517,office,"Answer:
+<context>
+<context>
+<context>
+<context>",Where is the apple? 
+518,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+519,bathroom,Answer:,Where is the apple? 
+520,office,Answer:,Where is the apple? 
+521,office,"Answer:
+
+In the context:
+
+""The apple was a fruit that was",Where is the apple? 
+522,office,"Answer:
+
+<context>
+
+<question>
+
+<answer>",Where is the apple? 
+523,hallway,Answer:,Where is the football? 
+524,garden,"Answer:
+
+<choices>
+<a id=""choice1""></a>",Where is the football? 
+525,hallway,"Answer:
+
+The football is a part of the building itself.
+
+Student:",Where is the football? 
+526,hallway,Answer:,Where is the milk? 
+527,garden,"Answer: In the kitchen.
+
+Based on this passage, what is the milk used",Where is the milk? 
+528,office,"Answer:
+
+Available options:
+[A]. The Queen's room.
+[B",Where is the apple? 
+529,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+530,bedroom,"Answer:
+
+Available options:
+[i] in the house
+[ii]",Where is the football? 
+531,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+532,hallway,"Answer:
+
+Available options:
+[i] the box where the letters were kept",Where is the football? 
+533,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+534,hallway,"Answer:
+
+Available options:
+[i] The bathroom.
+[ii]",Where is the milk? 
+535,kitchen,Answer:,Where is the apple? 
+536,kitchen,Answer:,Where is the apple? 
+537,kitchen,"Answer:
+
+<context>
+
+The answer is:
+
+A. The",Where is the milk? 
+538,kitchen,"Answer:
+
+OPT:
+[i] The garden.
+[ii] The",Where is the milk? 
+539,garden,"Answer:
+
+Available options:
+[i] in the trunk-room
+[",Where is the football? 
+540,office,"Answer:
+
+Available options:
+[i] The football is in the back of",Where is the football? 
+541,office,"Answer:
+
+Available options:
+[-] the field next to the house
+[-",Where is the football? 
+542,garden,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where is the milk? 
+543,bathroom,,Where is the apple? 
+544,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+545,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+546,bathroom,"Possible answers:
+[A]. in the bathroom.
+[B]. in the kitchen.",Where is the milk? 
+547,bathroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the milk? 
+548,bathroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the milk? 
+549,hallway,"Answer:
+
+OPTIONS:
+[i] in the park
+[ii]",Where is the football? 
+550,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+551,bathroom,"Answer:
+
+<context>
+The context is: ""We have been talking about",Where is the football? 
+552,hallway,Answer:,Where is the apple? 
+553,hallway,Answer:,Where is the apple? 
+554,bathroom,Answer:,Where is the milk? 
+555,garden,"Answer: The milk is in the church.
+
+Context:
+
+<example>",Where is the milk? 
+556,office,"Options:
+[A]. in the kitchen
+[B]. in the garden
+[",Where is the milk? 
+557,office,"Possible answers:
+[A]. Mary went back to the kitchen.
+[B].",Where is the milk? 
+558,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+559,office,"Answer:
+
+OPTIONS:
+[i] The first volume of Yorick’",Where is the apple? 
+560,bedroom,Answer:,Where is the milk? 
+561,bathroom,"Answer:
+
+The apple is in the balcony.
+
+Question: What is the",Where is the apple? 
+562,bathroom,Answer:,Where is the apple? 
+563,bathroom,Answer:,Where is the apple? 
+564,garden,"Answer:
+<a href=""https://en.wikipedia.org/wiki/Ch",Where is the football? 
+565,office,"Answer:
+
+Available options:
+[1]. Mexico
+[2]. Yucatan",Where is the football? 
+566,bedroom,Answer:,Where is the milk? 
+567,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+568,office,,Where is the apple? 
+569,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+570,bedroom,"Answer:
+
+<context>
+
+<example>
+
+<example>",Where is the milk? 
+571,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+572,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+573,office,"Answer:
+
+In the kitchen.
+
+Question: Who is the man with the",Where is the milk? 
+574,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+575,bathroom,"Options:
+[I] in the kitchen.
+[II] in the dining-",Where is the milk? 
+576,bedroom,"Answer:
+
+OPTIONS:
+[-] The general's office.
+[-]",Where is the milk? 
+577,bathroom,"Possible answers:
+[A]. in the kitchen.
+[B]. in the bathroom.",Where is the milk? 
+578,bathroom,"Answer:
+<DW19>s the milky way?
+
+pick from",Where is the milk? 
+579,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+580,hallway,"Possible answers:
+(A). in the hallway.
+(B). in the woods",Where is the football? 
+581,office,"Answer: The football was moved to the hallway.
+
+Context: The football was",Where is the football? 
+582,office,"Answer: The football is in the garden.
+
+Question: What is the name of",Where is the football? 
+583,garden,"Answer: The milk is in the kitchen.
+
+Question: What is the amount of",Where is the milk? 
+584,garden,"Answer: 
+Available options:
+[i] The major's house.
+[",Where is the milk? 
+585,garden,"Answer:
+
+Available options:
+[i] The spring.
+[ii]",Where is the milk? 
+586,garden,"Answer:
+
+<context>
+<example>
+Pardon, O, Bl",Where is the milk? 
+587,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+588,garden,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the milk? 
+589,garden,"Answer:
+
+<choices> <a href=""/answer"">A</a>",Where is the milk? 
+590,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+591,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+592,bedroom,"Answer:
+
+Available options:
+[i] The apple is in the kitchen.",Where is the apple? 
+593,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+594,bedroom,"Answer:
+
+<context>
+<question>
+What is the name of the",Where is the apple? 
+595,hallway,Answer:,Where is the milk? 
+596,hallway,"Answer:
+
+OPTIONS:
+[A]. in the kitchen.
+[B",Where is the milk? 
+597,hallway,"Answer:
+
+In the context of the above paragraph, answer the following question.",Where is the milk? 
+598,kitchen,"Answer:
+
+Available options:
+[i] The bathroom.
+[ii]",Where is the football? 
+599,garden,"Answer:
+
+Explanation:",Where is the apple? 
+600,kitchen,Answer: In the pocket of the man who carried the portfire-lighter.,Where is the apple? 
+601,kitchen,"Answer:
+
+Available options:
+[A]. in the kitchen.
+[B",Where is the apple? 
+602,hallway,Answer:,Where is the football? 
+603,garden,"Answer: The apple is in the cellar.
+
+Question: Where is the apple",Where is the apple? 
+604,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the football? 
+605,bedroom,"Answer:
+
+Available options:
+[i] Lester's room.
+[",Where is the football? 
+606,bedroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the milk? 
+607,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+608,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+609,hallway,"Answer: In the garden.
+
+Question: What is the apple for?",Where is the apple? 
+610,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+611,garden,"Answer:
+
+Available options:
+[i] The apple is in the attic.",Where is the apple? 
+612,garden,"Answer:
+
+<context>
+""Eli,"" he said, ""I am",Where is the apple? 
+613,garden,"Answer:
+
+OPT:
+[i] The house.
+[ii] The",Where is the apple? 
+614,garden,"Answer:
+
+<context>
+
+The context states that the apple was found in",Where is the apple? 
+615,garden,"Answer:
+
+<context>
+_Reg._                Ah, my best Attilia",Where is the apple? 
+616,hallway,"Answer:
+
+<context>
+_At._ (_speaking as she enters._)",Where is the apple? 
+617,hallway,"Answer:
+
+<context>
+_Reg._                _Man._
+
+</",Where is the apple? 
+618,garden,"Answer:
+The answer is:",Where is the football? 
+619,kitchen,Answer:,Where is the milk? 
+620,bedroom,"Answer:
+
+Available options:
+[i] in the hallway.
+[",Where is the football? 
+621,bedroom,"Answer:
+
+Available options:
+[i] the green man's house
+[",Where is the football? 
+622,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+623,bathroom,"Options:
+[A]. in the attic of the house.
+[B]. in",Where is the apple? 
+624,garden,Answer:,Where is the apple? 
+625,kitchen,"Answer:
+
+Available options:
+[i] New Rochelle
+[ii",Where is the football? 
+626,kitchen,"Answer:
+A) in the bed room
+B) in the kitchen
+C) in",Where is the football? 
+627,kitchen,"Answer:
+
+<context>
+
+The context is:
+
+Passage:",Where is the milk? 
+628,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+629,bathroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the milk? 
+630,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+631,kitchen,"Answer:
+
+<context>
+Sandra moved to the bathroom. Amblewan",Where is the apple? 
+632,kitchen,"Answer:
+
+<context>
+The apple is in the hallway.
+</",Where is the apple? 
+633,kitchen,Answer:,Where is the apple? 
+634,office,Answer:,Where is the milk? 
+635,garden,"Answer:
+
+Available options:
+[i] the table
+[ii] the",Where is the football? 
+636,garden,"Answer:
+
+Available options:
+[i] The football is in the kitchen.",Where is the football? 
+637,garden,"Answer:
+
+Available options:
+[1]. in the kitchen.
+[2",Where is the milk? 
+638,garden,"Answer:
+
+In the context, ""In the context, ""In the context,",Where is the milk? 
+639,garden,"Answer:
+
+Available options:
+[-] The garden.
+[-] The bathroom",Where is the milk? 
+640,office,"Answer:
+
+In the first sentence of the passage, the milk is said to be",Where is the milk? 
+641,office,"Answer:
+
+OPT:
+[i] The orchard.
+[ii] The",Where is the apple? 
+642,bathroom,"Answer:
+
+Possible answers:
+[i] The kitchen.
+[ii]",Where is the milk? 
+643,bathroom,"Answer:
+
+OPT:
+[i] The hotel.
+[ii] The",Where is the milk? 
+644,office,"Possible answers:
+[i] in the garden.
+[ii] in the attic.",Where is the apple? 
+645,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+646,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+647,office,"Answer:
+
+In the kitchen.
+
+Question: What is the milk for?",Where is the milk? 
+648,garden,"Answer:
+
+<context>
+
+The context states: ""We went to a",Where is the football? 
+649,garden,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where is the football? 
+650,office,Answer:,Where is the apple? 
+651,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+652,garden,"Answer:
+
+OPT:
+[A]. The matron's house.
+[",Where is the football? 
+653,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+654,garden,"Answer:
+
+<context>
+<context.section>
+<context.line",Where is the football? 
+655,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+656,garden,"Answer:
+<context>
+<context>
+<context>
+<context>",Where is the apple? 
+657,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+658,garden,"Answer:
+
+OPTIONS:
+[A]. in the attic.
+[B",Where is the apple? 
+659,garden,Answer:,Where is the apple? 
+660,office,"Answer: The football is in the bathroom.
+
+Question: What is the name of",Where is the football? 
+661,office,"Answer:
+
+The football is in the hallway.
+
+Is the answer correct",Where is the football? 
+662,hallway,"Answer:
+
+<context>
+
+The apple is in the bathroom.
+</",Where is the apple? 
+663,hallway,"Answer:
+
+<context>
+
+The answer is:
+
+A. The",Where is the apple? 
+664,hallway,"Answer:
+
+Choose from:
+[1]. The hospital.
+[2].",Where is the apple? 
+665,kitchen,"Answer:
+
+OPT:
+[i] the kitchen.
+[ii] the",Where is the apple? 
+666,garden,"OPTIONS:
+- in the kitchen
+- in the verandah
+- in",Where is the football? 
+667,garden,"OPTIONS:
+[1]. In the kitchen.
+[2]. In the garden",Where is the milk? 
+668,hallway,"OPTIONS:
+[a]. in the kitchen.
+[b]. in the attic",Where is the apple? 
+669,hallway,"Answer:
+
+OPT:
+[i] The parsonage drive.
+[",Where is the apple? 
+670,bathroom,"Answer:
+
+<context>
+The football was dropped by Mary.
+</context",Where is the football? 
+671,bathroom,Answer:,Where is the football? 
+672,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+673,bathroom,Answer:,Where is the milk? 
+674,bathroom,Answer:,Where is the milk? 
+675,garden,"Answer:
+
+Available options:
+[1]. The football is in the roof.",Where is the football? 
+676,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+677,garden,Answer:,Where is the football? 
+678,bathroom,Answer:,Where is the milk? 
+679,bathroom,Answer:,Where is the milk? 
+680,bedroom,"Answer:
+
+<choices> <a href=""/q/1"">London</",Where is the milk? 
+681,bedroom,Answer:,Where is the football? 
+682,bedroom,"<context>
+
+Answer: The milk is in the stomach.
+</context>",Where is the milk? 
+683,bathroom,"Answer:
+
+<example>
+The football was in the stomach.
+</example",Where is the football? 
+684,office,"Answer:
+
+Choose your answer from:
+(a). in the hallway.",Where is the football? 
+685,kitchen,"Answer:
+
+Choose your answer from:
+[A]. The kitchen.
+[",Where is the apple? 
+686,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+687,garden,"OPTIONS:
+[A]. in the kitchen.
+[B]. in the garden",Where is the football? 
+688,bathroom,"Answer:
+
+OPTIONS:
+- Morocco
+- Tangier
+- Taf",Where is the football? 
+689,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+690,bedroom,Answer:,Where is the apple? 
+691,bedroom,"Answer:
+<context>
+<context>
+<context>
+<context>",Where is the apple? 
+692,bedroom,Answer:,Where is the apple? 
+693,office,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the milk? 
+694,office,"Answer:
+
+Choose your answer from:
+[A]. The pantry.
+[",Where is the milk? 
+695,bathroom,"Answer:
+
+<solution>
+
+The answer is: apple
+
+<reason",Where is the apple? 
+696,bathroom,"Answer: In the bathroom.
+
+Did the man answer the question correctly?",Where is the apple? 
+697,kitchen,"Answer: In the bathroom.
+
+Context: The author is comparing his own work with",Where is the football? 
+698,kitchen,Answer:,Where is the football? 
+699,garden,"Answer:
+A) In the bedroom
+B) In the bathroom
+C) In the",Where is the football? 
+700,bathroom,"Answer:
+
+Available options:
+[1]. The Good Hope.
+[2",Where is the milk? 
+701,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+702,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+703,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+704,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the apple? 
+705,bedroom,"Answer:
+
+Possible answers:
+[i] in the corridor
+[ii]",Where is the football? 
+706,bedroom,"Possible answers:
+ (A). in the machine
+ (B). in the garden",Where is the football? 
+707,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+708,bedroom,Answer:,Where is the football? 
+709,bedroom,"Answer:
+
+<context>
+
+""The football was in the kitchen.""",Where is the football? 
+710,garden,Answer:,Where is the milk? 
+711,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+712,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+713,garden,"Answer: In the garden.
+
+Question: Who got the football there?",Where is the apple? 
+714,garden,"Answer:
+
+Available options:
+(A). The milk is in the kitchen.",Where is the milk? 
+715,office,"Answer:
+
+Available options:
+(A). The kitchen.
+(B).",Where is the milk? 
+716,office,"Answer:
+
+<context>
+
+Question: What was the first line of on",Where is the milk? 
+717,kitchen,"Answer:
+
+<context>
+
+Question: What is the context of the question",Where is the football? 
+718,kitchen,"Answer:
+
+<context>
+<context.section>
+    <context.line",Where is the football? 
+719,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the milk? 
+720,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+721,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+722,bedroom,"Answer:
+
+Available options:
+[i] No option is correct.
+[",Where is the football? 
+723,hallway,"Answer:
+
+Available options:
+[i] the boat
+[ii] the",Where is the football? 
+724,office,"Answer:
+
+Available options:
+[i] The ball is in the hand of",Where is the football? 
+725,office,"Answer:
+
+Available options:
+[i] The boys are in the kitchen.",Where is the football? 
+726,office,"Answer:
+
+<context>
+<context.section>
+<context.section",Where is the football? 
+727,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+728,kitchen,"OPTIONS:
+[a]. in the kitchen.
+[b]. in the garden",Where is the apple? 
+729,kitchen,"Answer: In the garden.
+
+Question: What is the football called?",Where is the football? 
+730,bedroom,"Answer: In the barnane mountains near Templemore, Ireland.
+
+Question: What",Where is the milk? 
+731,bathroom,"Answer: _The kitchen._
+
+Question: What is the name of the person who",Where is the apple? 
+732,bathroom,"Answer:
+
+<context>
+The context is: ""The football was in the",Where is the football? 
+733,bathroom,"Answer:
+
+<context>
+
+The context states: ""The milk was in",Where is the milk? 
+734,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+735,bathroom,"Answer:
+<context>
+
+<context>
+
+Answer:
+
+<",Where is the milk? 
+736,bathroom,"Answer:
+
+<context>
+The context is: Mary went to the bathroom.",Where is the football? 
+737,bathroom,"Answer:
+
+<context>
+
+The context says: ""The milk was poured",Where is the milk? 
+738,bathroom,"Answer:
+
+In the kitchen
+
+In the bathroom
+
+In the hallway",Where is the milk? 
+739,bathroom,"Answer:
+
+<context>
+
+|The milk was in the kitchen.",Where is the milk? 
+740,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+741,garden,Answer:,Where is the apple? 
+742,bedroom,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where is the football? 
+743,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+744,bathroom,"Answer:
+
+<context>
+<DW72>
+<DW",Where is the football? 
+745,hallway,"Answer:
+
+Available options:
+[i] the dairy
+[ii] the",Where is the milk? 
+746,hallway,"Answer: In the pantry.
+
+Question: What is the name of the person who",Where is the milk? 
+747,hallway,"Answer:
+
+OPT:
+[A]. In the kitchen.
+[B].",Where is the milk? 
+748,kitchen,"Answer:
+<context>
+
+<context>
+
+<context>",Where is the football? 
+749,hallway,"Answer:
+
+Available options:
+[-] the garden
+[-] the house",Where is the milk? 
+750,office,"Answer:
+
+<context>
+_Football_ is a sport played with a",Where is the football? 
+751,hallway,"Answer:
+
+Available options:
+[A]. in the football.
+[B",Where is the football? 
+752,garden,Answer:,Where is the football? 
+753,garden,"Answer:
+
+Choose your answer from:
+[A]. in the hallway.",Where is the football? 
+754,garden,Answer:,Where is the football? 
+755,kitchen,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where is the apple? 
+756,kitchen,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the apple? 
+757,bedroom,"Answer:
+
+<context>
+
+<example>
+
+<DW3",Where is the football? 
+758,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+759,bedroom,"Answer:
+
+In the bedroom.
+
+Question: What is the difference between the",Where is the football? 
+760,kitchen,"Answer:
+
+In the Bible
+
+In the Bible
+
+In the Bible",Where is the apple? 
+761,office,"Answer:
+
+Available options:
+[i] Binoto's hostelry.",Where is the milk? 
+762,office,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where is the milk? 
+763,kitchen,"Answer: _The apple is in the hand._
+
+Based on this passage, where",Where is the apple? 
+764,bathroom,"Possible answers:
+[A]. in the garden.
+[B]. in the kitchen",Where is the apple? 
+765,kitchen,"Answer: In the soup.
+
+Who is the father of the woman who is in",Where is the milk? 
+766,kitchen,"Answer:
+
+<context>
+The answer is: The milk was in the mill",Where is the milk? 
+767,bathroom,"Answer:
+
+Choose from the following.
+[I] The house of the pastor",Where is the apple? 
+768,bathroom,Answer:,Where is the apple? 
+769,kitchen,,Where is the milk? 
+770,garden,Answer:,Where is the football? 
+771,garden,"Answer:
+
+Available options:
+[i] The football is in the garden.",Where is the football? 
+772,garden,"Answer:
+
+In the garden.
+
+Question: What is the name of the",Where is the football? 
+773,garden,"Answer:
+
+<choices>
+ (A). The kitchen.
+ (B).",Where is the football? 
+774,garden,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+775,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+776,office,Answer:,Where is the football? 
+777,bathroom,,Where is the apple? 
+778,office,"OPTIONS:
+[a]. in the North country.
+[b]. in the",Where is the football? 
+779,office,"Possible answers:
+[i] in the tent
+[ii] in the garden
+[",Where is the apple? 
+780,bathroom,"Answer:
+
+Available options:
+[i] Palace of the Temple
+[ii",Where is the apple? 
+781,garden,"Answer:
+
+Available options:
+[A]. The King's room.
+[",Where is the milk? 
+782,bathroom,Answer:,Where is the apple? 
+783,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+784,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+785,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+786,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+787,hallway,"Answer:
+
+Available options:
+[i] Simiti
+[ii] The",Where is the apple? 
+788,bathroom,"Answer:
+
+Available options:
+[i] The bathroom.
+[ii]",Where is the milk? 
+789,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+790,bedroom,"Answer:
+
+Choose your answer from:
+[A]. Chattanooga.",Where is the football? 
+791,bedroom,"pick from the following.
+[A]. near the river crossing.
+[B].",Where is the football? 
+792,bathroom,Answer:,Where is the apple? 
+793,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+794,office,"Answer: _The milk is in the house._
+
+Question: Who is the host",Where is the milk? 
+795,hallway,Answer:,Where is the apple? 
+796,office,"Answer:
+
+<DW53>
+
+<DW53>",Where is the football? 
+797,hallway,"Answer:
+
+Available options:
+[i] the forest
+[ii] the",Where is the football? 
+798,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+799,hallway,"Possible answers:
+[A]. in the yard
+[B]. in the house
+[",Where is the football? 
+800,office,"OPTIONS:
+[a]. in the kitchen.
+[b]. in the garden",Where is the apple? 
+801,office,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is the apple? 
+802,kitchen,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where is the apple? 
+803,kitchen,"Answer:
+
+<choices> <a href=""/q/1"">A</",Where is the milk? 
+804,kitchen,"Answer: In the kitchen.
+
+Question: What is the name of the person who",Where is the milk? 
+805,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+806,garden,Answer:,Where is the apple? 
+807,office,"Answer:
+
+OPTIONS:
+- in the garden
+- in the kitchen",Where is the apple? 
+808,office,"Answer:
+
+<context>
+
+The answer to this question is:",Where is the apple? 
+809,office,"Answer:
+
+<context>
+The answer is:
+
+A. The garden",Where is the apple? 
+810,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+811,hallway,"Answer:
+
+Available options:
+[i] the Rue de Rivoli",Where is the football? 
+812,hallway,"Answer:
+
+OPTIONS:
+[1]. El-Kesar
+[2",Where is the football? 
+813,hallway,Answer:,Where is the football? 
+814,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+815,garden,"Answer:
+
+<context>
+<query>
+<id>15_",Where is the apple? 
+816,garden,"Answer: The apple is in the garden.
+
+Who is the author of the poem",Where is the apple? 
+817,office,"Answer: Bathroom
+
+Question: What is the name of the person who is crying",Where is the milk? 
+818,garden,Answer:,Where is the milk? 
+819,garden,Answer:,Where is the apple? 
+820,office,"Answer:
+
+In the
+
+<context>
+
+<context>",Where is the football? 
+821,office,"Answer:
+
+Choose your answer from:
+[A]. The Deanery.",Where is the football? 
+822,bedroom,"Answer:
+
+Possible answers:
+[A]. The orchard.
+[B].",Where is the apple? 
+823,bedroom,"Answer:
+
+<context>
+
+The answer is:
+
+A. The",Where is the apple? 
+824,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+825,office,"Answer: The milk is in the kitchen.
+
+Context:
+
+The milk was",Where is the milk? 
+826,office,"Answer: The milk is in the bones.
+
+Question: Where is the milk?",Where is the milk? 
+827,kitchen,Answer:,Where is the apple? 
+828,kitchen,"Answer:
+
+<i>The apple is in the kitchen.</i>",Where is the apple? 
+829,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+830,hallway,"Answer: The football is in the church.
+
+Question: Who is the football?",Where is the football? 
+831,garden,"Answer: The milk is in the kitchen.
+
+Question: Where is the milk?",Where is the milk? 
+832,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+833,bedroom,"Answer:
+
+<choices>
+<a id=""choice-1""></a",Where is the football? 
+834,bedroom,"Answer:
+
+Possible answers:
+[1]. The football is in the kitchen.",Where is the football? 
+835,garden,"Answer:
+
+In the garden.
+
+Question: Who is the scoundrel",Where is the milk? 
+836,garden,"Possible answers:
+[i] in the kitchen.
+[ii] in the garden",Where is the milk? 
+837,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+838,kitchen,"Answer:
+<context>
+<context>
+<context>
+<context>",Where is the football? 
+839,bathroom,"Answer:
+
+A) The kitchen
+B) The hallway
+C) The",Where is the football? 
+840,bedroom,"Answer:
+
+In the context of the above paragraph, answer the following question.",Where is the milk? 
+841,bedroom,"Answer:
+
+Question: What is the name of the person who is not sure about",Where is the football? 
+842,bedroom,"Answer:
+
+OPT:
+[i] The football is in the dining room.",Where is the football? 
+843,office,Answer:,Where is the apple? 
+844,office,"Answer:
+
+<choices>
+[a]. in the garden.
+[b",Where is the apple? 
+845,office,"Possible answers:
+[A]. in the hand of the good bear.
+[B].",Where is the football? 
+846,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+847,kitchen,Answer:,Where is the apple? 
+848,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+849,bedroom,"Answer:
+
+<context>
+""The milk was left on the table.",Where is the milk? 
+850,kitchen,"Answer:
+
+Available options:
+(A). on the left side of the field",Where is the football? 
+851,bathroom,Answer:,Where is the football? 
+852,office,"Answer:
+
+OPTIONS:
+[A]. St. Paul;
+[B",Where is the football? 
+853,office,Answer:,Where is the football? 
+854,bedroom,Answer:,Where is the football? 
+855,kitchen,"Answer:
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+856,office,"Answer: In the bedroom.
+
+Question: What is the instrument called?",Where is the apple? 
+857,hallway,"Answer: The apple is in the kitchen.
+
+Based on this paragraph, answer the",Where is the apple? 
+858,bedroom,,Where is the football? 
+859,bedroom,"Answer:
+
+<context>
+The answer is:",Where is the apple? 
+860,bathroom,"Answer: The milk is in the abyss.
+
+A: The answer is: The",Where is the milk? 
+861,hallway,"Answer:
+
+Available options:
+[i] the milk is in the kitchen.",Where is the milk? 
+862,hallway,"Answer:
+
+[Illustration]
+
+[Illustration]
+
+[Illust",Where is the milk? 
+863,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+864,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the milk? 
+865,hallway,"Answer:
+
+Available options:
+[i] the house
+[ii] the",Where is the football? 
+866,hallway,"Answer:
+
+Available options:
+(A). in the house.
+(B",Where is the football? 
+867,hallway,"Answer:
+Available options:
+[i] in the orchard
+[ii] in the",Where is the football? 
+868,bathroom,"Answer: In the office.
+
+Question: What is the football in the office called",Where is the football? 
+869,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+870,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+871,garden,"Answer:
+
+Available options:
+[1]. in the room next to the bed",Where is the football? 
+872,garden,"Answer:
+
+Available options:
+[1]. in the kitchen.
+[2",Where is the football? 
+873,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+874,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+875,garden,"Answer: In the hallway.
+
+Question: What is the name of the man",Where is the football? 
+876,bathroom,"Answer:
+
+<example>
+The football is in the hallway.
+</",Where is the football? 
+877,office,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the milk? 
+878,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+879,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+880,office,Answer:,Where is the apple? 
+881,office,"Answer:
+
+<context>
+<context.section>
+<context.section",Where is the apple? 
+882,kitchen,"OPTIONS:
+[A]. in the garden.
+[B]. in the drawing",Where is the football? 
+883,bathroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the milk? 
+884,bathroom,"OPTIONS:
+[a]. in the kitchen.
+[b]. in the garden",Where is the apple? 
+885,bedroom,"Answer:
+
+Available options:
+[i] the cow
+[ii] the",Where is the milk? 
+886,bedroom,"Possible answers:
+(A). in the kitchen.
+(B). in the pantry.",Where is the milk? 
+887,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+888,bedroom,"Answer:
+
+Available options:
+(i). in the kitchen.
+(ii",Where is the milk? 
+889,bedroom,"Answer:
+
+In the spring of 1859, the Halls occupied",Where is the apple? 
+890,hallway,"Answer:
+
+Available options:
+[i] The house on I Street north of",Where is the milk? 
+891,hallway,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the apple? 
+892,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+893,hallway,"Answer:
+
+In the kitchen
+
+In the bathroom
+
+In the hallway",Where is the milk? 
+894,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+895,garden,"Answer:
+
+In the church of the Apostles
+
+Question: What is the name",Where is the milk? 
+896,garden,Answer: It was sent to the person who had sent the money in advance.,Where is the milk? 
+897,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+898,garden,,Where is the milk? 
+899,garden,"Answer:
+
+OPT:
+[i] The kitchen.
+[ii] The garden",Where is the milk? 
+900,bedroom,"Answer:
+
+<context>
+<example>
+    The milk was in the kitchen",Where is the milk? 
+901,bedroom,"Answer:
+
+<context>
+
+The milk is in the dairy.",Where is the milk? 
+902,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+903,bedroom,"Answer:
+
+<DW52>
+
+<DW65>",Where is the milk? 
+904,bedroom,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the milk? 
+905,hallway,"Answer:
+
+<context>
+""The apple is in the kitchen.""
+</",Where is the apple? 
+906,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+907,kitchen,"Answer:
+
+Available options:
+[i] The Colfax house.
+[",Where is the football? 
+908,hallway,"Answer:
+
+Available options:
+[i] The apple is in the kitchen.",Where is the apple? 
+909,garden,"Possible answers:
+[A]. in the kitchen.
+[B]. in the garden.",Where is the football? 
+910,office,"OPTIONS:
+[A]. in the kitchen.
+[B]. in the garden",Where is the milk? 
+911,office,"Answer:
+
+<context>
+
+<example>
+""So the Ladys",Where is the milk? 
+912,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+913,bathroom,"Answer:
+
+Available options:
+(1). The football is in the bedroom.",Where is the football? 
+914,garden,"Answer:
+
+Available options:
+[i] The doctor is in the kitchen.",Where is the apple? 
+915,hallway,"Answer:
+
+Available options:
+(A). the house
+(B). the",Where is the apple? 
+916,hallway,"Answer:
+
+<a href=""https://en.wikipedia.org/wiki/",Where is the milk? 
+917,hallway,"Answer:
+
+<context>
+The context is: Daniel got the apple there.",Where is the apple? 
+918,hallway,"Answer:
+
+<context>
+<context.section>
+<context.paragraph",Where is the football? 
+919,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+920,kitchen,"Answer:
+<i>The trailer was left outside the kitchen.</i>",Where is the milk? 
+921,kitchen,"Answer:
+
+<context>
+
+The answer is:
+
+A. The",Where is the milk? 
+922,bathroom,"Answer:
+
+<context>
+<example>
+<example>
+<example",Where is the milk? 
+923,bathroom,"Answer:
+
+Available options:
+[1]. in the kitchen.
+[2",Where is the milk? 
+924,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+925,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+926,bedroom,"Answer:
+
+<context>
+
+Answer:
+
+Answer:
+
+Answer",Where is the football? 
+927,garden,"Possible Answers:
+[A]. in the tree.
+[B]. in the bushes",Where is the apple? 
+928,garden,"Answer:
+
+Available options:
+[i] The tree
+[ii] The",Where is the apple? 
+929,garden,"OPTIONS:
+[A]. in the garden.
+[B]. in the kitchen",Where is the milk? 
+930,hallway,"Answer:
+
+<solution>
+
+The answer is: The milk is in the",Where is the milk? 
+931,hallway,Answer:,Where is the milk? 
+932,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+933,bedroom,"Answer:
+
+Available options:
+[i] the kitchen.
+[ii]",Where is the apple? 
+934,garden,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the milk? 
+935,garden,"Answer:
+
+Available options:
+(A). in the house of her father.",Where is the apple? 
+936,garden,"Answer: In the garden.
+
+Question: Where is the apple?
+
+Answer",Where is the apple? 
+937,garden,"Answer:
+
+Available options:
+(A). in the manger
+(B",Where is the apple? 
+938,bathroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+939,hallway,"Answer:
+
+<context>
+
+A) The garden
+B) The hall",Where is the football? 
+940,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+941,bedroom,"Answer:
+
+Available options:
+(i). in the kitchen.
+(ii",Where is the apple? 
+942,office,"Answer:
+<context>
+
+<context>
+
+<context>",Where is the football? 
+943,office,"OPTIONS:
+[a]. in the kitchen.
+[b]. in the garden",Where is the football? 
+944,office,"Answer:
+
+Available options:
+(1). in the kitchen.
+(2",Where is the apple? 
+945,bedroom,Answer:,Where is the apple? 
+946,bedroom,"Answer:
+
+OPTIONS:
+- in the kitchen
+- in the bathroom",Where is the apple? 
+947,kitchen,"Answer:
+
+<context>
+The milk is in the hallway.
+</",Where is the milk? 
+948,garden,"Answer:
+
+OPTIONS:
+[A]. St Charles.
+[B].",Where is the football? 
+949,bathroom,"Answer:
+<context>
+The context is:
+
+The check administered to Colonel",Where is the football? 
+950,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+951,hallway,"Answer:
+
+<choices>
+[a]. in the corner of the room.",Where is the football? 
+952,hallway,"Answer:
+
+<context>
+<context.section>
+    <context.paragraph",Where is the football? 
+953,garden,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is the milk? 
+954,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+955,bedroom,"Answer:
+
+Available options:
+(A). Northumberland
+(B). Hampton",Where is the football? 
+956,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+957,bedroom,"Answer:
+<context>
+<context>
+<context>
+<context>",Where is the football? 
+958,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+959,bedroom,"Answer:
+
+Available options:
+[i] The office.
+[ii]",Where is the football? 
+960,hallway,"Answer:
+
+Available options:
+1). in the kitchen.
+2). in",Where is the milk? 
+961,hallway,"Answer:
+
+<context>
+<example>
+<example>
+<example",Where is the football? 
+962,hallway,Answer:,Where is the milk? 
+963,hallway,"Answer:
+
+<context>
+<context.section>
+    <context.paragraph",Where is the apple? 
+964,hallway,"Answer:
+
+<context>
+
+The context says: ""John moved to the",Where is the milk? 
+965,hallway,"Answer: The football was picked up by Mary.
+
+Based on the paragraph, is",Where is the football? 
+966,kitchen,"Answer:
+
+<context>
+<example>
+<DW36>",Where is the milk? 
+967,kitchen,"Answer:
+
+Available options:
+[1]. The milk was taken away from the",Where is the milk? 
+968,bedroom,"Answer:
+
+Available options:
+(A). in the hallway.
+(",Where is the football? 
+969,bedroom,"Answer:
+
+<context>
+<context>
+<context>
+<context",Where is the football? 
+970,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+971,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+972,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the apple? 
+973,kitchen,"Answer:
+
+Available options:
+[i] in the kitchen.
+[ii",Where is the apple? 
+974,office,"Answer:
+
+Available options:
+(A). in the kitchen.
+(B",Where is the apple? 
+975,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+976,garden,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+977,kitchen,"Answer:
+
+Available options:
+[i] The kitchen.
+[ii]",Where is the football? 
+978,bathroom,"Answer:
+
+Available options:
+[i] the kitchen
+[ii] the",Where is the milk? 
+979,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+980,hallway,"Answer: In the hallway.
+
+[3]  The ""Greater Sacra",Where is the apple? 
+981,office,"Answer: The football is in the hallway.
+
+Question: What is the name",Where is the football? 
+982,hallway,"Answer:
+
+<context>
+<question>In the context of the following, what",Where is the apple? 
+983,bedroom,"Answer:
+
+Available options:
+[i] bedroom
+[ii] kitchen",Where is the apple? 
+984,bedroom,"Answer:
+
+Available options:
+[i] bedroom
+[ii] hallway",Where is the apple? 
+985,kitchen,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
+986,kitchen,"Answer:
+
+OPT:
+[i] Macerata
+[ii] Rome",Where is the football? 
+987,bathroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+988,bedroom,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+989,garden,"Answer:
+
+Available options:
+[A]. The milk is in the kitchen.",Where is the milk? 
+990,garden,"Answer: The milk is in the office.
+
+Question: What is the cost of",Where is the milk? 
+991,garden,"Answer:
+
+Available options:
+[i] The milk is in the garden.",Where is the milk? 
+992,office,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the milk? 
+993,office,"Answer: The milk is in the hallway.
+
+Question: Who is the first",Where is the milk? 
+994,bedroom,"Answer:
+
+In the bedroom.
+
+Who moved to the bedroom?",Where is the milk? 
+995,kitchen,"Answer:
+
+pick from the following.
+[A]. in the kitchen.",Where is the apple? 
+996,kitchen,"Possible answers:
+[i] in the back seat of the car.
+[ii]",Where is the apple? 
+997,hallway,Answer:,Where is the apple? 
+998,hallway,"Answer:
+
+<context>
+
+<context>
+
+<context>",Where is the football? 
